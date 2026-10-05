@@ -9,7 +9,7 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T17:42:06.873Z",
+  "lastChangedOn": "2026-10-05T17:50:22.933Z",
   "lastChangedBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
@@ -871,7 +871,19 @@
             {
               "id": "71",
               "guid": "ff57ca64-e93f-452f-bb8a-cfa87e5618ba",
-              "text": "<p><em>&lt;graphs&gt;</em></p>"
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><em>&lt;graphs&gt;</em></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:50:22.933Z"
+                }
+              ]
             }
           ]
         }
