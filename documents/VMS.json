@@ -2,20 +2,873 @@
   "id": "VMS",
   "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 0,
+  "lastId": 88,
   "createdOn": "2026-10-05T16:55:50.854Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T16:55:50.854Z",
+  "lastChangedOn": "2026-10-05T17:09:21.261Z",
   "lastChangedBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "9d14bce4-1908-4d95-b622-c9cdfa479e36",
+      "text": "<p>Vision and Scope Document</p>"
+    },
+    {
+      "id": "2",
+      "guid": "d2f96e53-992c-4a71-b926-c9dc58864833",
+      "text": "<p><span>for</span></p>"
+    },
+    {
+      "id": "3",
+      "guid": "06e88959-2810-4b4d-8c67-8e8dd6b3416a",
+      "text": "<p>Volunteer Management System</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>&lt;Project&gt;</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T16:57:14.233Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "231f5f78-ba5c-4cb1-b69b-079c98c154a7",
+      "text": "<p>Version 1.0 approved</p>"
+    },
+    {
+      "id": "5",
+      "guid": "6201a9bc-aa24-4f28-a30d-cac93c8f673f",
+      "text": "<p>Prepared by Sulav, Mahdi, Jayden</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>Prepared by &lt;author&gt;</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T16:57:29.516Z"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "guid": "bc518217-0e77-441f-ad0b-e4cfd7063f24",
+      "text": "<p>&lt;organization&gt;</p>"
+    },
+    {
+      "id": "7",
+      "guid": "6c1ee555-eb1b-410f-a2f6-a0087753852c",
+      "text": "<p>&lt;date created&gt;</p>"
+    },
+    {
+      "id": "8",
+      "guid": "e83f0e18-bf94-48cb-b0bb-124cf3c95676",
+      "text": "<p><a><span>Table of Contents</span></a></p>"
+    },
+    {
+      "id": "9",
+      "guid": "32338e81-b98b-4a28-be4d-94c69d56824d",
+      "text": "<p><span>Table of Contents<span>................................................................................. </span></span><span>ii</span></p>"
+    },
+    {
+      "id": "10",
+      "guid": "0bc9630c-7433-4219-aa0c-5729b9aa4f75",
+      "text": "<p><span>Revision History<span>................................................................................... </span></span><span>ii</span></p>"
+    },
+    {
+      "id": "11",
+      "guid": "19410159-4752-4990-84fb-831434ab1b22",
+      "text": "<p><span>1.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Requirements<span>................................................................... </span></span><span>1</span></p>"
+    },
+    {
+      "id": "12",
+      "guid": "1c528cfc-356f-4747-848f-fb09f0b1eab9",
+      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>"
+    },
+    {
+      "id": "13",
+      "guid": "71dbda66-93ff-4ef4-b98e-a44898e66898",
+      "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p>"
+    },
+    {
+      "id": "14",
+      "guid": "effa88c8-7977-40f3-b5ec-62aaf5dbcfb7",
+      "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p>"
+    },
+    {
+      "id": "15",
+      "guid": "3fa35f6d-a671-47c1-a82a-c007b5d1a91b",
+      "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p>"
+    },
+    {
+      "id": "16",
+      "guid": "48882617-252e-4818-be5d-8fe06ada8451",
+      "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p>"
+    },
+    {
+      "id": "17",
+      "guid": "96c46f44-897b-40a8-9732-25184618329c",
+      "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p>"
+    },
+    {
+      "id": "18",
+      "guid": "61414eb3-8c2e-4759-9a9a-d15a779f15ca",
+      "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p>"
+    },
+    {
+      "id": "19",
+      "guid": "d13b2266-6a31-42e6-80b1-82a0d075d28a",
+      "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p>"
+    },
+    {
+      "id": "20",
+      "guid": "99d7a5bb-164b-419c-81e4-969d987fd577",
+      "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p>"
+    },
+    {
+      "id": "21",
+      "guid": "65133b97-b052-4dc6-9ed5-2740ba4a799b",
+      "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p>"
+    },
+    {
+      "id": "22",
+      "guid": "37099206-e345-4279-9c07-e640b14d4fec",
+      "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p>"
+    },
+    {
+      "id": "23",
+      "guid": "b02e4e53-a05d-4138-87da-46213ab1a88e",
+      "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p>"
+    },
+    {
+      "id": "24",
+      "guid": "24851cbe-4bd0-4405-9273-af32e97d3c1a",
+      "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p>"
+    },
+    {
+      "id": "25",
+      "guid": "ceece04e-655f-4f03-a501-ffd9d8cf4fca",
+      "text": "<p><span>3.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Context<span>............................................................................ </span></span><span>3</span></p>"
+    },
+    {
+      "id": "26",
+      "guid": "0eb841f8-2ac4-4148-bc22-c390f679da4c",
+      "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p>"
+    },
+    {
+      "id": "27",
+      "guid": "ab07fa65-c8df-431c-99c5-bf831c0598b7",
+      "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p>"
+    },
+    {
+      "id": "28",
+      "guid": "4df798fb-8cc8-45ec-9972-3c21bc4d5595",
+      "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p>"
+    },
+    {
+      "id": "29",
+      "guid": "f231c86d-10b6-44af-a1a7-1f31803f683e",
+      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "30",
+      "guid": "9a472cbb-5a92-434a-ab68-1775424afc07",
+      "heading": "Business Requirements",
+      "children": [
+        {
+          "id": "31",
+          "guid": "ccc2742c-23b0-4d35-8fc9-229192dd4891",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System (VMS) will provide the City of Kamloops with a centralized online system for managing volunteers and connecting them with people and community groups that require assistance. The system is intended to improve the current manual volunteer management process, reduce assignment delays, improve planning, and encourage greater community participation.</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T17:02:15.124Z"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "guid": "0477e47e-8c8d-462c-832c-56ad489641b5",
+          "heading": "Background",
+          "children": [
+            {
+              "id": "33",
+              "guid": "953eff56-5182-438a-a616-77df70df2e9b",
+              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">After the COVID-19 pandemic, the City of Kamloops has lost contact with many of its volunteers. At the same time, the city has an increasing need for volunteers to support senior citizens, people with special needs, and students who require additional coaching and educational support. Currently, volunteer registration, verification, and assignment involve manual processes, which makes it difficult for the Mayor’s Office to maintain accurate information about volunteers and community needs. The proposed Volunteer Management System will provide a centralized platform where volunteers can register, be approved, have their activities recorded, and receive suitable assignments.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:02:30.595Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "guid": "4a1d0957-f90f-48b6-b3f5-3783eb114bac",
+          "heading": "Business Problem or Opportunity",
+          "children": [
+            {
+              "id": "35",
+              "guid": "cb6ae292-de3c-4097-aced-967b55d8b40e",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The current volunteer management process is largely manual and can take approximately two weeks to assign a volunteer. A major reason for this delay is the police certificate verification process, which currently requires manual handling. The city also does not have a centralized system that provides accurate information about the number of business risks. One major risk is insufficient volunteer participation. If there are not enough registered and approved volunteers, the system may not be able to support all reported cases. This risk can be reduced with the background-check system could delay volunteer approval and assignment. The city should monitor this dependency and people requiring assistance and the number of available volunteers.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:02:49.674Z"
+                }
+              ]
+            },
+            {
+              "id": "36",
+              "guid": "48fb33f8-4dd0-4ad4-8757-4180dacf50be",
+              "text": "<p>Below is a problem statement:</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>This is a good template for a problem statement:</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:04:35.778Z"
+                }
+              ]
+            },
+            {
+              "id": "37",
+              "guid": "c7e308da-861a-4ce0-a76b-201250404149",
+              "text": "<p><span style=\"color:windowtext;\">Situation -<span> </span></span><span style=\"text-decoration:none;vertical-align:baseline;\">The City of Kamloops has lost contact with volunteers after the COVID-19 pandemic, while many senior citizens and students require additional support.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:03:13.278Z"
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "guid": "7429d872-0f55-4da1-9e17-6c3e0aaf5f1c",
+              "text": "<p><span style=\"color:windowtext;\">Problem -&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">The current manual process is slow and makes it difficult to track volunteers, community cases, and volunteer availability accurately.</span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe the business problem (or problems) as you now understand it</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:03:27.054Z"
+                }
+              ]
+            },
+            {
+              "id": "39",
+              "guid": "116d3956-7f91-4577-a471-868fb4fa669e",
+              "text": "<p><span style=\"color:windowtext;\">Implication -&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">If the problem is not addressed, people may have to wait too long for assistance, volunteer shortages may continue to occur, and the city may have difficulty planning its services.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp; </span>Describe the likely results if the problem isn’t solved.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:03:42.790Z"
+                }
+              ]
+            },
+            {
+              "id": "40",
+              "guid": "a38c0281-565d-4635-a269-b3a7170e13a6",
+              "text": "<p><span style=\"color:windowtext;\">Benefit -&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">A centralized system can reduce volunteer assignment time, improve the accuracy of information, support better planning, and increase volunteer participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>State the business value of solving the problem.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:03:57.326Z"
+                }
+              ]
+            },
+            {
+              "id": "41",
+              "guid": "2e37b4a5-0ac7-4286-a7ef-8b54415a8535",
+              "text": "<p><span style=\"color:windowtext;\">Vision -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The desired future state is a centralized system where approved volunteers can be efficiently matched with people who need assistance, while city staff can monitor demand, volunteer availability, and upcoming needs.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe what the desired future state would look like.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:04:14.418Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "guid": "cdcbd7b8-715c-4eda-9fd3-add1587a9523",
+          "heading": "Business Objectives",
+          "children": [
+            {
+              "id": "43",
+              "guid": "7801778e-de51-4eda-9002-c59616fe0989",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Track at least 60% of senior cases requiring assistance in the city during the first year of operation.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Provide volunteer support to at least 85% of reported cases and reduce the volunteer assignment process so that people receive volunteer services within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p></li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:04:48.866Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "guid": "14fbff67-32d0-4105-aa42-19641339821c",
+          "heading": "Success Metrics",
+          "children": [
+            {
+              "id": "45",
+              "guid": "1c81310a-9ce0-459a-ac2b-637c0dcad2da",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system should track at least 60% of senior cases in the city within the first year.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">At least 85% of reported cases should receive volunteer support, with assignments completed within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:05:01.238Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "guid": "2377a0e8-8322-414b-b45d-4631e1239dd0",
+          "heading": "Vision Statement",
+          "children": [
+            {
+              "id": "47",
+              "guid": "d773ec32-c108-4c83-8ff3-24f81b712fd7",
+              "text": "<p>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</p>"
+            },
+            {
+              "id": "48",
+              "guid": "2aa25ec9-97af-41ae-8e62-e739eedff0a3",
+              "text": "<p>This is a &nbsp;vision statement:</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>This is a good template for a vision statement:</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:51.559Z"
+                }
+              ]
+            },
+            {
+              "id": "49",
+              "guid": "a9fa4d1d-2d2f-4d0f-aed0-13db3b892f75",
+              "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\"><span style=\"text-decoration:none;vertical-align:baseline;\">senior citizens, students, community members, volunteers, city administrators, and local businesses</span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">target customer</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:05:26.998Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><span style=\"color:windowtext;\"><span style=\"text-decoration:none;vertical-align:baseline;\">senior citizens, students, community members, volunteers, city administrators, and local businesses</span></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:06:06.917Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;-&nbsp;</span></span></strong><span style=\"color:windowtext;\"><span style=\"text-decoration:none;vertical-align:baseline;\">senior citizens, students, community members, volunteers, city administrators, and local businesses</span></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:31.478Z"
+                }
+              ]
+            },
+            {
+              "id": "50",
+              "guid": "198def1e-35e5-474d-92ba-b46b95f35e72",
+              "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">need an efficient way to connect people requiring assistance with available volunteers&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:06:37.925Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;-&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">need an efficient way to connect people requiring assistance with available volunteers&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:28.220Z"
+                }
+              ]
+            },
+            {
+              "id": "51",
+              "guid": "5ae90738-22d9-464e-9641-aceaceb99893",
+              "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Management System</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:06:51.432Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Management System</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:23.365Z"
+                }
+              ]
+            },
+            {
+              "id": "52",
+              "guid": "ed7b1ea0-b7de-4870-888b-202d5e22e5ec",
+              "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">an online volunteer management and coordination system</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:07:07.906Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">an online volunteer management and coordination system</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:17.523Z"
+                }
+              ]
+            },
+            {
+              "id": "53",
+              "guid": "5cc19ef0-e634-4871-a4b0-082b0504afbc",
+              "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">enables volunteer registration, approval, background verification, case tracking, volunteer assignment, activity tracking, and volunteer incentives</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:07:21.783Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;-&nbsp;</span></span></strong><span style=\"text-decoration:none;vertical-align:baseline;\">enables volunteer registration, approval, background verification, case tracking, volunteer assignment, activity tracking, and volunteer incentives</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:37.546Z"
+                }
+              ]
+            },
+            {
+              "id": "54",
+              "guid": "c5f2c633-a246-47c5-ab08-0c233c1bc20b",
+              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span> </span><span style=\"text-decoration:none;vertical-align:baseline;\">the current manual volunteer management process</span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>primary competitive alternative, current system, current business process</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:07:41.038Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">the current manual volunteer management process</span></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:11.428Z"
+                }
+              ]
+            },
+            {
+              "id": "55",
+              "guid": "20cc51b9-83e2-43d7-ad94-91d57f8e9abe",
+              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span> </span></span><span style=\"text-decoration:none;vertical-align:baseline;\">will provide a centralized and efficient platform that connects approved volunteers with community needs, reduces assignment delays, improves planning, and encourages greater volunteer participation.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:08:02.618Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "guid": "a6759792-a5ad-44d5-a507-1ebf6d340131",
+          "heading": "Business Risks",
+          "children": [
+            {
+              "id": "57",
+              "guid": "2341d37b-bb7b-446c-ad65-60798a088bca",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The development and operation of the Volunteer Management System may involve several business risks. One major risk is insufficient volunteer participation. If there are not enough registered and approved volunteers, the system may not be able to support all reported cases. This risk can be reduced by providing incentives such as promotions and discounts from participating local businesses.&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Another risk is the dependency on the government’s automated police certificate system. Delays or technical problems with the background-check system could delay volunteer approval and assignment. The city should monitor this dependency and have appropriate procedures for handling verification delays.&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User adoption is also a potential risk. Volunteers and city staff may have difficulties adapting to the new system. Providing a simple interface, clear procedures, and appropriate training can help reduce this risk.&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Finally, inaccurate or outdated information about volunteer availability or community cases could result in unsuitable assignments. Regular updates and proper access controls can help maintain accurate information.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:09:06.720Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "guid": "2964389c-6396-42a7-a7ec-7037ef9c3207",
+          "heading": "Business Assumptions and Dependencies",
+          "children": [
+            {
+              "id": "59",
+              "guid": "a9f7a70a-6bf9-4c59-9c48-73207ca59189",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The project is based on the following assumptions:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The city will have enough volunteers willing to register and participate through the Volunteer Management System.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Mayor’s Office and authorized staff will maintain accurate information about volunteers and people requiring assistance.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Local businesses will be willing to participate by providing promotions or discounts as incentives for volunteers.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system also has the following dependencies:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System depends on the government’s automated police certificate system for volunteer background verification. The system is expected to process background checks within 48 hours.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system depends on participating local businesses to provide promotions and discounts that can encourage volunteer participation.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system depends on reliable internet access and suitable technical infrastructure so that volunteers and authorized city staff can access the online system.</span></p></li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:09:21.261Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "guid": "441fe112-42fd-421e-9979-cfdcad5d70a5",
+      "heading": "Scope and Limitations",
+      "children": [
+        {
+          "id": "61",
+          "guid": "b6ee5f24-8f67-4947-8944-461e0fc0ecce",
+          "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+        },
+        {
+          "id": "62",
+          "guid": "bb5f4e94-a7dc-4288-b03e-106b2c40bbb5",
+          "heading": "Major Features",
+          "children": [
+            {
+              "id": "63",
+              "guid": "94d12a54-b3d7-4a84-b92f-1b9d94b058a6",
+              "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "guid": "10693441-70bb-4763-a0bc-3712c6823210",
+          "heading": "Scope of Initial Release",
+          "children": [
+            {
+              "id": "65",
+              "guid": "98425352-3952-45e1-b37c-c214d1596f2c",
+              "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "guid": "50ff9b5f-23ad-43e0-b6c5-51891c10552b",
+          "heading": "Scope of Subsequent Releases",
+          "children": [
+            {
+              "id": "67",
+              "guid": "b6cecdc5-3998-4e79-a4bc-5366e8873600",
+              "text": "<p>&lt;If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "guid": "c7cb35b6-ba2f-4e6c-a28f-c3233ce313d1",
+          "heading": "Limitations and Exclusions",
+          "children": [
+            {
+              "id": "69",
+              "guid": "7d214c6c-91eb-47f2-84f5-7cbf3f79362d",
+              "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "guid": "dd5ebe9c-fd0b-476f-88b5-90ce2dc81233",
+          "heading": "Scope Representation",
+          "children": [
+            {
+              "id": "71",
+              "guid": "ff57ca64-e93f-452f-bb8a-cfa87e5618ba",
+              "text": "<p><em>&lt;graphs&gt;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "guid": "f891fe14-1252-4b67-a265-1d32f1a32532",
+      "heading": "Business Context",
+      "children": [
+        {
+          "id": "73",
+          "guid": "ca57fd5a-0d4d-4de1-8056-d7e75a17d8a7",
+          "text": "<p>&lt;This section summarizes some of the business issues around the project, including profiles of major customer categories, assumptions that went into the project concept, and the management priorities for the project.&gt;</p>"
+        },
+        {
+          "id": "74",
+          "guid": "2a2cf0e9-f8bc-48ce-aed0-734a7994b0b6",
+          "heading": "Stakeholder Profiles",
+          "children": [
+            {
+              "id": "75",
+              "guid": "8263262e-9613-4990-a8b6-48edc1434e80",
+              "text": "<p>&lt;Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later. For each category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:</p>"
+            },
+            {
+              "id": "76",
+              "guid": "394f99f4-0388-4972-8dd5-cd5605f5ba71",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved productivity</p>"
+            },
+            {
+              "id": "77",
+              "guid": "37ea033f-1bc2-41bc-9df2-1271d8dbb6a7",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>reduced errors and rework</p>"
+            },
+            {
+              "id": "78",
+              "guid": "ea3f6a32-514e-4785-9290-2fe9e70b675f",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>cost savings</p>"
+            },
+            {
+              "id": "79",
+              "guid": "7bec7538-6382-40a2-ba6e-e84a50b953d5",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>streamlined business processes</p>"
+            },
+            {
+              "id": "80",
+              "guid": "a7c2a3df-b04b-44ef-b4cc-c3769b24f354",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>automation of previously manual tasks</p>"
+            },
+            {
+              "id": "81",
+              "guid": "3f159f3e-c60a-4b0d-8496-8ceda71aa174",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>ability to perform entirely new tasks or functions</p>"
+            },
+            {
+              "id": "82",
+              "guid": "8bffc6c1-1114-4846-8da1-ce83bbce1d58",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>conformance to current standards or regulations</p>"
+            },
+            {
+              "id": "83",
+              "guid": "663e1be8-5fac-4d7f-a1a3-b4c6b081545d",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved usability or reduced frustration level compared to current applications</p>"
+            },
+            {
+              "id": "84",
+              "guid": "c7be8c2a-285a-46f6-b12b-87a01faf265a",
+              "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "guid": "74cae911-4b15-4916-b2aa-c47d13d6a061",
+          "heading": "Project Priorities",
+          "children": [
+            {
+              "id": "86",
+              "guid": "7da8d0a4-695d-49cb-b888-84caeaeb0ff4",
+              "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span>release 1.0 to be available by 10/1, release 1.1 by 12/1</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>70-80% of high priority features must be included in release 1.0</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>maximum team size is 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>budget overrun up to 15% acceptable without sponsor review</span></p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "guid": "2f18a901-5a4f-423c-a5d4-93c717d934ef",
+          "heading": "Deployment Considerations",
+          "children": [
+            {
+              "id": "88",
+              "guid": "8750a8e3-ec83-4be5-a855-a98c237ef8b0",
+              "text": "<p>&lt;Summarize the information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "attributes": {
   },
   "templateColumns": {
