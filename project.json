@@ -1,7 +1,8 @@
 {
   "id": "Group Project",
   "documents": [
-    "VMS.json"
+    "VMS.json",
+    "VAS.json"
   ],
   "traceability": {
     "reference": {
