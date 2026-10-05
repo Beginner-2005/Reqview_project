@@ -9,10 +9,10 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T17:35:43.783Z",
+  "lastChangedOn": "2026-10-05T17:42:06.873Z",
   "lastChangedBy": {
-    "name": "T00737402",
-    "email": "t00737402@mytru.ca",
+    "name": "T00762405",
+    "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -748,7 +748,20 @@
         {
           "id": "61",
           "guid": "b6ee5f24-8f67-4947-8944-461e0fc0ecce",
-          "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System (VMS) will be designed to organize and improve the way volunteers are managed and assigned to people who require assistance. The system will primarily support senior citizens by providing services such as regular check-in calls and wellness education. It will also assist students who require extra coaching or academic support. The VMS will store and manage important volunteer information, including qualifications, availability, background-check status, assigned cases, and current volunteer demand. One of the main objectives is to shorten the volunteer assignment process from approximately two weeks to three days and help prevent unexpected shortages of volunteers.</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T17:41:01.740Z"
+            }
+          ]
         },
         {
           "id": "62",
@@ -758,7 +771,20 @@
             {
               "id": "63",
               "guid": "94d12a54-b3d7-4a84-b92f-1b9d94b058a6",
-              "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The main features of the VMS will include:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">1 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Registration:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to add and manage volunteer information.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">2 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Availability Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record when volunteers are available to provide services.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">3 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Qualification Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;keep track of volunteer skills, qualifications, and areas of expertise.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">4 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Background-Check Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;monitor whether a volunteer's required background check has been completed or is still pending.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">5 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Case Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record and organize information about individuals who require support.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">6 -</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Volunteer Matching:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;match qualified volunteers with senior citizens or students based on their needs, qualifications, and availability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">7 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to assign volunteers to specific cases.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">8 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Demand Forecasting:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;estimate future volunteer requirements based on current and expected demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;9 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Notifications:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;send daily alerts and updates to administrators about volunteer needs, assignments, and possible shortages.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:41:35.960Z"
+                }
+              ]
             }
           ]
         },
@@ -770,7 +796,20 @@
             {
               "id": "65",
               "guid": "98425352-3952-45e1-b37c-c214d1596f2c",
-              "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The first version of the VMS will include the essential features needed to address the city's current problems such as:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Case management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Background-check status tracking.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer matching.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer assignment.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer demand forecasting.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Notifications and alerts.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to track 60% of senior cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to provide support for 85% of reported cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduce volunteer assignment time to three days</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:41:45.854Z"
+                }
+              ]
             }
           ]
         },
@@ -782,7 +821,20 @@
             {
               "id": "67",
               "guid": "b6cecdc5-3998-4e79-a4bc-5366e8873600",
-              "text": "<p>&lt;If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.&gt;</p>"
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Future versions of the system may include:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Advanced reports and data analysis.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- More accurate demand forecasting.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Support for additional community services.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improved volunteer reward and recognition programs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Integration with other city or government systems.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Additional features based on feedback from administrators and volunteers.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:41:54.870Z"
+                }
+              ]
             }
           ]
         },
@@ -794,7 +846,20 @@
             {
               "id": "69",
               "guid": "7d214c6c-91eb-47f2-84f5-7cbf3f79362d",
-              "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The following items will be outside the scope of the initial system:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The VMS will not conduct police background checks itself. Instead, it will rely on the government's external background-check system.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system will not provide medical services.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system will not provide emergency services.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system will not replace teachers.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system will not replace existing online education platforms.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system cannot guarantee that every case will receive a volunteer because volunteer availability may be limited.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer services outside the main focus of senior support and student coaching will not be included in the initial release.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Additional types of volunteer services may be considered for future releases.</span></p></li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T17:42:06.873Z"
+                }
+              ]
             }
           ]
         },
