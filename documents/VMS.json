@@ -9,10 +9,10 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T17:15:18.135Z",
+  "lastChangedOn": "2026-10-05T17:20:02.051Z",
   "lastChangedBy": {
-    "name": "T00762405",
-    "email": "t00762405@mytru.ca",
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -899,7 +899,20 @@
             {
               "id": "88",
               "guid": "8750a8e3-ec83-4be5-a855-a98c237ef8b0",
-              "text": "<p>&lt;Summarize the information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>"
+              "text": "<p>&lt;athe information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Summarize the information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:20:02.051Z"
+                }
+              ]
             }
           ]
         }
