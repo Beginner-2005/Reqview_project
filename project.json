@@ -1,0 +1,17 @@
+{
+  "id": "Group Project",
+  "documents": [
+    "VMS.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}
