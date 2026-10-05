@@ -9,10 +9,10 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T17:50:22.933Z",
+  "lastChangedOn": "2026-10-05T18:05:51.263Z",
   "lastChangedBy": {
-    "name": "T00762405",
-    "email": "t00762405@mytru.ca",
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -920,52 +920,170 @@
             {
               "id": "75",
               "guid": "8263262e-9613-4990-a8b6-48edc1434e80",
-              "text": "<p>&lt;Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later. For each category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:</p>"
+              "text": "<p>The stakeholders for this project are the mayor, schools and their administrators, local businesses and shops, the volunteers, and the seniors. Each one of these stakeholders can directly affect the influence and outcome of the project at hand.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later. For each category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:00:08.016Z"
+                }
+              ]
             },
             {
               "id": "76",
               "guid": "394f99f4-0388-4972-8dd5-cd5605f5ba71",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved productivity</p>"
+              "text": "<p>Mayor - The mayor values the volunteers and the new system in the works with the main concern being the process and the volunteers not showing up</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved productivity</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:56:58.773Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Mayor</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:00:51.930Z"
+                }
+              ]
             },
             {
               "id": "77",
               "guid": "37ea033f-1bc2-41bc-9df2-1271d8dbb6a7",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>reduced errors and rework</p>"
+              "text": "<p>School Administrator - The administrators values the younger kids education and main concern is whether volunteers are going to meet the knowledge and skill requirements to be able to help younger kids in special and certain cases.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>reduced errors and rework</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:57:05.802Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Schools</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:02:01.708Z"
+                }
+              ]
             },
             {
               "id": "78",
               "guid": "ea3f6a32-514e-4785-9290-2fe9e70b675f",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>cost savings</p>"
+              "text": "<p>Local Businesses and Shops - The businesses and shops main values are getting customers and receiving transactions, with their main concern being crime rate and not receiving anything for promotiions.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>cost savings</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:57:14.644Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Businesses</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:03:12.451Z"
+                }
+              ]
             },
             {
               "id": "79",
               "guid": "7bec7538-6382-40a2-ba6e-e84a50b953d5",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>streamlined business processes</p>"
+              "text": "<p>Volunteers - The volunteers value the city and what needs to be done, the seniors and younger kids are their main priority especially those who are sick or need certain kinds of help, their main concerns are not getting the support needed and not being able to help.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>streamlined business processes</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:57:22.998Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Volunteers</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:05:07.879Z"
+                }
+              ]
             },
             {
               "id": "80",
               "guid": "a7c2a3df-b04b-44ef-b4cc-c3769b24f354",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>automation of previously manual tasks</p>"
-            },
-            {
-              "id": "81",
-              "guid": "3f159f3e-c60a-4b0d-8496-8ceda71aa174",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>ability to perform entirely new tasks or functions</p>"
-            },
-            {
-              "id": "82",
-              "guid": "8bffc6c1-1114-4846-8da1-ce83bbce1d58",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>conformance to current standards or regulations</p>"
-            },
-            {
-              "id": "83",
-              "guid": "663e1be8-5fac-4d7f-a1a3-b4c6b081545d",
-              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved usability or reduced frustration level compared to current applications</p>"
+              "text": "<p>Seniors - The seniors value the volunteers and what they can do to show support, their main concerns are not receiving the help needed and not being able to support.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>automation of previously manual tasks</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:57:29.227Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Seniors</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T18:05:51.263Z"
+                }
+              ]
             },
             {
               "id": "84",
               "guid": "c7be8c2a-285a-46f6-b12b-87a01faf265a",
-              "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Mayor</span></p></td><td style=\"width:67.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Manage everything and everyone</span></p></td><td style=\"width:85.5pt;\"><p>Getting more volunteers and creating a better system</p></td><td style=\"width:1.25in;\"><p>Allows for people in the city to want to volunteer</p></td><td style=\"width:1.25in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers and Care Workers</span></p></td><td style=\"width:1.0in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Current system and volunteer shortage</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Schools</span></p></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Help the students with online services</span></td><td style=\"width:85.5pt;\"><p>Have younger kids learn</p></td><td style=\"width:1.25in;\"><p>&nbsp;Have students feel like they can get the support needed</p></td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers with proper knowledge and skills</span></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Younger Kids needing more support</span></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Businesses</span></p></td><td style=\"width:67.5pt;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Promote the&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">volunteering</span></p></td><td style=\"width:85.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Receiving more transactions</span></p></td><td style=\"width:1.25in;\"><p>Have more people engage and want to volunteer</p></td><td style=\"width:1.25in;\"><p>More customers to interact with</p></td><td style=\"width:1.0in;\"><p>Crime rate and not receiving transactions</p></td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Support</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping those that need help prioritizing seniors</span><br></td><td style=\"width:1.25in;\">Help people get better</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Need a proper and easy system</span><br></td><td style=\"width:1.0in;\">&nbsp;</td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seniors</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Service</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping and receiving support</span><br></td><td style=\"width:1.25in;\">The volunteers and others</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers to help when needed</span><br></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Not getting the help needed</span><br></td></tr></tbody></table>",
+              "text": "<table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Mayor</span></p></td><td style=\"width:67.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Manage everything and everyone</span></p></td><td style=\"width:85.5pt;\"><p>Getting more volunteers and creating a better system</p></td><td style=\"width:1.25in;\"><p>Allows for people in the city to want to volunteer</p></td><td style=\"width:1.25in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers and Care Workers</span></p></td><td style=\"width:1.0in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Current system and volunteer shortage</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Schools</span></p></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Help the students with online services</span></td><td style=\"width:85.5pt;\"><p>Have younger kids learn</p></td><td style=\"width:1.25in;\"><p>&nbsp;Have students feel like they can get the support needed</p></td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers with proper knowledge and skills</span></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Younger Kids needing more support</span></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Businesses</span></p></td><td style=\"width:67.5pt;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Promote the&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">volunteering</span></p></td><td style=\"width:85.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Receiving more transactions</span></p></td><td style=\"width:1.25in;\"><p>Have more people engage and want to volunteer</p></td><td style=\"width:1.25in;\"><p>More customers to interact with</p></td><td style=\"width:1.0in;\"><p>Crime rate and not receiving transactions</p></td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Support</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping those that need help prioritizing seniors</span><br></td><td style=\"width:1.25in;\">Help people get better</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Need a proper and easy system</span><br></td><td style=\"width:1.0in;\">&nbsp;</td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seniors</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Service</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping and receiving support</span><br></td><td style=\"width:1.25in;\">The volunteers and others</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers to help when needed</span><br></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Not getting the help needed</span><br></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -977,6 +1095,17 @@
                     "name": "T00737402"
                   },
                   "changedOn": "2026-10-05T17:29:04.253Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Mayor</span></p></td><td style=\"width:67.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Manage everything and everyone</span></p></td><td style=\"width:85.5pt;\"><p>Getting more volunteers and creating a better system</p></td><td style=\"width:1.25in;\"><p>Allows for people in the city to want to volunteer</p></td><td style=\"width:1.25in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers and Care Workers</span></p></td><td style=\"width:1.0in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Current system and volunteer shortage</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Schools</span></p></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Help the students with online services</span></td><td style=\"width:85.5pt;\"><p>Have younger kids learn</p></td><td style=\"width:1.25in;\"><p>&nbsp;Have students feel like they can get the support needed</p></td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers with proper knowledge and skills</span></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Younger Kids needing more support</span></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Businesses</span></p></td><td style=\"width:67.5pt;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Promote the&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">volunteering</span></p></td><td style=\"width:85.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Receiving more transactions</span></p></td><td style=\"width:1.25in;\"><p>Have more people engage and want to volunteer</p></td><td style=\"width:1.25in;\"><p>More customers to interact with</p></td><td style=\"width:1.0in;\"><p>Crime rate and not receiving transactions</p></td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Support</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping those that need help prioritizing seniors</span><br></td><td style=\"width:1.25in;\">Help people get better</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Need a proper and easy system</span><br></td><td style=\"width:1.0in;\">&nbsp;</td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seniors</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Service</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping and receiving support</span><br></td><td style=\"width:1.25in;\">The volunteers and others</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers to help when needed</span><br></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Not getting the help needed</span><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:56:19.093Z"
                 }
               ]
             }
@@ -990,7 +1119,31 @@
             {
               "id": "86",
               "guid": "7da8d0a4-695d-49cb-b888-84caeaeb0ff4",
-              "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span>release 1.0 to be available by 10/1, release 1.1 by 12/1</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>70-80% of high priority features must be included in release 1.0</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>maximum team size is 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>budget overrun up to 15% acceptable without sponsor review</span></p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Released within the next few months</span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Can not speed up the process</span></span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Aimed for 90% success rate after release</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Full background check and processed within 48 hours and send notifications</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The customers can not speed up or help during the 48 hours and may not see notifications</span>​</span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">90% - 100% volunteer acceptance rate and less than 5% volunteers not showing up</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The processes is straight forward and efficient&nbsp;</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The process will take no longer than 48 hours</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have a 90% or higher satisfactory rate from users</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The police and government will check the people</span></span></p></td><td style=\"width:117.0pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Certain volunteers will not be able to help the younger kids</span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of volunteers meet the requirements to be able to help with the education side.</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The initial cost will be lots</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Funded by the city and businesses</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of the city support and do what they can to help&nbsp;</span></p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span>release 1.0 to be available by 10/1, release 1.1 by 12/1</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>70-80% of high priority features must be included in release 1.0</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>maximum team size is 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>budget overrun up to 15% acceptable without sponsor review</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:55:44.019Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Released within the next few months</span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Can not speed up the process</span></span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Aimed for 90% success rate after release</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Full background check and processed within 48 hours and send notifications</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The customers can not speed up or help during the 48 hours and may not see notifications</span>​</span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">90% - 100% volunteer acceptance rate and less than 5% volunteers not showing up</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The processes is straight forward and efficient&nbsp;</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The process will take no longer than 48 hours</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have a 90% or higher satisfactory rate from users</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The police and government will check the people</span></span></p></td><td style=\"width:117.0pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Certain volunteers will not be able to help the younger kids</span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of volunteers meet the requirements to be able to help with the education side.</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The initial cost will be lots</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Funded by the city and businesses</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of the city support and do what they can to help&nbsp;</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:56:08.463Z"
+                }
+              ]
             }
           ]
         },
@@ -1002,7 +1155,7 @@
             {
               "id": "88",
               "guid": "8750a8e3-ec83-4be5-a855-a98c237ef8b0",
-              "text": "<p>&lt;athe information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>",
+              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Make sure that the system is efficient and easy to use. The user will need to have a background check and have it processed within the next 48 hours. The users will get notifications on where and what to do for the upcoming weeks and any changes that happen. The software team and government will be able to help and support everyone with the system as it is new and can make changes where necessary. There will be a test period where people will be able to learn and understand how to use the new system and once people start to get comfortable with it it will be released to the public.&nbsp;</span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -1014,6 +1167,17 @@
                     "name": "T00737402"
                   },
                   "changedOn": "2026-10-05T17:20:02.051Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;athe information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-05T17:55:55.484Z"
                 }
               ]
             }
