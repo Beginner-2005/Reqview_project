@@ -2,14 +2,14 @@
   "id": "VMS",
   "guid": "d48f92f6-583a-4135-9355-a4e73d66e852",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 1,
+  "lastId": 89,
   "createdOn": "2026-10-05T16:45:42.064Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T16:45:45.464Z",
+  "lastChangedOn": "2026-10-05T16:51:49.492Z",
   "lastChangedBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
@@ -30,6 +30,2618 @@
           "changedOn": "2026-10-05T16:45:45.464Z",
           "docId": "VMS",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "deleted": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T16:51:33.997Z"
+        },
+        {
+          "attributesChanged": {
+            "deleted": true
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T16:51:49.492Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "2",
+          "guid": "e21f4366-2431-4df3-a668-67d833034b9b",
+          "text": "<p>Vision and Scope Document</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "guid": "5670b3de-f4ba-4b8a-8f32-a09399e36256",
+          "text": "<p><span>for</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "guid": "0ff687ca-6df3-4927-a5a9-3d49d6a13a0d",
+          "text": "<p>&lt;Project&gt;</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "guid": "4783595a-4f00-48e5-89e5-9dcf52d96043",
+          "text": "<p>Version 1.0 approved</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "guid": "5804fd47-cff0-40ec-b0d2-282dae194fc7",
+          "text": "<p>Prepared by &lt;author&gt;</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "guid": "9e946969-ef5b-4d9a-9d49-0606587d33b7",
+          "text": "<p>&lt;organization&gt;</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "guid": "5a2c4525-0f65-4af6-8992-82d5c5f3ba0b",
+          "text": "<p>&lt;date created&gt;</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "guid": "f6a014b2-920b-417c-9a95-07088f4e4d33",
+          "text": "<p><a><span>Table of Contents</span></a></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "guid": "1ed9110c-3603-4f1c-b3e8-ddb67a01dc4e",
+          "text": "<p><span>Table of Contents<span>................................................................................. </span></span><span>ii</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "guid": "00066497-51ce-4570-8f3e-a4902dd1b6a9",
+          "text": "<p><span>Revision History<span>................................................................................... </span></span><span>ii</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "guid": "f6fabe8c-5c54-4ad5-9389-1d37be7013c2",
+          "text": "<p><span>1.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Requirements<span>................................................................... </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "guid": "7d91fa4b-01fd-4610-b879-c568ce1f9f22",
+          "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "guid": "0a4841b0-6205-4bfa-90f9-7e62b53798c2",
+          "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "guid": "1ada8b69-b0ad-406d-8369-c87c7e31cb4e",
+          "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "guid": "4d4fec68-5b20-49c8-9acd-ce310cd03a60",
+          "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "guid": "653f65bb-cc9f-4601-adff-af7036e70314",
+          "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "guid": "35a23280-39a6-444f-8d1b-6d4838acabd5",
+          "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "guid": "18a47d61-f1c4-4c0f-9afc-11018c596037",
+          "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "guid": "086975b0-8a2e-4435-bd13-58c23a871272",
+          "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "guid": "a93df07e-47d6-4cf0-960e-6e28488fb993",
+          "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "guid": "6a6fb2fd-405f-4ecc-98ef-3238c446f4d7",
+          "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "guid": "db93c751-9cde-4bc8-810e-c6c51255e76a",
+          "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "guid": "5b59eef4-f0b8-4803-b31f-cd877fc27144",
+          "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "guid": "b9f98fd9-d462-44fd-911c-a7fd926640ba",
+          "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "guid": "e484d2fb-2523-4e65-af48-3241ec4728d3",
+          "text": "<p><span>3.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Context<span>............................................................................ </span></span><span>3</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "guid": "d624bfdc-5cbc-4c17-9a67-588ca1dfd8a9",
+          "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "guid": "6a991fb4-2dd9-46a3-bdb2-7b6fdb20753a",
+          "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "guid": "80688b0b-1210-4ada-917a-4ab660c7db2a",
+          "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "guid": "f1c2929d-5fe1-4807-8168-da68ed9860d8",
+          "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "guid": "9ca205e1-67e8-4b54-ab7d-e715efce8c5b",
+          "heading": "Business Requirements",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "32",
+              "guid": "bffc5da4-4daf-45d0-8048-fe8a19dd1048",
+              "text": "<p>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ]
+            },
+            {
+              "id": "33",
+              "guid": "0ced73c6-c70e-48e1-82e9-089f6339d0ee",
+              "heading": "Background",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "34",
+                  "guid": "eab73664-6606-4ac9-91d1-ce8f640ce9b3",
+                  "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "guid": "15d74da8-f8d7-46f1-a073-e677e2152694",
+              "heading": "Business Problem or Opportunity",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "36",
+                  "guid": "8bf3484e-12bd-4931-969f-ca4e6f4c3845",
+                  "text": "<p>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "37",
+                  "guid": "001403f4-ff55-4eae-a482-48ea09d6d446",
+                  "text": "<p>This is a good template for a problem statement:</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "38",
+                  "guid": "d62022e8-40c1-4e41-a0b2-314a6818e84b",
+                  "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "39",
+                  "guid": "483cfc35-02b6-462c-a7ba-ff3a155b1c89",
+                  "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe the business problem (or problems) as you now understand it</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "40",
+                  "guid": "0122194f-557b-4491-92de-64dafb417c57",
+                  "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp; </span>Describe the likely results if the problem isn’t solved.</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "41",
+                  "guid": "7ba5692e-f453-43dd-82ca-4cd0494dd14b",
+                  "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>State the business value of solving the problem.</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "42",
+                  "guid": "502a2f9c-f16b-41c4-a5a9-e0fb0dc593ae",
+                  "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe what the desired future state would look like.&gt;</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "43",
+              "guid": "ad81ad79-bfce-426b-a13f-88c2fcb6d6d5",
+              "heading": "Business Objectives",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "44",
+                  "guid": "0e73929a-4fda-44dd-963a-7c36de429686",
+                  "text": "<p>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "45",
+              "guid": "99072483-2a84-4ade-858d-8d16abe1c64e",
+              "heading": "Success Metrics",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "46",
+                  "guid": "ea7f7861-f43e-4c8b-953e-8ade34c2d679",
+                  "text": "<p>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "47",
+              "guid": "7bbc6f57-63c4-4aea-a27c-4d4088e2157a",
+              "heading": "Vision Statement",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "48",
+                  "guid": "82f90877-29bc-4de5-8b16-56ace122cfb6",
+                  "text": "<p>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "49",
+                  "guid": "00bd7e8a-d400-427e-add8-8be979ec51b0",
+                  "text": "<p>This is a good template for a vision statement:</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "50",
+                  "guid": "0a872462-c2fe-4611-a02f-be1ecca6c6e4",
+                  "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">target customer</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "51",
+                  "guid": "383f5062-30a7-4c25-8da3-525a7d81f3f5",
+                  "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "52",
+                  "guid": "df61df96-c957-4885-80d8-9ae9820636a6",
+                  "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "53",
+                  "guid": "a545f004-d803-4f82-883d-cca177114663",
+                  "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "54",
+                  "guid": "4f5ba159-40ac-4016-afa9-9116490fd986",
+                  "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "55",
+                  "guid": "82c6b32a-cded-43ba-888d-2863b56c3d05",
+                  "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>primary competitive alternative, current system, current business process</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "56",
+                  "guid": "ddbde2d2-0068-47cd-b5f5-63f99e565dff",
+                  "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "57",
+              "guid": "d6157721-9795-48d6-bf91-8d957a0aac03",
+              "heading": "Business Risks",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "58",
+                  "guid": "8befa7b1-c403-4aaf-a772-82c996defa6c",
+                  "text": "<p>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "59",
+              "guid": "a44a2777-9fd2-43ba-bc2b-68f0649eabe4",
+              "heading": "Business Assumptions and Dependencies",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "60",
+                  "guid": "fcd8d46e-c67d-4fa5-9e65-4fc7a5c467f0",
+                  "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "guid": "b0daadb0-6819-496c-a613-f4ead6146519",
+          "heading": "Scope and Limitations",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "62",
+              "guid": "aeb08059-78dd-4074-b922-f0bdab17cbf2",
+              "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ]
+            },
+            {
+              "id": "63",
+              "guid": "ed8896dd-c1b2-494b-bcf7-5c2c78051b9c",
+              "heading": "Major Features",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "64",
+                  "guid": "9b0088e1-5f00-4f15-8074-12d528a67fd4",
+                  "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "65",
+              "guid": "d59847a7-2e9d-4201-a80d-1d87336900e0",
+              "heading": "Scope of Initial Release",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "66",
+                  "guid": "404e7878-d79f-4ec4-9505-4b1efd5da258",
+                  "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "67",
+              "guid": "356fe0ed-32f5-411c-97c3-b0dabe2c9d1f",
+              "heading": "Scope of Subsequent Releases",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "68",
+                  "guid": "d44c4317-ff05-40f7-af9d-f2f8b122379a",
+                  "text": "<p>&lt;If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "69",
+              "guid": "94e9e7ca-b64f-4803-9d79-f7893dde2ba7",
+              "heading": "Limitations and Exclusions",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "70",
+                  "guid": "2f704b35-f6c7-4c89-9a7e-22632458d2ef",
+                  "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "71",
+              "guid": "b88910d0-25de-4ced-9f25-dcac20da3dd0",
+              "heading": "Scope Representation",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "72",
+                  "guid": "b3427fc9-2a50-4a63-a89b-c76efab64591",
+                  "text": "<p><em>&lt;graphs&gt;</em></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "guid": "68770d8e-d4e0-4f96-a077-d05837488cde",
+          "heading": "Business Context",
+          "history": [
+            {
+              "attributesChanged": {
+                "deleted": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:33.997Z"
+            },
+            {
+              "attributesChanged": {
+                "deleted": true
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "T00762405"
+              },
+              "changedOn": "2026-10-05T16:51:49.492Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "74",
+              "guid": "125df144-84aa-44ef-bc50-2e6c352e6b97",
+              "text": "<p>&lt;This section summarizes some of the business issues around the project, including profiles of major customer categories, assumptions that went into the project concept, and the management priorities for the project.&gt;</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ]
+            },
+            {
+              "id": "75",
+              "guid": "cd5417d4-0999-40bf-a4cb-b7b9948f32c4",
+              "heading": "Stakeholder Profiles",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "76",
+                  "guid": "1de5af83-6b05-4711-8d45-44a72e411e2c",
+                  "text": "<p>&lt;Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later. For each category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "77",
+                  "guid": "e474c4b9-0a06-4f94-ba58-af5b37a281a3",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved productivity</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "78",
+                  "guid": "34515aee-2d7a-4833-a421-2598d538c1c9",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>reduced errors and rework</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "79",
+                  "guid": "cd41ceda-cf35-4fb8-87ee-f2f922d86833",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>cost savings</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "80",
+                  "guid": "46dbe79e-1176-4f54-9d28-af856f94dc09",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>streamlined business processes</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "81",
+                  "guid": "751e813d-8377-4f6c-b12f-22f00c12d879",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>automation of previously manual tasks</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "82",
+                  "guid": "ef249421-68a1-4c6f-9d31-af3f2ac7cc39",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>ability to perform entirely new tasks or functions</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "83",
+                  "guid": "cd175ea1-db52-46bd-9c3d-1eb906384cf7",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>conformance to current standards or regulations</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "84",
+                  "guid": "9046e005-36f2-4bf2-b779-4f29c2c6a796",
+                  "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved usability or reduced frustration level compared to current applications</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "85",
+                  "guid": "90aac8d5-0d65-4264-a93a-39e42b893599",
+                  "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "86",
+              "guid": "6354fc02-290e-4150-b1ba-cf942a71c5af",
+              "heading": "Project Priorities",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "87",
+                  "guid": "eb940f91-8556-4cbe-98f0-6b64c52d10fb",
+                  "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span>release 1.0 to be available by 10/1, release 1.1 by 12/1</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>70-80% of high priority features must be included in release 1.0</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>maximum team size is 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>budget overrun up to 15% acceptable without sponsor review</span></p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "88",
+              "guid": "a968b44b-4e16-4129-9aaf-6dac802c8abf",
+              "heading": "Deployment Considerations",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:33.997Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T16:51:49.492Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "89",
+                  "guid": "dea73124-be1f-4d45-a78a-c074e8c98364",
+                  "text": "<p>&lt;Summarize the information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "deleted": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:33.997Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "deleted": true
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "T00762405"
+                      },
+                      "changedOn": "2026-10-05T16:51:49.492Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
