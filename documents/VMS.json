@@ -1,0 +1,41 @@
+{
+  "id": "VMS",
+  "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
+  "name": "Vision and Scope for Volunteer Management System",
+  "lastId": 0,
+  "createdOn": "2026-10-05T16:55:50.854Z",
+  "createdBy": {
+    "name": "T00762405",
+    "email": "t00762405@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-10-05T16:55:50.854Z",
+  "lastChangedBy": {
+    "name": "T00762405",
+    "email": "t00762405@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}
