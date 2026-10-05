@@ -9,7 +9,7 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T17:09:21.261Z",
+  "lastChangedOn": "2026-10-05T17:15:18.135Z",
   "lastChangedBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
@@ -52,7 +52,7 @@
     {
       "id": "5",
       "guid": "6201a9bc-aa24-4f28-a30d-cac93c8f673f",
-      "text": "<p>Prepared by Sulav, Mahdi, Jayden</p>",
+      "text": "<p>Prepared by Sulav, Mahdi, Jaydin</p>",
       "history": [
         {
           "attributesChanged": {
@@ -64,18 +64,55 @@
             "name": "T00762405"
           },
           "changedOn": "2026-10-05T16:57:29.516Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>Prepared by Sulav, Mahdi, Jayden</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T17:13:52.716Z"
         }
       ]
     },
     {
       "id": "6",
       "guid": "bc518217-0e77-441f-ad0b-e4cfd7063f24",
-      "text": "<p>&lt;organization&gt;</p>"
+      "text": "<p>Software requirements and specs</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>&lt;organization&gt;</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T17:15:18.135Z"
+        }
+      ]
     },
     {
       "id": "7",
       "guid": "6c1ee555-eb1b-410f-a2f6-a0087753852c",
-      "text": "<p>&lt;date created&gt;</p>"
+      "text": "<p>2026/10/1</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>&lt;date created&gt;</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00762405@mytru.ca",
+            "name": "T00762405"
+          },
+          "changedOn": "2026-10-05T17:14:23.798Z"
+        }
+      ]
     },
     {
       "id": "8",
