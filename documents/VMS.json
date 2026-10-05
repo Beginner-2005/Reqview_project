@@ -9,10 +9,10 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T18:05:51.263Z",
+  "lastChangedOn": "2026-10-05T18:15:56.145Z",
   "lastChangedBy": {
-    "name": "T00737402",
-    "email": "t00737402@mytru.ca",
+    "name": "T00762405",
+    "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -771,7 +771,7 @@
             {
               "id": "63",
               "guid": "94d12a54-b3d7-4a84-b92f-1b9d94b058a6",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The main features of the VMS will include:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">1 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Registration:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to add and manage volunteer information.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">2 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Availability Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record when volunteers are available to provide services.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">3 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Qualification Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;keep track of volunteer skills, qualifications, and areas of expertise.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">4 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Background-Check Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;monitor whether a volunteer's required background check has been completed or is still pending.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">5 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Case Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record and organize information about individuals who require support.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">6 -</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Volunteer Matching:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;match qualified volunteers with senior citizens or students based on their needs, qualifications, and availability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">7 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to assign volunteers to specific cases.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">8 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Demand Forecasting:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;estimate future volunteer requirements based on current and expected demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;9 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Notifications:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;send daily alerts and updates to administrators about volunteer needs, assignments, and possible shortages.</span></p>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The main features of the VMS will include:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">1 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Registration:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to add and manage volunteer information.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">2 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Availability Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record when volunteers are available to provide services.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">3 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Qualification Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;keep track of volunteer skills, qualifications, and areas of expertise.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">4 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Background-Check Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;monitor whether a volunteer's required background check has been completed or is still pending.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">5 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Case Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record and organize information about individuals who require support.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">6 -</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Volunteer Matching:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;match qualified volunteers with senior citizens or students based on their needs, qualifications, and availability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">7 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to assign volunteers to specific cases.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">8 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Demand Forecasting:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;estimate future volunteer requirements based on current and expected demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">9 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Notifications:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;send daily alerts and updates to administrators about volunteer needs, assignments, and possible shortages.</span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -783,6 +783,17 @@
                     "name": "T00762405"
                   },
                   "changedOn": "2026-10-05T17:41:35.960Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The main features of the VMS will include:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">1 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer Registration:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to add and manage volunteer information.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">2 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Availability Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record when volunteers are available to provide services.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">3 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Qualification Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;keep track of volunteer skills, qualifications, and areas of expertise.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">4 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Background-Check Tracking:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;monitor whether a volunteer's required background check has been completed or is still pending.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">5 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Case Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;record and organize information about individuals who require support.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">6 -</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Volunteer Matching:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;match qualified volunteers with senior citizens or students based on their needs, qualifications, and availability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">7 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment Management:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;allow administrators to assign volunteers to specific cases.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">8 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Demand Forecasting:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;estimate future volunteer requirements based on current and expected demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;9 -&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Notifications:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;send daily alerts and updates to administrators about volunteer needs, assignments, and possible shortages.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T18:15:19.272Z"
                 }
               ]
             }
@@ -796,7 +807,7 @@
             {
               "id": "65",
               "guid": "98425352-3952-45e1-b37c-c214d1596f2c",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The first version of the VMS will include the essential features needed to address the city's current problems such as:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Case management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Background-check status tracking.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer matching.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer assignment.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer demand forecasting.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Notifications and alerts.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to track 60% of senior cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to provide support for 85% of reported cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduce volunteer assignment time to three days</span></p>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The first version of the VMS will include the essential features needed to address the city's current problems such as:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Case management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Background check status tracking.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer matching.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer assignment.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer demand forecasting.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Notifications and alerts.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to track 60% of senior cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to provide support for 85% of reported cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduce volunteer assignment time to three days</span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -808,6 +819,17 @@
                     "name": "T00762405"
                   },
                   "changedOn": "2026-10-05T17:41:45.854Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The first version of the VMS will include the essential features needed to address the city's current problems such as:</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Case management.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Background-check status tracking.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer matching.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer assignment.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Volunteer demand forecasting.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Notifications and alerts.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to track 60% of senior cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Ability to provide support for 85% of reported cases</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduce volunteer assignment time to three days</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T18:15:56.145Z"
                 }
               ]
             }
@@ -871,6 +893,9 @@
             {
               "id": "71",
               "guid": "ff57ca64-e93f-452f-bb8a-cfa87e5618ba",
+              "attachments": [
+                "VMS-71_1_Screenshot 2026-10-05 111320.png"
+              ],
               "history": [
                 {
                   "attributesChanged": {
@@ -882,6 +907,15 @@
                     "name": "T00762405"
                   },
                   "changedOn": "2026-10-05T17:50:22.933Z"
+                },
+                {
+                  "addedAttachment": "VMS-71_1_Screenshot 2026-10-05 111320.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00762405@mytru.ca",
+                    "name": "T00762405"
+                  },
+                  "changedOn": "2026-10-05T18:14:27.054Z"
                 }
               ]
             }
