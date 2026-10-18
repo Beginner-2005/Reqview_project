@@ -2,14 +2,14 @@
   "id": "VMS",
   "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 98,
+  "lastId": 99,
   "createdOn": "2026-10-05T16:55:50.854Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-18T00:31:56.237Z",
+  "lastChangedOn": "2026-10-18T00:34:44.709Z",
   "lastChangedBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
@@ -355,11 +355,6 @@
           "guid": "2377a0e8-8322-414b-b45d-4631e1239dd0",
           "heading": "Vision Statement",
           "children": [
-            {
-              "id": "47",
-              "guid": "d773ec32-c108-4c83-8ff3-24f81b712fd7",
-              "text": "<p>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</p>"
-            },
             {
               "id": "48",
               "guid": "2aa25ec9-97af-41ae-8e62-e739eedff0a3",
@@ -1394,6 +1389,35 @@
                     "name": "T00737402"
                   },
                   "changedOn": "2026-10-18T00:24:08.728Z"
+                }
+              ]
+            },
+            {
+              "id": "99",
+              "guid": "446c7203-3d71-4197-b9bf-14d5eab61ea4",
+              "text": "<p>Degree of freedom is assumed TBD</p>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:34:28.924Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:34:44.709Z"
                 }
               ]
             }
