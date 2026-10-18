@@ -2,17 +2,17 @@
   "id": "VMS",
   "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 88,
+  "lastId": 98,
   "createdOn": "2026-10-05T16:55:50.854Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-05T18:15:56.145Z",
+  "lastChangedOn": "2026-10-18T00:31:56.237Z",
   "lastChangedBy": {
-    "name": "T00762405",
-    "email": "t00762405@mytru.ca",
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -113,111 +113,6 @@
           "changedOn": "2026-10-05T17:14:23.798Z"
         }
       ]
-    },
-    {
-      "id": "8",
-      "guid": "e83f0e18-bf94-48cb-b0bb-124cf3c95676",
-      "text": "<p><a><span>Table of Contents</span></a></p>"
-    },
-    {
-      "id": "9",
-      "guid": "32338e81-b98b-4a28-be4d-94c69d56824d",
-      "text": "<p><span>Table of Contents<span>................................................................................. </span></span><span>ii</span></p>"
-    },
-    {
-      "id": "10",
-      "guid": "0bc9630c-7433-4219-aa0c-5729b9aa4f75",
-      "text": "<p><span>Revision History<span>................................................................................... </span></span><span>ii</span></p>"
-    },
-    {
-      "id": "11",
-      "guid": "19410159-4752-4990-84fb-831434ab1b22",
-      "text": "<p><span>1.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Requirements<span>................................................................... </span></span><span>1</span></p>"
-    },
-    {
-      "id": "12",
-      "guid": "1c528cfc-356f-4747-848f-fb09f0b1eab9",
-      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>"
-    },
-    {
-      "id": "13",
-      "guid": "71dbda66-93ff-4ef4-b98e-a44898e66898",
-      "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p>"
-    },
-    {
-      "id": "14",
-      "guid": "effa88c8-7977-40f3-b5ec-62aaf5dbcfb7",
-      "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p>"
-    },
-    {
-      "id": "15",
-      "guid": "3fa35f6d-a671-47c1-a82a-c007b5d1a91b",
-      "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p>"
-    },
-    {
-      "id": "16",
-      "guid": "48882617-252e-4818-be5d-8fe06ada8451",
-      "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p>"
-    },
-    {
-      "id": "17",
-      "guid": "96c46f44-897b-40a8-9732-25184618329c",
-      "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p>"
-    },
-    {
-      "id": "18",
-      "guid": "61414eb3-8c2e-4759-9a9a-d15a779f15ca",
-      "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p>"
-    },
-    {
-      "id": "19",
-      "guid": "d13b2266-6a31-42e6-80b1-82a0d075d28a",
-      "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p>"
-    },
-    {
-      "id": "20",
-      "guid": "99d7a5bb-164b-419c-81e4-969d987fd577",
-      "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p>"
-    },
-    {
-      "id": "21",
-      "guid": "65133b97-b052-4dc6-9ed5-2740ba4a799b",
-      "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p>"
-    },
-    {
-      "id": "22",
-      "guid": "37099206-e345-4279-9c07-e640b14d4fec",
-      "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p>"
-    },
-    {
-      "id": "23",
-      "guid": "b02e4e53-a05d-4138-87da-46213ab1a88e",
-      "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p>"
-    },
-    {
-      "id": "24",
-      "guid": "24851cbe-4bd0-4405-9273-af32e97d3c1a",
-      "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p>"
-    },
-    {
-      "id": "25",
-      "guid": "ceece04e-655f-4f03-a501-ffd9d8cf4fca",
-      "text": "<p><span>3.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Context<span>............................................................................ </span></span><span>3</span></p>"
-    },
-    {
-      "id": "26",
-      "guid": "0eb841f8-2ac4-4148-bc22-c390f679da4c",
-      "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p>"
-    },
-    {
-      "id": "27",
-      "guid": "ab07fa65-c8df-431c-99c5-bf831c0598b7",
-      "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p>"
-    },
-    {
-      "id": "28",
-      "guid": "4df798fb-8cc8-45ec-9972-3c21bc4d5595",
-      "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p>"
     },
     {
       "id": "29",
@@ -1117,7 +1012,7 @@
             {
               "id": "84",
               "guid": "c7be8c2a-285a-46f6-b12b-87a01faf265a",
-              "text": "<table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Mayor</span></p></td><td style=\"width:67.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Manage everything and everyone</span></p></td><td style=\"width:85.5pt;\"><p>Getting more volunteers and creating a better system</p></td><td style=\"width:1.25in;\"><p>Allows for people in the city to want to volunteer</p></td><td style=\"width:1.25in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers and Care Workers</span></p></td><td style=\"width:1.0in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Current system and volunteer shortage</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Schools</span></p></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Help the students with online services</span></td><td style=\"width:85.5pt;\"><p>Have younger kids learn</p></td><td style=\"width:1.25in;\"><p>&nbsp;Have students feel like they can get the support needed</p></td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers with proper knowledge and skills</span></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Younger Kids needing more support</span></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Businesses</span></p></td><td style=\"width:67.5pt;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Promote the&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">volunteering</span></p></td><td style=\"width:85.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Receiving more transactions</span></p></td><td style=\"width:1.25in;\"><p>Have more people engage and want to volunteer</p></td><td style=\"width:1.25in;\"><p>More customers to interact with</p></td><td style=\"width:1.0in;\"><p>Crime rate and not receiving transactions</p></td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Support</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping those that need help prioritizing seniors</span><br></td><td style=\"width:1.25in;\">Help people get better</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Need a proper and easy system</span><br></td><td style=\"width:1.0in;\">&nbsp;</td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seniors</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Service</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping and receiving support</span><br></td><td style=\"width:1.25in;\">The volunteers and others</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers to help when needed</span><br></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Not getting the help needed</span><br></td></tr></tbody></table>",
+              "text": "<table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -1140,6 +1035,162 @@
                     "name": "T00737402"
                   },
                   "changedOn": "2026-10-05T17:56:19.093Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Mayor</span></p></td><td style=\"width:67.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Manage everything and everyone</span></p></td><td style=\"width:85.5pt;\"><p>Getting more volunteers and creating a better system</p></td><td style=\"width:1.25in;\"><p>Allows for people in the city to want to volunteer</p></td><td style=\"width:1.25in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers and Care Workers</span></p></td><td style=\"width:1.0in;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Current system and volunteer shortage</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Schools</span></p></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Help the students with online services</span></td><td style=\"width:85.5pt;\"><p>Have younger kids learn</p></td><td style=\"width:1.25in;\"><p>&nbsp;Have students feel like they can get the support needed</p></td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers with proper knowledge and skills</span></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Younger Kids needing more support</span></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;<span style=\"text-decoration:none;vertical-align:baseline;\">Businesses</span></p></td><td style=\"width:67.5pt;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Promote the&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">volunteering</span></p></td><td style=\"width:85.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Receiving more transactions</span></p></td><td style=\"width:1.25in;\"><p>Have more people engage and want to volunteer</p></td><td style=\"width:1.25in;\"><p>More customers to interact with</p></td><td style=\"width:1.0in;\"><p>Crime rate and not receiving transactions</p></td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Support</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping those that need help prioritizing seniors</span><br></td><td style=\"width:1.25in;\">Help people get better</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Need a proper and easy system</span><br></td><td style=\"width:1.0in;\">&nbsp;</td></tr><tr><td style=\"width:.95in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seniors</span><br></td><td style=\"width:67.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Service</span><br></td><td style=\"width:85.5pt;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Helping and receiving support</span><br></td><td style=\"width:1.25in;\">The volunteers and others</td><td style=\"width:1.25in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteers to help when needed</span><br></td><td style=\"width:1.0in;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Not getting the help needed</span><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:25:47.781Z"
+                }
+              ]
+            },
+            {
+              "id": "94",
+              "guid": "ac80c341-0f46-4890-8fd8-03c7dc7df5c7",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"></colgroup><tbody><tr><td>Mayor<br></td><td>Manage&nbsp;everything and everyone<br></td><td>Getting more volunteers and creating a better system<br></td><td>Allows for people&nbsp;in the city to want to volunteer<br></td><td>Volunteers and Care Workers<br></td><td>Current system and volunteer shortage<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "74",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:27:31.771Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:27:31.771Z"
+                }
+              ]
+            },
+            {
+              "id": "95",
+              "guid": "96cf752a-79c0-4118-81ce-400edd7cbb64",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"></colgroup><tbody><tr><td>Schools<br></td><td>Help the&nbsp;students with online services<br></td><td>Have younger kids earn<br></td><td>Have students feel&nbsp;like they can get the support needed<br></td><td>Volunteers with proper knowledge and skills</td><td>Younger Kids needing more support</td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "74",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:28:45.196Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:28:45.196Z"
+                }
+              ]
+            },
+            {
+              "id": "96",
+              "guid": "8df321f3-dce4-41b5-87ba-5ca6de0775c1",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"></colgroup><tbody><tr><td>Businesses<br></td><td>Promote the volunteering<br></td><td>Receiving more transactions<br></td><td>Have more people&nbsp;engage and want to volunteer<br></td><td>More customers to interact with</td><td>Crime rate and not receiving transactions<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "74",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:29:40.151Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:29:40.151Z"
+                }
+              ]
+            },
+            {
+              "id": "97",
+              "guid": "46ccc053-f061-4530-8f91-80b49d3d1794",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"></colgroup><tbody><tr><td>Volunteers<br></td><td>Support<br></td><td>Helping those that&nbsp;need help prioritizing seniors<br></td><td>Help people get better<br></td><td>Need a proper and easy system<br></td><td>Not being able to help in the way needed</td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "74",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:30:40.149Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:30:40.149Z"
+                }
+              ]
+            },
+            {
+              "id": "98",
+              "guid": "2858c049-7b89-4c89-a9ea-ebfe4916335a",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"><col style=\"width: 16.6667%;\"></colgroup><tbody><tr><td>Seniors</td><td>Service<br></td><td>Helping and receiving support<br></td><td>The volunteers and others</td><td>Volunteers to help when needed</td><td>Not getting the help needed</td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "74",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:31:56.237Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:31:56.237Z"
                 }
               ]
             }
@@ -1153,7 +1204,7 @@
             {
               "id": "86",
               "guid": "7da8d0a4-695d-49cb-b888-84caeaeb0ff4",
-              "text": "<table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Released within the next few months</span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Can not speed up the process</span></span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Aimed for 90% success rate after release</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Full background check and processed within 48 hours and send notifications</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The customers can not speed up or help during the 48 hours and may not see notifications</span>​</span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">90% - 100% volunteer acceptance rate and less than 5% volunteers not showing up</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The processes is straight forward and efficient&nbsp;</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The process will take no longer than 48 hours</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have a 90% or higher satisfactory rate from users</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The police and government will check the people</span></span></p></td><td style=\"width:117.0pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Certain volunteers will not be able to help the younger kids</span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of volunteers meet the requirements to be able to help with the education side.</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The initial cost will be lots</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Funded by the city and businesses</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of the city support and do what they can to help&nbsp;</span></p></td></tr></tbody></table>",
+              "text": "<p><br></p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -1176,6 +1227,173 @@
                     "name": "T00737402"
                   },
                   "changedOn": "2026-10-05T17:56:08.463Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Released within the next few months</span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Can not speed up the process</span></span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Aimed for 90% success rate after release</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Full background check and processed within 48 hours and send notifications</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The customers can not speed up or help during the 48 hours and may not see notifications</span>​</span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">90% - 100% volunteer acceptance rate and less than 5% volunteers not showing up</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The processes is straight forward and efficient&nbsp;</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The process will take no longer than 48 hours</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have a 90% or higher satisfactory rate from users</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The police and government will check the people</span></span></p></td><td style=\"width:117.0pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Certain volunteers will not be able to help the younger kids</span></p></td><td style=\"width:144.9pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of volunteers meet the requirements to be able to help with the education side.</span></span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">The initial cost will be lots</span></span></p></td><td style=\"width:117.0pt;\"><p><span><span style=\"text-decoration:none;vertical-align:baseline;\">Funded by the city and businesses</span></span></p></td><td style=\"width:144.9pt;\"><p><span style=\"text-decoration:none;vertical-align:baseline;\">Have 80% of the city support and do what they can to help&nbsp;</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:17:18.442Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><br></p></td><td style=\"width:112.5pt;\"><br></td><td style=\"width:117.0pt;\"><br></td><td style=\"width:144.9pt;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:20:58.035Z"
+                }
+              ]
+            },
+            {
+              "id": "89",
+              "guid": "fb5da704-a4fc-49b0-88e5-42872a06cfb3",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td>Schedule<br></td><td>Released within the next few months<br></td><td>Can not speed up the process<br></td><td>Aimed for 90% success rate after release<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:17:00.030Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:20:31.992Z"
+                }
+              ]
+            },
+            {
+              "id": "90",
+              "guid": "cc6af2af-d4dd-4feb-a8d3-68106eb4bfec",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td>Features<br></td><td>Full background check and processed within 48hours and send notifications<br></td><td>The customers can not speed up or help during&nbsp;the 48 hours and may not see notifications<br></td><td>90% - 100% volunteer acceptance rate and less than 5% volunteers not showing up</td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:19:37.504Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:19:37.504Z"
+                }
+              ]
+            },
+            {
+              "id": "91",
+              "guid": "3555a1df-9812-4b90-9d86-14407f9099ef",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td>Quality<br></td><td>The processes is straight forward and efficient&nbsp;<br></td><td>The process will take no longer than 48 hours<br></td><td>Have a 90% or higher satisfactory rate from users<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:22:19.021Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:22:19.021Z"
+                }
+              ]
+            },
+            {
+              "id": "92",
+              "guid": "b392adfb-3f8c-48a1-ad0a-c5bc8feff2d3",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td>Staff<br></td><td>The police and&nbsp;government will check the people<br></td><td>Certain volunteers will not&nbsp;be able to help the younger kids<br></td><td>Have 80% of volunteers meet the requirements to be able to help with the education side.<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:23:26.890Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:23:26.890Z"
+                }
+              ]
+            },
+            {
+              "id": "93",
+              "guid": "365a82ed-94a1-4342-a9dd-9b37977b99c9",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td>Cost<br></td><td>The initial cost will be lots<br></td><td>Funded by the city and businesses<br></td><td>Have 80% of the city support and do what they can to help<br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:24:08.728Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-18T00:24:08.728Z"
                 }
               ]
             }
