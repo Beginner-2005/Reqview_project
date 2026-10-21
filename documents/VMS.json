@@ -2,17 +2,17 @@
   "id": "VMS",
   "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 99,
+  "lastId": 104,
   "createdOn": "2026-10-05T16:55:50.854Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-18T00:41:53.059Z",
+  "lastChangedOn": "2026-10-21T00:10:53.152Z",
   "lastChangedBy": {
-    "name": "T00762405",
-    "email": "t00762405@mytru.ca",
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -117,7 +117,7 @@
     {
       "id": "29",
       "guid": "f231c86d-10b6-44af-a1a7-1f31803f683e",
-      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Sulav</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"width:1.1in;\"><p>1&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>",
+      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>",
       "history": [
         {
           "attributesChanged": {
@@ -129,6 +129,155 @@
             "name": "T00762405"
           },
           "changedOn": "2026-10-18T00:41:53.059Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Sulav</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"width:1.1in;\"><p>1&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:04:34.180Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Sulav</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"width:1.1in;\"><p>1&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Jaydin</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"width:1.1in;\"><p>&nbsp;2</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:04:53.834Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Sulav</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"width:1.1in;\"><p>1&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Jaydin</p></td><td style=\"width:58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"width:1.1in;\"><p>2</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:09:30.641Z"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "guid": "86b79949-4ef1-4825-84d5-a00d732f1e32",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1&nbsp;</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:08:04.657Z",
+          "docId": "VMS",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:08:04.657Z"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "guid": "7b31e1ff-700d-48cf-85ea-9dd9899cae4d",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:08:16.841Z",
+          "docId": "VMS",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:08:16.841Z"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "guid": "19ed5b87-78d0-47ab-bc65-b04aa023764f",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added parts from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:09:57.642Z",
+          "docId": "VMS",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:09:57.642Z"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "guid": "c2ab3b69-409b-4d5c-905f-f4319be4c223",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Corrected based on feedback from assignment 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>4</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:10:53.152Z",
+          "docId": "VMS",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T00:10:53.152Z"
         }
       ]
     },
