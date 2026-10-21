@@ -2,14 +2,14 @@
   "id": "VMS",
   "guid": "258ea744-0728-4b4c-9e23-48d828e44ea7",
   "name": "Vision and Scope for Volunteer Management System",
-  "lastId": 104,
+  "lastId": 111,
   "createdOn": "2026-10-05T16:55:50.854Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-21T00:10:53.152Z",
+  "lastChangedOn": "2026-10-21T02:31:54.793Z",
   "lastChangedBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
@@ -470,7 +470,7 @@
             {
               "id": "43",
               "guid": "7801778e-de51-4eda-9002-c59616fe0989",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Track at least 60% of senior cases requiring assistance in the city during the first year of operation.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Provide volunteer support to at least 85% of reported cases and reduce the volunteer assignment process so that people receive volunteer services within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p></li></ul>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:</span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -482,6 +482,137 @@
                     "name": "T00762405"
                   },
                   "changedOn": "2026-10-05T17:04:48.866Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Track at least 60% of senior cases requiring assistance in the city during the first year of operation.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Provide volunteer support to at least 85% of reported cases and reduce the volunteer assignment process so that people receive volunteer services within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:14.083Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">&nbsp;Provide volunteer support to at least 85% of reported cases and reduce the volunteer assignment process so that people receive volunteer services within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:20.985Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Volunteer Management System has the following measurable business objectives:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:35.401Z"
+                }
+              ]
+            },
+            {
+              "id": "109",
+              "guid": "c8ef5088-074a-4c8b-b303-5dbd54a96b78",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Track at least 60% of senior cases requiring assistance in the city during the first year of operation.&nbsp;</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "42",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:17.513Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:17.513Z"
+                }
+              ]
+            },
+            {
+              "id": "110",
+              "guid": "6b4ea963-348a-4582-8fc3-5da75f3a5334",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">Provide volunteer support to at least 85% of reported cases and reduce the volunteer assignment process so that people receive volunteer services within three days.&nbsp;</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "42",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:27.267Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:27.267Z"
+                }
+              ]
+            },
+            {
+              "id": "111",
+              "guid": "214a23cc-dcf2-4007-839c-0ea18e90e7ef",
+              "text": "<ul><li><span style=\"background-color: transparent; color: inherit;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "42",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:39.201Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:39.201Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">Reduce unexpected volunteer shortages to fewer than two times per year by monitoring volunteer availability and providing daily forecasts of the expected cases for the following week.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:54.793Z"
                 }
               ]
             }
@@ -495,7 +626,7 @@
             {
               "id": "45",
               "guid": "1c81310a-9ce0-459a-ac2b-637c0dcad2da",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system should track at least 60% of senior cases in the city within the first year.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">At least 85% of reported cases should receive volunteer support, with assignments completed within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -507,6 +638,166 @@
                     "name": "T00762405"
                   },
                   "changedOn": "2026-10-05T17:05:01.238Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system should track at least 60% of senior cases in the city within the first year.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">At least 85% of reported cases should receive volunteer support, with assignments completed within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:37.388Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">At least 85% of reported cases should receive volunteer support, with assignments completed within three days.&nbsp;</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:45.839Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:54.555Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of the Volunteer Management System will be measured using the following metrics:&nbsp;</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><br></p></li></ul><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:03.888Z"
+                }
+              ]
+            },
+            {
+              "id": "105",
+              "guid": "8d6f1db4-14e2-4ef4-8067-4a00a69c3ab7",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system should track at least 60% of senior cases in the city within the first year.&nbsp;</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "44",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:39.689Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:39.689Z"
+                }
+              ]
+            },
+            {
+              "id": "106",
+              "guid": "8838a26a-fd67-4844-925e-94ef3a759910",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">At least 85% of reported cases should receive volunteer support, with assignments completed within three days.&nbsp;</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "44",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:50.099Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:50.099Z"
+                }
+              ]
+            },
+            {
+              "id": "107",
+              "guid": "314d65d0-beea-40e7-8a29-dfb25ce2d118",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"background-color: transparent; color: inherit;\">Unexpected volunteer shortages should occur fewer than two times per year.&nbsp;</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "44",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:58.372Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:30:58.372Z"
+                }
+              ]
+            },
+            {
+              "id": "108",
+              "guid": "8cfb5fc7-8d5a-4c77-9393-e8e95baca528",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">These metrics will help the Mayor’s Office determine whether the system is improving volunteer coordination, service delivery, and the city’s ability to plan for future community needs.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "44",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:08.649Z",
+                  "docId": "VMS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T02:31:08.649Z"
                 }
               ]
             }
