@@ -1,5 +1,9 @@
 {
   "id": "Group Project",
+  "description": "User Requirement Document",
+  "group": {
+    "name": "Zendev"
+  },
   "documents": [
     "VMS.json",
     "URD c.json"
