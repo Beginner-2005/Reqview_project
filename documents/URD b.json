@@ -2,20 +2,2431 @@
   "id": "URD b",
   "guid": "84250e85-d8cb-41bc-b92c-33b2ced165eb",
   "name": "User Requirement Document",
-  "lastId": 0,
+  "lastId": 188,
   "createdOn": "2026-10-21T00:25:08.013Z",
   "createdBy": {
     "name": "T00758528",
     "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-21T00:25:08.013Z",
+  "lastChangedOn": "2026-10-21T00:29:16.556Z",
   "lastChangedBy": {
     "name": "T00758528",
     "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "c515dc44-f0b5-4d21-ba8a-b258456bd9da",
+      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "76",
+      "guid": "adc5bfa6-d659-4d68-8e4a-f048b2518a38",
+      "heading": "Introduction",
+      "history": [
+        {
+          "affectedNodeId": "1",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00758528@mytru.ca",
+            "name": "T00758528"
+          },
+          "changedOn": "2026-10-21T00:29:16.556Z",
+          "docId": "URD",
+          "structureAction": "Copy"
+        }
+      ],
+      "children": [
+        {
+          "id": "77",
+          "guid": "92d92099-4eab-4466-b4db-45c336842772",
+          "text": "<p><span>&lt;The introduction presents an overview to help the reader understand how the SRS is organized and how to use it.&gt;</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "guid": "4d1521f3-1ab4-426b-a91e-dc38a7a85cf1",
+          "heading": "Document Purpose",
+          "history": [
+            {
+              "affectedNodeId": "3",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "79",
+              "guid": "4db7c11d-5267-4f3d-b305-8ac48ae736c9",
+              "text": "<p><span>&lt;Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "guid": "3a627996-2b80-4abb-9c9b-409f30bd380c",
+          "heading": "Document Conventions",
+          "history": [
+            {
+              "affectedNodeId": "5",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "81",
+              "guid": "bbca5a08-70a4-4db4-9124-a9fbf9b35f44",
+              "text": "<p><span>&lt;Describe any standards or typographical conventions used, including the meaning of specific text styles, highlighting, or notations. If you are manually labeling unique requirement identifiers, you might specify the format here for anyone who needs to add one later.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "6",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "guid": "befa8c68-f25a-4d9d-82d8-ae53444ce353",
+          "heading": "Project Scope",
+          "history": [
+            {
+              "affectedNodeId": "7",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "83",
+              "guid": "11723de7-a3b9-4be5-96f8-654a67e1cb20",
+              "text": "<p><span>&lt;Provide a short description of the software being specified and its purpose. Relate the software to user or corporate goals and to business objectives and strategies. If a separate vision and scope or similar document is available, refer to it rather than duplicating its contents here. An SRS that specifies an incremental release of an evolving product should contain its own scope statement as a subset of the long-term strategic product vision. You might provide a high-level summary of the major features the release contains or the significant functions that it performs.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "8",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "84",
+              "guid": "2b9df950-9a16-45e7-b575-64bb1617955f",
+              "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "109",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "85",
+              "guid": "7e3ab663-cdc9-432c-9771-9774e3fa52be",
+              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "110",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "86",
+              "guid": "6b40468f-187a-46a5-b53f-aa2828472a68",
+              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "111",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "87",
+              "guid": "01f96e90-9358-4472-94a4-41ab87d450cd",
+              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added parts from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "112",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "88",
+              "guid": "2c6e5944-2252-4465-b9bb-be78988c92d3",
+              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Corrected based on feedback from assignment 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>4</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "113",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "guid": "db40196d-627c-40fe-b81b-3fac6e35e665",
+          "heading": "References",
+          "history": [
+            {
+              "affectedNodeId": "9",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "90",
+              "guid": "4b820468-09ae-4dcd-8306-34e58a65cf13",
+              "text": "<p><span>&lt;List any documents or other resources to which this SRS refers. Include hyperlinks to them if they are in a persistent location. These might include user interface style guides, contracts, standards, system requirements specifications, interface specifications, or the SRS for a related product. Provide enough information so that the reader can access each reference, including its title, author, version number, date, and source, storage location, or URL.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "10",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "guid": "5631ed9a-35b1-4c1a-a0f3-2e0fd8933429",
+      "history": [
+        {
+          "affectedNodeId": "11",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00758528@mytru.ca",
+            "name": "T00758528"
+          },
+          "changedOn": "2026-10-21T00:29:16.556Z",
+          "docId": "URD",
+          "structureAction": "Copy"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "guid": "2c3ce02f-0df8-4900-8c55-dd4a2275a1dc",
+      "heading": "Overall Description",
+      "history": [
+        {
+          "affectedNodeId": "12",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00758528@mytru.ca",
+            "name": "T00758528"
+          },
+          "changedOn": "2026-10-21T00:29:16.556Z",
+          "docId": "URD",
+          "structureAction": "Copy"
+        }
+      ],
+      "children": [
+        {
+          "id": "93",
+          "guid": "d4da50de-7bdb-43c0-b6ae-c3478a259534",
+          "text": "<p><span>&lt;This section presents a high-level overview of the product and the environment in which it will be used, the anticipated users, and known constraints, assumptions, and dependencies.&gt;</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "13",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "guid": "1c00cff5-dcc7-48d7-821d-ab7f35e3830b",
+          "heading": "Product Perspective",
+          "history": [
+            {
+              "affectedNodeId": "14",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "95",
+              "guid": "4da0fa62-1b8e-4561-819c-d41e7a423c7a",
+              "text": "<p><span>&lt;Describe the product's context and origin. Is it the next member of a growing product line, the next version of a mature system, a replacement for an existing application, or an entirely new product? If this SRS defines a component of a larger system, state how this software relates to the overall system and identify major interfaces between the two. Consider including visual models such as a context diagram or ecosystem map to show the product's relationship to other systems.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "15",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "96",
+              "guid": "014179de-93f6-4017-aa61-0eef9cbd1b27",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) is a proposed software system designed to coordinate volunteer services for senior people who need social support and students who require educational assistance. The system aims to improve the process of registering volunteers, assessing their suitability, matching them with proper volunteer opportunities, monitoring their engagement, and supporting the administrators in managing volunteers.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "16",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "97",
+              "guid": "9d5d6967-248d-43aa-9db6-51b224e4ccf9",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS is a new system intended to support seniors and volunteer management services. The initial release will prioritize senior people who need support, as this is the highest priority identified by the mayor and the Ministry of Health.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "17",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "98",
+              "guid": "c76e7ddb-c6c4-4eb4-9a4e-5e06e05ec9be",
+              "text": "<p><span style=\"color:#0D0D0D;\">Senior people will not be required to access the system <span><span>directly.They</span></span> will contact the Senior People Care Center (SPCC) by telephone. SPCC employees will enter senior people's information into the VMS and update their profiles when necessary. Approved volunteers and peers will be assigned to senior people and they will provide services.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "18",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "99",
+              "guid": "41dc5d15-737a-4710-a595-6288cebc3421",
+              "text": "<p><span style=\"color:#0D0D0D;\">The system will also support volunteer administrators by allowing them to screen new registered volunteers, submit profiles for background checks, verify educational certificates, approve eligible volunteers, monitor volunteer engagement, receive feedback, and what is expected during the following week.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "19",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "100",
+              "guid": "d102e9f1-9bdf-4406-8743-15d9c9c949af",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS will interact with external systems and organizations, including the government, police, and background checking systems. They are expecting to process background checks in a quick manner, but its operation is limited to working hours because police officers must manually approve parts of the process.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "20",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "101",
+              "guid": "dc60202c-ecf7-466f-afce-34eb4e834dc4",
+              "attachments": [
+                "URD b-101_1_image002.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "21",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "102",
+              "guid": "1e914152-d46e-4c08-b5af-3ffb481f485f",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS is expected to provide a simple and accessible interface for the volunteers while providing administrative interfaces for SPCC employees and volunteer administrators. Students will not directly access the system to request volunteers. Access to student information must be restricted to the volunteer specifically matched with the student. The police will conduct background checks with the help of the VMS and this will help with getting the volunteers.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "22",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "guid": "931ca32e-a1e0-4c02-9ace-68cacfa21e30",
+          "heading": "User Classes and Characteristics",
+          "history": [
+            {
+              "affectedNodeId": "23",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "104",
+              "guid": "ecf9664f-1823-48b3-8795-46587f6e96e4",
+              "text": "<p><span>&lt;Identify the various user classes that you anticipate will use this product and describe their pertinent characteristics. Some requirements might pertain only to certain user classes. Identify the favored user classes. User classes represent a subset of the stakeholders described in the vision and scope document. User class descriptions are a reusable resource. If available, you can incorporate user class descriptions by simply pointing to them in a master user class catalog instead of duplicating information here.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "24",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "105",
+              "guid": "096beb0e-d8f2-429f-8a68-33cb7d447cd6",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS has multiple user classes with different goals, responsibilities, and interaction levels. These classes can be categorized as direct or indirect users and as favored, disfavored, or ignored classes.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "25",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "106",
+              "guid": "c766a36c-2502-4323-83bc-f561aaacddac",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Direct users interact with the VMS&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "26",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "107",
+              "guid": "71427f92-7b2b-40a3-a7a1-9c74f0c5d4e8",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Indirect users do not directly interact with the VMS but are affected by it</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "27",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "108",
+              "guid": "49361449-887b-4595-bb01-e329508d783c",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Favored users are prioritized when designing system functionality and usability</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "28",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "109",
+              "guid": "23536280-15f6-4438-bc65-4198522360c5",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Disfavored users are restricted from using particular functions or accessing information</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "29",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "110",
+              "guid": "30e63825-2117-4010-b160-37d2c0935661",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Ignored users are not a primary focus of the system's design or release.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "30",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "111",
+              "guid": "1e7f7c3f-c4d2-44f9-bc11-7cb91eca2730",
+              "text": "<p><span style=\"color:#0D0D0D;\">The following user classes are proposed based on the interviews and the system's intended scope.</span></p><table style=\"width:6.5in;\"><tbody><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">User Class&nbsp;</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Type</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Description</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors receive support from peers. They are favored beneficiaries but are not expected to access the VMS.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and Caregivers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and caregivers benefit from improved communication and support for senior people. They do not have any responsibilities and access right now</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees create <span>seniors</span> profiles using information provided and update information.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers register their information and preferred responsibilities. They receive volunteer opportunities and recommendations, then participate in those roles.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Administrators review volunteer registrations, conduct screening, background checks, educational certificates, approve volunteers, monitor, and plan volunteer assignments.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School administrators submit requests for volunteers to teach students and can expect administrators to review these requests.</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and Disfavored</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students benefit from educational support provided by peers but are not allowed to access and request volunteers directly.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "31",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "112",
+              "guid": "a6134e43-768b-4cd7-acf9-43ebfd2e216b",
+              "text": "<p><span style=\"color:#0D0D0D;\">The principal favored user classes for the initial release are the employees, volunteers, and volunteer administrators, with the senior people being the main beneficiaries. School administrators and students become relevant to the student support functionality, which is expected to be developed after the initial senior care priority is addressed.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "32",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "113",
+              "guid": "91cd42c9-af5f-4916-82f2-9e30344c3e40",
+              "text": "<p><span style=\"color:#0D0D0D;\">The classification of family members and caregivers as a favored indirect class is a stakeholder assumption, not a confirmed requirement.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "33",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "guid": "8e1e7948-00a0-4208-b2d5-c9586c3e5c55",
+          "heading": "Use Cases and Models",
+          "history": [
+            {
+              "affectedNodeId": "34",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "115",
+              "guid": "d43dabdd-7041-474e-80f1-9b31cfbd1fdb",
+              "text": "<p><span>&lt;Identify the main use cases of the system and report them following the template. Model the use cases by drawing the Use Case diagrams and Activity diagrams.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "35",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "116",
+              "guid": "67ea88e5-4655-4dde-b6e5-60dd6f0c9a07",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) will provide a centralized platform for managing senior support requests, registering and approving volunteers, and planning volunteer assignments. The following use cases represent three important interactions between users and the system.</span><span>&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "36",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "117",
+              "guid": "a5139775-f4b2-48e9-ad04-ceebfc2ae783",
+              "heading": "Use Case List",
+              "history": [
+                {
+                  "affectedNodeId": "37",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "118",
+                  "guid": "190a0b93-471e-4ab3-8cb3-b01929f57801",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The following table follows the format of the provided template.</span></p><table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:202.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Primary Actor</span></p></td><td style=\"width:262.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Use Cases</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "affectedNodeId": "38",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "119",
+              "guid": "ee9e3470-3419-4914-b3f6-3b5afe18cfc1",
+              "heading": "Use Case Templates",
+              "history": [
+                {
+                  "affectedNodeId": "39",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "120",
+                  "guid": "39f57382-ecd5-40b6-ab55-ce2954d41f1d",
+                  "heading": "Use Case 1: Create New Senior Profile",
+                  "history": [
+                    {
+                      "affectedNodeId": "40",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "121",
+                      "guid": "870223af-3f1c-46f2-87e8-10dfb7ec0719",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Senior Person</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an SPCC employee to create a senior profile using information provided over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A senior person calls the SPCC to request support</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">PRE-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The employee is logged in and authorized to use the VMS</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">POST-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior's profile and support needs are saved in the system.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-1. Only authorized employees can create or update senior profiles.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior person can provide the required information over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Personal information must be protected from unauthorized access</span></p></td></tr></tbody></table><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol>",
+                      "history": [
+                        {
+                          "affectedNodeId": "41",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "122",
+                  "guid": "2434c529-00ac-4310-bc4b-c5abaf5e7c50",
+                  "heading": "Use Case 2: Approve New Volunteer",
+                  "history": [
+                    {
+                      "affectedNodeId": "42",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "123",
+                      "guid": "802047e5-05c0-4dc0-b7b8-5e7bca53acdc",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A newly registered volunteer is ready for administrative review.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The volunteer has submitted a profile.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. The administrator is logged in and authorized.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. The volunteer's approval status is recorded in the VMS.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. The administrator reviews the volunteer's profile.</span></p><p><span style=\"color:#0D0D0D;\">2. The administrator submits a background-check request.</span></p><p><span style=\"color:#0D0D0D;\">3. The BCS returns the result when available.</span></p><p><span style=\"color:#0D0D0D;\">4. Educational certificates are verified if the volunteer intends to teach children.</span></p><p><span style=\"color:#0D0D0D;\">5. The administrator approves the volunteer if all required checks are satisfactory</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. If educational verification is not required, the process continues without it.</span></p><p><span style=\"color:#0D0D0D;\">2. If a check is pending, the volunteer remains unapproved until the result is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">2.0.E1 An unsatisfactory background check prevents approval.</span></p><p><span style=\"color:#0D0D0D;\">2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-2. Volunteers must pass the required background check before approval.</span></p><p><span style=\"color:#0D0D0D;\">BR-3. Educational certificates must be verified for teaching volunteers.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">T</span><span style=\"color:#0D0D0D;\">he government BCS is available during its operating hours.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The VMS tracks background checks but does not perform them itself.</span></p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "43",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "124",
+                  "guid": "195c1796-28d0-4593-9100-abf46d710727",
+                  "heading": "Use Case 3: Generate Daily Report",
+                  "history": [
+                    {
+                      "affectedNodeId": "44",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "125",
+                      "guid": "ce2ab0b8-6a4b-4367-b5cc-f9c02ae88f3e",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "45",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "126",
+              "guid": "c363ee1b-fa3b-49df-94a1-a90c712dfb66",
+              "heading": "Use Case Diagrams",
+              "history": [
+                {
+                  "affectedNodeId": "46",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "127",
+                  "guid": "dd3045d1-3807-484d-a131-fb8fc89608be",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The following diagrams show the VMS system boundary, actors, and main use cases. Each diagram represents one of the three selected use cases.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "47",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                },
+                {
+                  "id": "128",
+                  "guid": "016931ad-5a6e-471d-938b-d341e3886ea6",
+                  "heading": "Diagram 1: Create New Senior Profile",
+                  "history": [
+                    {
+                      "affectedNodeId": "48",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "129",
+                      "guid": "61f7c69d-162c-4c2b-8f9c-287602f04c4c",
+                      "attachments": [
+                        "URD b-129_1_image004.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "49",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "130",
+                      "guid": "5347f7c2-7b4a-48b6-930c-782519b748e4",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The SPCC employee creates or updates a senior profile using information provided by the senior person over the phone.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "50",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "131",
+                  "guid": "3d8b75df-7390-41d5-8afc-56fcbc441285",
+                  "heading": "Diagram 2: Approve New Volunteer",
+                  "history": [
+                    {
+                      "affectedNodeId": "51",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "132",
+                      "guid": "c61c8c2b-e70c-4459-a36e-ad60098fc67f",
+                      "attachments": [
+                        "URD b-132_1_image006.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "52",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "133",
+                      "guid": "77010663-8b62-429d-9af1-a4c8ef0543c3",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The administrator reviews volunteer information and checks the required background-check and educational verification results before approval.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "53",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "134",
+                  "guid": "99ab41c8-6b1e-414f-b7d7-9b4bcf172c34",
+                  "heading": "Diagram 3: Generate Daily Report",
+                  "history": [
+                    {
+                      "affectedNodeId": "54",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "135",
+                      "guid": "f7283b64-e5c8-4ac4-bf02-e4fe0212e33c",
+                      "attachments": [
+                        "URD b-135_1_image008.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "55",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "136",
+                      "guid": "a2bb85ec-0314-45ad-b3c9-0f6bc0866e1b",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The VMS uses senior case and volunteer records to forecast demand for the following seven days, identify potential shortages, and notify the administrator.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "56",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "137",
+              "guid": "5b10daff-04bf-495f-adb8-76c6459f4732",
+              "heading": "Activity Diagrams",
+              "history": [
+                {
+                  "affectedNodeId": "57",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "138",
+                  "guid": "f6497767-b112-400b-b00d-6745246df2e6",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Activity diagrams illustrate the steps, decisions, and outcomes involved in each use case.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "58",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                },
+                {
+                  "id": "139",
+                  "guid": "f25d00ba-652d-4004-a928-df3ecdc079e1",
+                  "heading": "Activity Diagram 1: Create New Senior Profile",
+                  "history": [
+                    {
+                      "affectedNodeId": "59",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "140",
+                      "guid": "9c703bd4-dbaf-44e5-8bce-b256329e2ac7",
+                      "attachments": [
+                        "URD b-140_1_image010.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "60",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "141",
+                      "guid": "5f96f3c0-d8de-428c-8e07-d954f41a2bf3",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The employee collects and enters the senior's information. The VMS validates and saves the profile, requesting corrections or displaying an error when necessary.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "61",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "142",
+                  "guid": "99a2656f-50db-42b4-83dc-5763495b0cd5",
+                  "heading": "Activity Diagram 2: Approve New Volunteer",
+                  "history": [
+                    {
+                      "affectedNodeId": "62",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "143",
+                      "guid": "b799ba4d-f502-49f6-aeac-7880970b57be",
+                      "attachments": [
+                        "URD b-143_1_image012.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "63",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "144",
+                      "guid": "ce199657-7e51-4058-888f-d9be8444ada9",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The administrator reviews the volunteer and checks the background-check result. Educational certificates are also verified when required. Approval occurs only after all required checks are satisfactory.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "64",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "145",
+                  "guid": "d7dec76e-db5b-45bb-940c-c442fdd8f301",
+                  "heading": "Activity Diagram 3: Generate Daily Report",
+                  "history": [
+                    {
+                      "affectedNodeId": "65",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "146",
+                      "guid": "266dce2f-45a4-410b-ae63-39750c756fe0",
+                      "attachments": [
+                        "URD b-146_1_image014.png"
+                      ],
+                      "history": [
+                        {
+                          "affectedNodeId": "66",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "147",
+                      "guid": "c76250c7-cd52-4a91-86c2-dea6bc6dbcf4",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The VMS retrieves relevant records, forecasts senior case demand for the next seven days, and identifies potential volunteer shortages. The administrator reviews the report and plans assignments.</span></p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "67",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "148",
+                  "guid": "036503d2-0f8e-43e8-804d-76f452eea7c0",
+                  "heading": "Diagram Symbol Descriptions",
+                  "history": [
+                    {
+                      "affectedNodeId": "68",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "149",
+                      "guid": "b939c879-4ab5-481b-a95d-e6347ea581d9",
+                      "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "69",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "150",
+                      "guid": "54dce416-2bd9-4013-b01f-de04b1e87b9e",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Blue circles</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Start and end points</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "102",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "151",
+                      "guid": "d8e73ba8-be3e-4de9-80e4-2e82a4cefa29",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Green boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Actions or processes</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "103",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "152",
+                      "guid": "7c6d2f65-efff-4733-988a-1f5a68603763",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Yellow diamonds</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Decisions</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "104",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "153",
+                      "guid": "b1400172-4a12-402d-8ef4-d7b3a73e6f3a",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Red boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Errors, warnings, or rejection</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "105",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "154",
+                      "guid": "ad9c492c-817f-4531-9840-4594d19ece7b",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Grey rectangle</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>VMS system boundary</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "106",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "155",
+                      "guid": "e56f1dec-3a73-4dca-b994-f19b48afcd64",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Cylinders</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Databases or stored records</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "107",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "156",
+                      "guid": "4ff5b5ce-7b70-432f-8330-5d5f6ad00f3a",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Arrows</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Connections or process direction</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "108",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00758528@mytru.ca",
+                            "name": "T00758528"
+                          },
+                          "changedOn": "2026-10-21T00:29:16.556Z",
+                          "docId": "URD",
+                          "structureAction": "Copy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "guid": "e473f07e-b6d7-47ca-a3c3-4b5dd35d2139",
+          "heading": "Operating Environment",
+          "history": [
+            {
+              "affectedNodeId": "70",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "158",
+              "guid": "6bb33196-f619-4361-9a38-62f955b14b01",
+              "text": "<p><span>&lt;Describe the environment in which the software will operate, including the hardware platform; operating systems and versions; geographical locations of users, servers, and databases; and organizations that host the related databases, servers, and websites. List any other software components or applications with which the system must peacefully coexist. If extensive technical infrastructure work needs to be performed in conjunction with developing the new system, consider creating a separate infrastructure requirements specification to detail that work.&gt;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "71",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "159",
+              "guid": "01d1ab88-68b5-4bc2-b5c1-df1a86de921f",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) will be developed as a web-based application for the City of Kamloops. It will provide a centralized platform for managing volunteers, senior support cases, volunteer approvals, assignments, and daily reports. The system will be accessible to authorized users through an internet connection.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "72",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "160",
+              "guid": "604d3395-8737-4db9-b5d7-7cfbf54a2db5",
+              "heading": "Hardware and Software Environment",
+              "history": [
+                {
+                  "affectedNodeId": "73",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "161",
+                  "guid": "4c400ea5-7c6f-41b3-b2e1-400dd8d9d7e8",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The VMS will be accessible through desktop computers, laptops, tablets, and smartphones. Users will be able to access the system using modern web browsers, such as Google Chrome, Microsoft Edge, Safari, or Firefox. The application will run on a web server connected to a database that stores volunteer profiles, senior information, background-check statuses, qualifications, availability, and assignment records.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "74",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                },
+                {
+                  "id": "162",
+                  "guid": "05f8bae6-150c-41f2-9d91-2a3dfdef4649",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The specific server hardware, operating system, database technology, and hosting provider have not yet been selected. These technical details will be determined during the design and implementation stages.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "75",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "163",
+              "guid": "00fd938c-71ef-4aac-8661-0cd3b377d620",
+              "heading": "Network and External Systems",
+              "history": [
+                {
+                  "affectedNodeId": "76",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "164",
+                  "guid": "95d97605-9af0-468e-a370-773ade23cac7",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The system will primarily serve users located in Kamloops, British Columbia, including SPCC employees, volunteer administrators, school administrators, and volunteers. Reliable internet access will be required to use the application.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "77",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                },
+                {
+                  "id": "165",
+                  "guid": "453871ea-8629-47e5-b91c-197a948bc8ce",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The VMS will depend on the government's Background Check System (BCS) to process volunteer background checks. Since this process includes manual police approval, delays may occur outside the VMS's control. The system may also use an email, SMS, or in-application notification service to inform administrators about volunteer assignments, upcoming demand, and potential shortages.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "78",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "166",
+              "guid": "8416d20d-e999-4345-81a4-db4282d978ad",
+              "heading": "Security and Deployment Considerations",
+              "history": [
+                {
+                  "affectedNodeId": "79",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ],
+              "children": [
+                {
+                  "id": "167",
+                  "guid": "4cf2efe0-d6df-45ff-b317-12615785adae",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Because the VMS will store personal information about volunteers, senior citizens, and students, it must provide secure login, role-based access control, and appropriate protection of sensitive data. Volunteers must only be able to access student information for students with whom they have been matched, while authorized administrators may access information required for their responsibilities.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "80",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                },
+                {
+                  "id": "168",
+                  "guid": "b7d6fdb1-b86a-475e-a5de-8057368e1f9d",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Before public release, the system should be tested to ensure that volunteer registration, background-check tracking, case management, and daily report generation work correctly. Training should be provided to SPCC employees and administrators so they can use the system effectively. A pilot period should also be conducted to identify and resolve problems before the system is fully deployed.</span></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "81",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00758528@mytru.ca",
+                        "name": "T00758528"
+                      },
+                      "changedOn": "2026-10-21T00:29:16.556Z",
+                      "docId": "URD",
+                      "structureAction": "Copy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "guid": "55587450-19f7-4c46-9b5f-5d4ce6d0351a",
+          "heading": "Design and Implementation Constraints",
+          "history": [
+            {
+              "affectedNodeId": "82",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "170",
+              "guid": "4d04dbf2-e0eb-44c8-b543-e470e3e80c3a",
+              "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Accessibility</span></strong><span>: senior people care center (SPCC) should be able to record senior people data while the seniors speak with them.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "83",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "171",
+              "guid": "14ffe232-e0c8-4128-82df-3c97f398a2e8",
+              "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Government regulation</span></strong><span>: volunteers cannot access students’ information unless they are their matched volunteer (student-peer).</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "84",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "172",
+              "guid": "d5cd5246-2eea-4cb7-ad3a-0cc8cbbb50fb",
+              "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Parent <span>regulation <span>:</span></span></span></strong><span>&nbsp;kids should not be allowed to use the application directly by themselves, school administrators must submit requests.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "85",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "173",
+              "guid": "8c216455-f696-45dd-b84c-54ec2f97d926",
+              "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Performance</span></strong><span>: the VMS must handle a varying number of senior people needing, based on the daily cases.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "86",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "174",
+              "guid": "52244794-589c-4c29-894b-b01caef844ca",
+              "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Reporting requirement</span></strong><span>: the VMS should report daily to the volunteer administrator about the forecasted number of cases during next week.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "87",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "175",
+              "guid": "bcda194b-4c5e-4abc-8f6e-15a98f565e55",
+              "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Health reporting</span></strong><span>: Senior peers should be able to report any health issue related to the seniors to the VMS.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "88",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "176",
+              "guid": "3d563f8f-0dc5-4dc1-b125-31fbea47a34e",
+              "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Usability <span>constraint<span>&nbsp;:</span></span></span></strong><span>&nbsp;VMS should be easy and <span>and</span> simple application to encourage the volunteers to use it.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "89",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "guid": "bdb816f3-5a3f-4150-b646-e81d218b2879",
+          "heading": "Assumptions and Dependencies",
+          "history": [
+            {
+              "affectedNodeId": "90",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T00:29:16.556Z",
+              "docId": "URD",
+              "structureAction": "Copy"
+            }
+          ],
+          "children": [
+            {
+              "id": "178",
+              "guid": "ca832148-611d-429d-99fb-da68721f6113",
+              "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Number of <span>demand</span></span></strong><span>: We assume that the number of senior people and students who need assistance would vary.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "91",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "179",
+              "guid": "2be724fc-f04a-486d-a8fe-fc5c51cca408",
+              "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System usability</span></strong><span>: we assume that all the volunteers would have access to a mobile phone or a computer, and know the basic use of technology</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "92",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "180",
+              "guid": "6d507a64-d5f5-46b0-b154-b355d7e19d78",
+              "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer availability</span></strong><span>: We assume that enough volunteers will sign up and be available to help senior people and students.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "93",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "181",
+              "guid": "17229a16-c714-41f2-ba15-3421bd2fd60f",
+              "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Forecasting data</span></strong><span>: The system depends on having enough data to predict the number of cases expected in the following week.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "94",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "182",
+              "guid": "75934514-ef84-439c-880b-651c2d1d0ae7",
+              "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Background Check System (BCS)</span></strong><span>: We assume that the BCS will be completed by the end of next month and will handle up to 1,000 background checks per hour.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "95",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "183",
+              "guid": "c6946165-9f22-460e-b6f6-fbeccb304c21",
+              "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data accuracy</span></strong><span>: We assume volunteers and SPCC employees will provide accurate and up-to-date information.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "96",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "184",
+              "guid": "69d7cbfd-6373-412e-b45f-9cf8b0156f01",
+              "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer commitment</span></strong><span>: We assume volunteers will regularly participate in their assigned activities, although the system must track engagement and identify commitment issues.<span>&nbsp; </span></span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "97",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "185",
+              "guid": "95d6edbb-355b-4227-9450-f1d1feb29d27",
+              "text": "<p><span><span>8)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System maintenance</span></strong><span>: We assume the organization will provide the resources needed to maintain and update the VMS.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "98",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "186",
+              "guid": "f428ebdb-7a35-4676-bff1-fdfae0b2cc13",
+              "text": "<p><span><span>9)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data storage</span></strong><span>: We assume sufficient storage will be available to maintain volunteer profiles, senior people's information, and background-check records securely.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "99",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "187",
+              "guid": "9707c304-037e-44f2-88ac-36027b09414d",
+              "text": "<p><span><span>10)<span>&nbsp;</span></span></span><strong><span>Operating budget</span></strong><span>: We assume the organization will have enough funding to operate, maintain, and update the VMS.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "100",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            },
+            {
+              "id": "188",
+              "guid": "ba2285ac-f90a-4ce2-accf-8b7e466ae93f",
+              "text": "<p><span><span>11)<span>&nbsp;</span></span></span><strong><span>Stakeholder cooperation</span></strong><span>: We assume senior people, volunteers, school administrators, and other stakeholders will cooperate by providing the information needed by the system.&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "101",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T00:29:16.556Z",
+                  "docId": "URD",
+                  "structureAction": "Copy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "guid": "ae1b8383-8345-461c-8c31-8ef915ba06e7",
+      "heading": "System Features",
+      "children": [
+        {
+          "id": "27",
+          "guid": "ce57cbd7-21ce-4b00-ac81-553243fbb0eb",
+          "text": "<p><span>&lt;This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, stimulus, response, or combinations of these, whatever makes the most logical sense for your product.&gt;</span></p>"
+        },
+        {
+          "id": "28",
+          "guid": "2d463852-e0ae-4bd9-a4f7-8a55624c450d",
+          "heading": "System Feature 1",
+          "children": [
+            {
+              "id": "29",
+              "guid": "59ed6664-3474-4eee-aa4f-5497407c7dc7",
+              "text": "<p><span>&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></p>"
+            },
+            {
+              "id": "30",
+              "guid": "520a88d5-080b-4088-a7bc-2427165e3d41",
+              "heading": "Description",
+              "children": [
+                {
+                  "id": "31",
+                  "guid": "ef797a20-a1a9-4a90-824b-40317ce52465",
+                  "text": "<p><span><a>&lt;Provide a short description of the feature and indicate whether it is of High, Medium, or Low priority.&gt;</a></span></p>"
+                }
+              ]
+            },
+            {
+              "id": "32",
+              "guid": "54704f4c-5f9a-4017-9ffc-ea5a502e53da",
+              "heading": "Stimulus/Response Sequences",
+              "children": [
+                {
+                  "id": "33",
+                  "guid": "0ca4ff74-f80e-4c30-a375-7ae99692702c",
+                  "text": "<p><span><a>&lt;List the sequences of user actions and system responses that stimulate the behavior defined for this feature. These will correspond to the dialog elements associated with use cases.&gt;</a></span></p>"
+                }
+              ]
+            },
+            {
+              "id": "34",
+              "guid": "e73402d7-0f6c-4cb2-b8f9-fd97cef4f67d",
+              "heading": "Functional Requirements",
+              "children": [
+                {
+                  "id": "35",
+                  "guid": "c0522185-10b1-4c8f-9373-a480f05f7af6",
+                  "text": "<p><span><a>&lt;Itemize the specific functional requirements associated with this feature. These are the software capabilities that must be implemented for the user to carry out the feature's services or to perform a use case. Describe how the product should respond to anticipated error conditions. Use “TBD” as a placeholder to indicate when&nbsp;</a><span><span>necessary</span></span><span> information is not yet available.&gt;</span></span></p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "guid": "f4a36c8f-c5f3-4d78-ba88-37bb5a7180a1",
+          "heading": "System Feature 2 (and so on)"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "guid": "3504980d-d3d1-4a72-ab74-228e1595cbb0",
+      "heading": "Data Requirements",
+      "children": [
+        {
+          "id": "38",
+          "guid": "e8870d0d-4ac4-4143-a221-ef16eab8ccc2",
+          "text": "<p><span>&lt;This section describes various aspects of the data that the system will consume as inputs, process in some fashion, or create as outputs.&gt;</span></p>"
+        },
+        {
+          "id": "39",
+          "guid": "dc4d55b9-5ea2-47a6-9001-cc55fea559af",
+          "heading": "Logical Data Model",
+          "children": [
+            {
+              "id": "40",
+              "guid": "c137c17a-bbef-4701-8f66-ce5e884c4017",
+              "text": "<p><span>&lt;A data model is a visual representation of the data objects and collections the system will process and the relationships between them. Include a data model for the business operations being addressed by the system, or a logical representation for the data that the system itself will manipulate. Data models are most commonly created as an entity-relationship diagram.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "guid": "fa697fba-1a5c-4690-a26c-f464e06389e5",
+          "heading": "Data Dictionary",
+          "children": [
+            {
+              "id": "42",
+              "guid": "09a8ae85-9962-434d-8d8d-bf5acfde4065",
+              "text": "<p><span>&lt;The data dictionary defines the composition of data structures and the meaning, data type, length, format, and allowed values for the data elements that make up those structures. In many cases, you're better off storing the data dictionary as a separate artifact, rather than embedding it in the middle of an SRS. That also increases its reusability potential in other projects.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "guid": "5a26ba17-63a5-4f64-92b2-8b5c377cf013",
+          "heading": "Reports",
+          "children": [
+            {
+              "id": "44",
+              "guid": "aa47442a-99e3-4565-925c-3fbfd27201f2",
+              "text": "<p><span>&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined <span>layout</span> you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "guid": "e762a9b6-ca35-43aa-8ec3-86ab4ee2fe32",
+          "heading": "Data Acquisition, Integrity, Retention, and Disposal",
+          "children": [
+            {
+              "id": "46",
+              "guid": "3d4fe320-fa9d-40ea-be54-50a9f50e6030",
+              "text": "<p><span>&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;</span></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "guid": "c7b12da3-016d-42f5-82ee-f94f1c4dcbeb",
+      "heading": "External Interface Requirements",
+      "children": [
+        {
+          "id": "48",
+          "guid": "48bd1140-35da-4739-ba05-0f692b85c0b8",
+          "text": "<p>&lt;This section provides information to ensure that the system will communicate properly with users and with external hardware or software elements.&gt;</p>"
+        },
+        {
+          "id": "49",
+          "guid": "0b32c349-cadb-4877-9b86-64afd0c676b0",
+          "heading": "User Interfaces",
+          "children": [
+            {
+              "id": "50",
+              "guid": "e07cd670-d2ec-4e56-8d42-0335c3ee09bc",
+              "text": "<p>&lt;Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed. Details of the user interface design should be documented in a separate user interface specification.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "guid": "257d7a1c-fc87-4461-9683-919872572f10",
+          "heading": "Software Interfaces",
+          "children": [
+            {
+              "id": "52",
+              "guid": "932c442d-a29f-476e-9a9f-ec12e00f25d1",
+              "text": "<p>&lt;Describe the connections between this product and other software components (identified by name and version), including other applications, databases, operating systems, tools, libraries, websites, and integrated commercial components. State the purpose, formats, and contents of the messages, data, and control values exchanged between the software components. Specify the mappings of input and output data between the systems and any translations that need to be made for the data to get from one system to the other. Describe the services needed by or from external software components and the nature of the intercomponent communications. Identify data that will be exchanged between or shared across software components. Specify nonfunctional requirements affecting the interface, such as service levels for responses times and frequencies, or security controls and restrictions.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "guid": "01b65fbf-912a-4822-b313-aa69d18e948d",
+          "heading": "Hardware Interfaces",
+          "children": [
+            {
+              "id": "54",
+              "guid": "c7bf511f-57bf-4b25-9351-802d66457f75",
+              "text": "<p><span>&lt;Describe the characteristics of each interface between the software and hardware (if any) components of the system. This description might include the supported device types, the data and control interactions between the software and the hardware, and the communication protocols to be used. List the inputs and outputs, their formats, their valid values or ranges, and any timing issues developers need to be aware of. If this information is extensive, consider creating a separate interface specification document.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "guid": "c85028b4-25fc-470d-a602-8c6cd8a0a3cb",
+          "heading": "Communications Interfaces",
+          "children": [
+            {
+              "id": "56",
+              "guid": "c90d0c44-974c-45b4-9c00-fcaa381e2112",
+              "text": "<p>&lt;State the requirements for any communication functions the product will use, including e-mail, Web browser, network protocols, and electronic forms. Define any pertinent message formatting. Specify communication security or encryption issues, data transfer rates, handshaking, and synchronization mechanisms. State any constraints around these interfaces, such as whether e-mail attachments are acceptable or not.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "guid": "8c0cd91f-1f96-47bd-9bb7-30cce1af29f5",
+      "heading": "Quality Attributes",
+      "children": [
+        {
+          "id": "58",
+          "guid": "a00e87da-c2b4-48c7-a42f-173039eae64b",
+          "heading": "Usability",
+          "children": [
+            {
+              "id": "59",
+              "guid": "9bfb0b6e-fc3f-4e1f-8f39-1a29ce10d5d1",
+              "text": "<p><span>&lt;Specify any requirements regarding characteristics that will make the software appear to be “user-friendly.” Usability encompasses ease of use, ease of learning; memorability; error avoidance, handling, and recovery; efficiency of interactions; accessibility; and ergonomics. Sometimes these can conflict with each other, as with ease of use over ease of learning. Indicate any user interface design standards or guidelines to which the application must conform.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "guid": "a4eafcf9-2303-4b9a-83ec-8ac5bc47efc9",
+          "heading": "Performance",
+          "children": [
+            {
+              "id": "61",
+              "guid": "f1fb4907-380d-40a0-ad85-8fe0f8fc94c4",
+              "text": "<p>&lt;State specific performance requirements for various system operations. If different functional requirements or features have different performance requirements, it's appropriate to specify those performance goals right with the corresponding functional requirements, rather than collecting them in this section.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "guid": "2ad9844d-cf17-47f3-9030-70644a03d609",
+          "heading": "Security",
+          "children": [
+            {
+              "id": "63",
+              "guid": "f81fe0a8-8d7e-46ed-959d-4bcd6adeb6d5",
+              "text": "<p>&lt;Specify any requirements regarding security or privacy issues that restrict access to or use of the product. These could refer to physical, data, or software security. Security requirements often originate in business rules, so identify any security or privacy policies or regulations to which the product must conform. If these are documented in a business rules repository, just refer to them.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "guid": "9dc3cdd8-1bf6-4914-8880-2520949c6981",
+          "heading": "Safety",
+          "children": [
+            {
+              "id": "65",
+              "guid": "2d1d91c7-fc0b-4848-972d-3b75785dd9e8",
+              "text": "<p><span>&lt;Specify requirements that are concerned with possible loss, damage, or harm that could result from use of the product. Define any safeguards or actions that must be taken, as well as potentially dangerous actions that must be prevented. Identify any safety certifications, policies, or regulations to which the product must conform.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "guid": "51a1ea1c-9f2c-4924-a060-9ed5662e02de",
+          "heading": "[Others as relevant]",
+          "children": [
+            {
+              "id": "67",
+              "guid": "7af1cc46-f96a-49e7-bbdb-dade57aee60a",
+              "text": "<p>&lt;Create a separate section in the SRS for each additional product quality attribute to describe characteristics that will be important to either customers or developers. Possibilities include availability, efficiency, <span>installability</span>, integrity, interoperability, modifiability, portability, reliability, reusability, robustness, scalability, and verifiability. Write these to be specific, quantitative, and verifiable. Clarify the relative priorities for various attributes, such as security over performance.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "guid": "accc94bf-e760-4a40-a667-ad4cc43cd9aa",
+      "heading": "Internationalization and Localization Requirements",
+      "children": [
+        {
+          "id": "69",
+          "guid": "35df30d9-7109-4be7-8e9f-8a94e55786a4",
+          "text": "<p><span>&lt;Internationalization and localization requirements ensure that the product will be suitable for use in nations, cultures, and geographic locations other than those in which it was created. Such requirements might address differences in: currency; formatting of dates, numbers, addresses, and telephone numbers; language, including national spelling conventions within the same language (such as American versus British English), symbols used, and character sets; given name and family name order; time zones; international regulations and laws; cultural and political issues; paper sizes used; weights and measures; electrical voltages and plug shapes; and many others.&gt;</span></p>"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "guid": "6bcbc0ea-23be-4df0-b92d-6107e70cf1e2",
+      "heading": "Other Requirements",
+      "children": [
+        {
+          "id": "71",
+          "guid": "2f8ff431-7c7b-440c-99a0-7d6f4b8db0fb",
+          "text": "<p>&lt;Examples are: legal, regulatory or financial compliance, and standards requirements; requirements for product installation, configuration, startup, and shutdown; and logging, monitoring and audit trail requirements. Instead of just combining these all under \"Other,\" add any new sections to the template that are pertinent to your project. Omit this section if all your requirements are accommodated in other sections. &gt;</p>"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "guid": "27674c00-06a4-4900-85f3-f05babe3ecc4",
+      "heading": "Glossary",
+      "children": [
+        {
+          "id": "73",
+          "guid": "46acc04b-5263-42f5-b5e0-eb83234b66fc",
+          "text": "<p>&lt;Define any specialized terms that a reader needs to know to understand the SRS, including acronyms and abbreviations. Spell out each acronym and provide its definition. Consider building a reusable enterprise-level glossary that spans multiple projects and incorporating by reference any terms that pertain to this project.&gt;</p>"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "guid": "28c5a5e5-a99e-4dbe-852c-ee1380722615",
+      "heading": "Analysis Models",
+      "children": [
+        {
+          "id": "75",
+          "guid": "752867cb-aced-4bcf-8d24-195dbea6daeb",
+          "text": "<p>&lt;This optional section includes or points to pertinent analysis models such as data flow diagrams, feature trees, state-transition diagrams, or entity-relationship diagrams. You might prefer to insert certain models into the relevant sections of the specification instead of collecting them at the end.&gt;</p>"
+        }
+      ]
+    }
+  ],
   "attributes": {
   },
   "templateColumns": {
