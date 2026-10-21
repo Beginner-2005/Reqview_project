@@ -2,14 +2,14 @@
   "id": "URD",
   "guid": "7632c1b4-0e10-4703-a7ef-406263e472a8",
   "name": "User Requirement Document",
-  "lastId": 101,
+  "lastId": 108,
   "createdOn": "2026-10-18T00:49:23.907Z",
   "createdBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-18T01:05:54.078Z",
+  "lastChangedOn": "2026-10-21T00:11:27.611Z",
   "lastChangedBy": {
     "name": "T00762405",
     "email": "t00762405@mytru.ca",
@@ -410,7 +410,267 @@
                     {
                       "id": "69",
                       "guid": "401dd5ee-7956-4b23-8d05-c10e4e431f32",
-                      "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Blue circles</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Start and end points</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Green boxes</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Actions or processes</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Yellow diamonds</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Decisions</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Red boxes</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Errors, warnings, or rejection</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Grey rectangle</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">VMS system boundary</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Cylinders</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Databases or stored records</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Arrows</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Connections or process direction</span></p></td></tr></tbody></table>"
+                      "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Blue circles</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Start and end points</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Green boxes</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Actions or processes</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Yellow diamonds</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Decisions</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Red boxes</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Errors, warnings, or rejection</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Grey rectangle</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">VMS system boundary</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Cylinders</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Databases or stored records</span></p></td></tr><tr><td style=\"width:164.5pt;\"><p><span style=\"color:#0D0D0D;\">Arrows</span></p></td><td style=\"width:301.0pt;\"><p><span style=\"color:#0D0D0D;\">Connections or process direction</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:09:33.815Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr><tr><td style=\"width:164.5pt;\"><br></td><td style=\"width:301.0pt;\"><br></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:10:30.112Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "102",
+                      "guid": "99dd2866-95ce-4ae6-8e22-ed586cad512d",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Blue circles</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Start and end points</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:06:23.673Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:06:23.673Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 50.0000%;\"><col style=\"width: 50.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:06:54.392Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Blue circles</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Start and end points</p></td></tr></tbody></table><table style=\"width: 100%;\"><colgroup><col style=\"width: 50.0000%;\"><col style=\"width: 50.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:07.320Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Blue circles</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Start and end points</p></td></tr></tbody></table><p><br></p>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:11:27.611Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "103",
+                      "guid": "e3e12c23-9efd-4a67-bf50-e5e5bbfd515c",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Green boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Actions or processes</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:29.230Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:29.230Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "104",
+                      "guid": "267ff593-0485-4ee1-ada0-919485136e79",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Yellow diamonds</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Decisions</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:40.846Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:40.846Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "105",
+                      "guid": "539c298b-fe3d-4bce-98cd-6bf840ae0609",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Red boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Errors, warnings, or rejection</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:54.519Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:07:54.519Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "106",
+                      "guid": "7dd61302-25ad-44df-b499-3b4719b6b753",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Grey rectangle</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>VMS system boundary</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:04.415Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:04.415Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "107",
+                      "guid": "7b6ed4e8-6c66-4e24-ad7d-0903ad334607",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Cylinders</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Databases or stored records</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:13.742Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:13.742Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "108",
+                      "guid": "fb19b02e-345f-452d-9c28-ef78ed2fcf36",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Arrows</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Connections or process direction</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "68",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:26.232Z",
+                          "docId": "URD",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00762405@mytru.ca",
+                            "name": "T00762405"
+                          },
+                          "changedOn": "2026-10-21T00:08:26.232Z"
+                        }
+                      ]
                     }
                   ]
                 }
