@@ -2,17 +2,17 @@
   "id": "URD c",
   "guid": "110a2852-118e-454e-ab5f-a5d2706e416c",
   "name": "User Required Document",
-  "lastId": 240,
+  "lastId": 298,
   "createdOn": "2026-10-21T01:12:24.247Z",
   "createdBy": {
     "name": "T00758528",
     "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-21T01:21:38.361Z",
+  "lastChangedOn": "2026-10-21T01:46:12.094Z",
   "lastChangedBy": {
-    "name": "T00758528",
-    "email": "t00758528@mytru.ca",
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -48,7 +48,7 @@
     {
       "id": "77",
       "guid": "177e6838-9770-43d7-8dd9-c1aa03ebc44c",
-      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>",
+      "text": "<table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>",
       "history": [
         {
           "affectedNodeId": "1",
@@ -88,6 +88,319 @@
             ],
             "type": "reference"
           }
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:27:12.560Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:27:20.889Z"
+        },
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:29:53.154Z",
+          "docId": "URD c",
+          "structureAction": "Cut"
+        }
+      ]
+    },
+    {
+      "id": "244",
+      "guid": "8141fb88-b8f4-4016-9db1-bd1c1c007df4",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1&nbsp;</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "87",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:29:41.551Z",
+          "docId": "URD c",
+          "structureAction": "Copy"
+        }
+      ]
+    },
+    {
+      "id": "245",
+      "guid": "99b4d0a4-89a6-48f5-a7e9-d32b0ba76db8",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "88",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:29:41.551Z",
+          "docId": "URD c",
+          "structureAction": "Copy"
+        }
+      ]
+    },
+    {
+      "id": "246",
+      "guid": "9483fc52-5bd3-4a46-826d-4e745785a159",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added parts from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "89",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:29:41.551Z",
+          "docId": "URD c",
+          "structureAction": "Copy"
+        }
+      ]
+    },
+    {
+      "id": "247",
+      "guid": "c5e85c52-3668-499c-b2a0-0bda77bee509",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Corrected based on feedback from assignment 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>4</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "90",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:29:41.551Z",
+          "docId": "URD c",
+          "structureAction": "Copy"
+        }
+      ]
+    },
+    {
+      "id": "241",
+      "guid": "e78af014-df00-4298-9810-e3d858977155",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part conventions</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:27:48.034Z",
+          "docId": "URD c",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:27:48.034Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p><br></p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:30:02.129Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p><br></p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:30:33.935Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added project</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:30:48.511Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added&nbsp;to part 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:31:45.712Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part convenionts</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:31:55.574Z"
+        }
+      ]
+    },
+    {
+      "id": "242",
+      "guid": "8e6f831f-3cb9-488d-861e-4ed23d9aede4",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part&nbsp;purpose</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>6</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:28:17.932Z",
+          "docId": "URD c",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:28:17.932Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p><br></p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:30:05.846Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p><br></p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>6</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:31:21.656Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>6</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:32:02.127Z"
+        }
+      ]
+    },
+    {
+      "id": "243",
+      "guid": "f809b298-6daa-4a8e-876a-68d36cc5b20a",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Fixed Tables and worked on assignment 2</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>7</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:28:35.657Z",
+          "docId": "URD c",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:28:35.657Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p><br></p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:30:17.903Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Fixed Tables</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>7</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:32:19.231Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Fixed Tables and added to part&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>7</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-10-21T01:32:36.919Z"
         }
       ]
     },
@@ -457,236 +770,6 @@
                   "removedLink": {
                     "target": [
                       "URD b-83"
-                    ],
-                    "type": "reference"
-                  }
-                }
-              ]
-            },
-            {
-              "id": "86",
-              "guid": "cb3a087c-527b-4fc9-86b6-05a7307be8f6",
-              "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>",
-              "history": [
-                {
-                  "affectedNodeId": "84",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
-                },
-                {
-                  "addedLink": {
-                    "target": [
-                      "URD b-84"
-                    ],
-                    "type": "reference"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-84"
-                    ],
-                    "type": "reference"
-                  }
-                }
-              ]
-            },
-            {
-              "id": "87",
-              "guid": "2616652b-38c2-4492-9770-77d61fd4585f",
-              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Importing from docs&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1&nbsp;</p></td></tr></tbody></table>",
-              "history": [
-                {
-                  "affectedNodeId": "85",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
-                },
-                {
-                  "addedLink": {
-                    "target": [
-                      "URD b-85"
-                    ],
-                    "type": "reference"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-85"
-                    ],
-                    "type": "reference"
-                  }
-                }
-              ]
-            },
-            {
-              "id": "88",
-              "guid": "828f1a43-aef7-460c-abcf-6e3b5b2f2f5c",
-              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>&nbsp;Added part 3 from doc</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>",
-              "history": [
-                {
-                  "affectedNodeId": "86",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
-                },
-                {
-                  "addedLink": {
-                    "target": [
-                      "URD b-86"
-                    ],
-                    "type": "reference"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-86"
-                    ],
-                    "type": "reference"
-                  }
-                }
-              ]
-            },
-            {
-              "id": "89",
-              "guid": "7dcfcde1-aa08-4b70-8ece-e5ad3e11ba59",
-              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added parts from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>",
-              "history": [
-                {
-                  "affectedNodeId": "87",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
-                },
-                {
-                  "addedLink": {
-                    "target": [
-                      "URD b-87"
-                    ],
-                    "type": "reference"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-87"
-                    ],
-                    "type": "reference"
-                  }
-                }
-              ]
-            },
-            {
-              "id": "90",
-              "guid": "23e83cfd-de74-4835-abac-ea2f4f7c3c13",
-              "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Corrected based on feedback from assignment 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>4</p></td></tr></tbody></table>",
-              "history": [
-                {
-                  "affectedNodeId": "88",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
-                },
-                {
-                  "addedLink": {
-                    "target": [
-                      "URD b-88"
-                    ],
-                    "type": "reference"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-88"
                     ],
                     "type": "reference"
                   }
@@ -1717,7 +1800,7 @@
             {
               "id": "113",
               "guid": "f10ad09d-8f23-45c1-ba3c-b7a3aaf81186",
-              "text": "<p><span style=\"color:#0D0D0D;\">The following user classes are proposed based on the interviews and the system's intended scope.</span></p><table style=\"width:6.5in;\"><tbody><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">User Class&nbsp;</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Type</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Description</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors receive support from peers. They are favored beneficiaries but are not expected to access the VMS.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and Caregivers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and caregivers benefit from improved communication and support for senior people. They do not have any responsibilities and access right now</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees create <span>seniors</span> profiles using information provided and update information.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers register their information and preferred responsibilities. They receive volunteer opportunities and recommendations, then participate in those roles.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Administrators review volunteer registrations, conduct screening, background checks, educational certificates, approve volunteers, monitor, and plan volunteer assignments.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School administrators submit requests for volunteers to teach students and can expect administrators to review these requests.</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and Disfavored</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students benefit from educational support provided by peers but are not allowed to access and request volunteers directly.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr></tbody></table>",
+              "text": "<p><span style=\"color:#0D0D0D;\">The following user classes are proposed based on the interviews and the system's intended scope.</span></p><table style=\"width:6.5in;\"><tbody><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">User Class&nbsp;</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Type</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Description</span></p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "111",
@@ -1757,6 +1840,220 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"color:#0D0D0D;\">The following user classes are proposed based on the interviews and the system's intended scope.</span></p><table style=\"width:6.5in;\"><tbody><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">User Class&nbsp;</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Type</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Description</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Seniors receive support from peers. They are favored beneficiaries but are not expected to access the VMS.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and Caregivers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Family members and caregivers benefit from improved communication and support for senior people. They do not have any responsibilities and access right now</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Employees create <span>seniors</span> profiles using information provided and update information.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteers register their information and preferred responsibilities. They receive volunteer opportunities and recommendations, then participate in those roles.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Administrators review volunteer registrations, conduct screening, background checks, educational certificates, approve volunteers, monitor, and plan volunteer assignments.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School Administrators</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Direct and <span>Favored</span></span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">School administrators submit requests for volunteers to teach students and can expect administrators to review these requests.</span></p></td></tr><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Indirect and Disfavored</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Students benefit from educational support provided by peers but are not allowed to access and request volunteers directly.</span><span style=\"color:#0D0D0D;\">&nbsp;</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:35:08.468Z"
+                }
+              ]
+            },
+            {
+              "id": "248",
+              "guid": "f25a73bb-200e-4b4a-9e1d-6b5e628ea7de",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Seniors</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Seniors receive support from peers. They are favored beneficiaries but are not expected to access the VMS.&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:27.958Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:27.958Z"
+                }
+              ]
+            },
+            {
+              "id": "249",
+              "guid": "a6677235-ab80-4835-9e67-c6b05c0a0fab",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Family members and Caregivers</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Family members and caregivers benefit from improved communication and support for senior people. They do not have any responsibilities and access right now</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:40.215Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:40.215Z"
+                }
+              ]
+            },
+            {
+              "id": "250",
+              "guid": "b5897556-6b2a-4b60-82dd-f3c7b411a23d",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Employees</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Employees create seniors profiles using information provided and update information.&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:59.807Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:33:59.807Z"
+                }
+              ]
+            },
+            {
+              "id": "251",
+              "guid": "85ecaa1d-a01f-4581-8b5c-f24919031653",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteers</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteers register their information and preferred responsibilities. They receive volunteer opportunities and recommendations, then participate in those roles.&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:09.159Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:09.159Z"
+                }
+              ]
+            },
+            {
+              "id": "252",
+              "guid": "265193dd-e55d-4ba4-a6ce-0a53598ee4db",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteer Administrators</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Administrators review volunteer registrations, conduct screening, background checks, educational certificates, approve volunteers, monitor, and plan volunteer assignments.&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:17.974Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:17.974Z"
+                }
+              ]
+            },
+            {
+              "id": "253",
+              "guid": "08857aac-4915-4917-9586-fc91903d1b32",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>School Administrators</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>School administrators submit requests for volunteers to teach students and can expect administrators to review these requests.</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:27.567Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:27.567Z"
+                }
+              ]
+            },
+            {
+              "id": "254",
+              "guid": "8a990048-da96-4582-8f99-fbb2120939ae",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Students</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Disfavored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Students benefit from educational support provided by peers but are not allowed to access and request volunteers directly.&nbsp;</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "105",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:39.928Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-10-21T01:34:39.928Z"
                 }
               ]
             },
@@ -2041,7 +2338,7 @@
                 {
                   "id": "120",
                   "guid": "c4289672-5291-4c63-9d16-ec5bdfb45288",
-                  "text": "<p><span style=\"color:#0D0D0D;\">The following table follows the format of the provided template.</span></p><table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:202.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Primary Actor</span></p></td><td style=\"width:262.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Use Cases</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr></tbody></table>",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The following table follows the format of the provided template.</span></p><table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:202.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Primary Actor</span></p></td><td style=\"width:262.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Use Cases</span></p></td></tr></tbody></table>",
                   "history": [
                     {
                       "affectedNodeId": "118",
@@ -2081,6 +2378,104 @@
                         ],
                         "type": "reference"
                       }
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:#0D0D0D;\">The following table follows the format of the provided template.</span></p><table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:202.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Primary Actor</span></p></td><td style=\"width:262.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Use Cases</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:202.75pt;\"><p><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td><td style=\"width:262.75pt;\"><p><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:55.121Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "255",
+                  "guid": "72934ff0-5e08-4c8b-83d5-8018ce227ce4",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>SPCC Employee</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-1: Create New Senior Profile</p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "affectedNodeId": "119",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:26.887Z",
+                      "docId": "URD c",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:26.887Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "256",
+                  "guid": "65840e3e-6180-47ae-a4ea-2ce589e2f86f",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>Volunteer Administrator</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-2: Approve New Volunteer</p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "affectedNodeId": "119",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:35.010Z",
+                      "docId": "URD c",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:35.010Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "257",
+                  "guid": "7af09db4-2e2f-4e46-ae3f-ec29b670f7f7",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>Volunteer Administrator</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-3: Generate Daily Report</p></td></tr></tbody></table>",
+                  "history": [
+                    {
+                      "affectedNodeId": "119",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:43.486Z",
+                      "docId": "URD c",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00737402@mytru.ca",
+                        "name": "T00737402"
+                      },
+                      "changedOn": "2026-10-21T01:35:43.486Z"
                     }
                   ]
                 }
@@ -2181,7 +2576,7 @@
                     {
                       "id": "123",
                       "guid": "ca691caf-0d81-47b3-a128-389533e4be7f",
-                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Senior Person</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an SPCC employee to create a senior profile using information provided over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A senior person calls the SPCC to request support</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">PRE-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The employee is logged in and authorized to use the VMS</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">POST-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior's profile and support needs are saved in the system.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-1. Only authorized employees can create or update senior profiles.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior person can provide the required information over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Personal information must be protected from unauthorized access</span></p></td></tr></tbody></table><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol>",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr></tbody></table>",
                       "history": [
                         {
                           "affectedNodeId": "121",
@@ -2221,6 +2616,456 @@
                             ],
                             "type": "reference"
                           }
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Senior Person</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an SPCC employee to create a senior profile using information provided over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A senior person calls the SPCC to request support</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">PRE-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The employee is logged in and authorized to use the VMS</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">POST-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior's profile and support needs are saved in the system.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-1. Only authorized employees can create or update senior profiles.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior person can provide the required information over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Personal information must be protected from unauthorized access</span></p></td></tr></tbody></table><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:36:04.438Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;Sulav</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">SPCC Employee</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Senior Person</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an SPCC employee to create a senior profile using information provided over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A senior person calls the SPCC to request support</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">PRE-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The employee is logged in and authorized to use the VMS</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">POST-1.</span><span style=\"color:black;\"><span>&nbsp;&nbsp; </span></span><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior's profile and support needs are saved in the system.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><ol start=\"1\" type=\"1\"><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-1. Only authorized employees can create or update senior profiles.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The senior person can provide the required information over the phone.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Personal information must be protected from unauthorized access</span></p></td></tr></tbody></table><ol start=\"1\" type=\"1\"><li style=\"color:#0D0D0D;\"><span>The employee collects the senior's information.</span></li><li style=\"color:#0D0D0D;\"><span>The employee enters the information into the VMS.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS validates and saves the profile.</span></li><li style=\"color:#0D0D0D;\"><span>The VMS confirms successful creation.</span></li><li style=\"color:#0D0D0D;\"><span>The employee searches for an existing profile and updates its information instead.</span></li><li><span style=\"color:#0D0D0D;\">Missing information prompts the employee to correct the required fields.</span></li><li><span style=\"color:#0D0D0D;\">A system error prevents saving, and the VMS displays an error message.</span></li></ol>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:40:13.109Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "258",
+                      "guid": "25ccb525-ab2b-4e8b-8c34-3c0865c89849",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Employee</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:13.231Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:13.231Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Sulav</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:56.684Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;SPCC Employee</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:04.516Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "259",
+                      "guid": "e50d2c4a-992b-40da-bf3d-fc90229a1e7f",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>SPCC Employee</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:21.575Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:21.575Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "260",
+                      "guid": "f84647ff-8edc-45ee-bf67-6a8fe84a8546",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Senior Person</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:37.222Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:37:37.222Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "261",
+                      "guid": "d551f3bb-64a3-41ef-a6fc-1fe11c9a4ae3",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Allows an SPCC employee to create a senior profile using information provided over the phone.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:12.302Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:12.302Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "262",
+                      "guid": "d5919f70-1ae1-4f27-aeb0-7d0eee577d0e",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>A senior person calls the SPCC to request support</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:22.569Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:22.569Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "263",
+                      "guid": "69a43c3f-d15f-4a9d-a46e-22100a422d8d",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The employee is logged in and authorized to use the VMS</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:33.957Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:33.957Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "264",
+                      "guid": "27aa8768-6aed-48fd-a02a-566389b6a3d7",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Postconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>POST-1. The senior's profile and support needs are saved in the system.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:44.909Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:44.909Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "265",
+                      "guid": "1b9e38c0-6377-4621-8135-72e4dad4272c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>The employee collects the senior's information.</li><li>The employee enters the information into the VMS.</li><li>The VMS validates and saves the profile.</li><li>The VMS confirms successful creation.</li></ol></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:54.447Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:38:54.447Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "266",
+                      "guid": "048605b6-f04e-46b7-a89b-0ffe4eea810b",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>The employee searches for an existing profile and updates its information instead.</li></ol></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:05.276Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:05.276Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "267",
+                      "guid": "a6e0b153-2add-4ade-89d9-17eb3286c87f",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>Missing information prompts the employee to correct the required fields.</li><li>A system error prevents saving, and the VMS displays an error message.</li></ol></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:12.521Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:12.521Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "268",
+                      "guid": "f21d9fbe-50cd-4112-9018-a12ceaad6913",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:21.484Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:21.484Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "269",
+                      "guid": "51bb470f-86af-496a-835a-2821fe261634",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>BR-1. Only authorized employees can create or update senior profiles.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:29.340Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:29.340Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "270",
+                      "guid": "1ec7d681-6c88-447c-852b-69985fa0e10c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Personal information must be protected from unauthorized access</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:36.472Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:36.472Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "271",
+                      "guid": "3935c140-8b94-4279-aa08-9faef7d01ab9",
+                      "text": "<ol start=\"1\" type=\"1\" style=\"text-align: start;\"><li>The employee collects the senior's information.</li><li>The employee enters the information into the VMS.</li><li>The VMS validates and saves the profile.</li><li>The VMS confirms successful creation.</li><li>The employee searches for an existing profile and updates its information instead.</li><li>Missing information prompts the employee to correct the required fields.</li><li>A system error prevents saving, and the VMS displays an error message.</li></ol>",
+                      "history": [
+                        {
+                          "affectedNodeId": "122",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:46.252Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:39:46.252Z"
                         }
                       ]
                     }
@@ -2275,7 +3120,7 @@
                     {
                       "id": "125",
                       "guid": "9d7c100b-8466-4aeb-bf0d-4839784ec389",
-                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A newly registered volunteer is ready for administrative review.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The volunteer has submitted a profile.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. The administrator is logged in and authorized.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. The volunteer's approval status is recorded in the VMS.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. The administrator reviews the volunteer's profile.</span></p><p><span style=\"color:#0D0D0D;\">2. The administrator submits a background-check request.</span></p><p><span style=\"color:#0D0D0D;\">3. The BCS returns the result when available.</span></p><p><span style=\"color:#0D0D0D;\">4. Educational certificates are verified if the volunteer intends to teach children.</span></p><p><span style=\"color:#0D0D0D;\">5. The administrator approves the volunteer if all required checks are satisfactory</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. If educational verification is not required, the process continues without it.</span></p><p><span style=\"color:#0D0D0D;\">2. If a check is pending, the volunteer remains unapproved until the result is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">2.0.E1 An unsatisfactory background check prevents approval.</span></p><p><span style=\"color:#0D0D0D;\">2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-2. Volunteers must pass the required background check before approval.</span></p><p><span style=\"color:#0D0D0D;\">BR-3. Educational certificates must be verified for teaching volunteers.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">T</span><span style=\"color:#0D0D0D;\">he government BCS is available during its operating hours.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The VMS tracks background checks but does not perform them itself.</span></p></td></tr></tbody></table>",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr></tbody></table>",
                       "history": [
                         {
                           "affectedNodeId": "123",
@@ -2315,6 +3160,416 @@
                             ],
                             "type": "reference"
                           }
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A newly registered volunteer is ready for administrative review.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The volunteer has submitted a profile.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. The administrator is logged in and authorized.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. The volunteer's approval status is recorded in the VMS.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. The administrator reviews the volunteer's profile.</span></p><p><span style=\"color:#0D0D0D;\">2. The administrator submits a background-check request.</span></p><p><span style=\"color:#0D0D0D;\">3. The BCS returns the result when available.</span></p><p><span style=\"color:#0D0D0D;\">4. Educational certificates are verified if the volunteer intends to teach children.</span></p><p><span style=\"color:#0D0D0D;\">5. The administrator approves the volunteer if all required checks are satisfactory</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. If educational verification is not required, the process continues without it.</span></p><p><span style=\"color:#0D0D0D;\">2. If a check is pending, the volunteer remains unapproved until the result is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">2.0.E1 An unsatisfactory background check prevents approval.</span></p><p><span style=\"color:#0D0D0D;\">2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-2. Volunteers must pass the required background check before approval.</span></p><p><span style=\"color:#0D0D0D;\">BR-3. Educational certificates must be verified for teaching volunteers.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">T</span><span style=\"color:#0D0D0D;\">he government BCS is available during its operating hours.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The VMS tracks background checks but does not perform them itself.</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:36:11.405Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;Sulav</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">A newly registered volunteer is ready for administrative review.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The volunteer has submitted a profile.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. The administrator is logged in and authorized.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. The volunteer's approval status is recorded in the VMS.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. The administrator reviews the volunteer's profile.</span></p><p><span style=\"color:#0D0D0D;\">2. The administrator submits a background-check request.</span></p><p><span style=\"color:#0D0D0D;\">3. The BCS returns the result when available.</span></p><p><span style=\"color:#0D0D0D;\">4. Educational certificates are verified if the volunteer intends to teach children.</span></p><p><span style=\"color:#0D0D0D;\">5. The administrator approves the volunteer if all required checks are satisfactory</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. If educational verification is not required, the process continues without it.</span></p><p><span style=\"color:#0D0D0D;\">2. If a check is pending, the volunteer remains unapproved until the result is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">2.0.E1 An unsatisfactory background check prevents approval.</span></p><p><span style=\"color:#0D0D0D;\">2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-2. Volunteers must pass the required background check before approval.</span></p><p><span style=\"color:#0D0D0D;\">BR-3. Educational certificates must be verified for teaching volunteers.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">T</span><span style=\"color:#0D0D0D;\">he government BCS is available during its operating hours.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The VMS tracks background checks but does not perform them itself.</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:40:34.371Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Author:</span></p></td><td style=\"width:107.25pt;\"><p><span style=\"color:black;\"><span>&nbsp;Administrator</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">October 17, 2026</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">A newly registered volunteer is ready for administrative review.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The volunteer has submitted a profile.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. The administrator is logged in and authorized.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. The volunteer's approval status is recorded in the VMS.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. The administrator reviews the volunteer's profile.</span></p><p><span style=\"color:#0D0D0D;\">2. The administrator submits a background-check request.</span></p><p><span style=\"color:#0D0D0D;\">3. The BCS returns the result when available.</span></p><p><span style=\"color:#0D0D0D;\">4. Educational certificates are verified if the volunteer intends to teach children.</span></p><p><span style=\"color:#0D0D0D;\">5. The administrator approves the volunteer if all required checks are satisfactory</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">1. If educational verification is not required, the process continues without it.</span></p><p><span style=\"color:#0D0D0D;\">2. If a check is pending, the volunteer remains unapproved until the result is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">2.0.E1 An unsatisfactory background check prevents approval.</span></p><p><span style=\"color:#0D0D0D;\">2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">BR-2. Volunteers must pass the required background check before approval.</span></p><p><span style=\"color:#0D0D0D;\">BR-3. Educational certificates must be verified for teaching volunteers.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\">T</span><span style=\"color:#0D0D0D;\">he government BCS is available during its operating hours.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">The VMS tracks background checks but does not perform them itself.</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:43:31.698Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "272",
+                      "guid": "81c7e472-0d29-40b0-a614-794ae13d7ca8",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Administrator</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:16.095Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:16.095Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "273",
+                      "guid": "c154c573-dc47-4f86-bc0c-7fa6f0a6f095",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer Administrator</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:23.620Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:23.620Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "274",
+                      "guid": "b61ba7d6-675d-424c-9295-0f7fcbb7c34b",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:31.853Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:31.853Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "275",
+                      "guid": "efc9fbfe-5370-4370-9669-2a26bc4b0b14",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:40.355Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:40.355Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "276",
+                      "guid": "52ce5a38-96c9-47c5-b914-662c9c9f7497",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>A newly registered volunteer is ready for administrative review.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:48.819Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:48.819Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "277",
+                      "guid": "6fb40f68-3edf-4a36-acc3-fb4fb24ec289",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The volunteer has submitted a profile.</p><p>PRE-2. The administrator is logged in and authorized.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:56.108Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:41:56.108Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "278",
+                      "guid": "7b678149-e714-4cfb-b732-4376c29d079c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. The administrator reviews the volunteer's profile.</p><p>2. The administrator submits a background-check request.</p><p>3. The BCS returns the result when available.</p><p>4. Educational certificates are verified if the volunteer intends to teach children.</p><p>5. The administrator approves the volunteer if all required checks are satisfactory</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:03.620Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:03.620Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "279",
+                      "guid": "da48ca32-e44e-4afd-bc01-8708b914a5ab",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. If educational verification is not required, the process continues without it.</p><p>2. If a check is pending, the volunteer remains unapproved until the result is available.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:12.668Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:12.668Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "280",
+                      "guid": "e57961c6-d312-42a9-9574-1548f275ee93",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>2.0.E1 An unsatisfactory background check prevents approval.</p><p>2.0.E2 If the BCS is unavailable, the check remains pending until it can be processed.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:19.787Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:19.787Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "281",
+                      "guid": "419d213a-8122-43e4-8726-92eda2853459",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:29.459Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:29.459Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "282",
+                      "guid": "1270db36-89d8-40c0-851d-ee689f151098",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>BR-2. Volunteers must pass the required background check before approval.</p><p>BR-3. Educational certificates must be verified for teaching volunteers.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:42.092Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:42.092Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "283",
+                      "guid": "191aeb0c-1d21-43f1-b736-fce0de2941ff",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Assumptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The government BCS is available during its operating hours.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:53.741Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:42:53.741Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "284",
+                      "guid": "c2a39725-709e-4b3a-b39e-943ede16be93",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The VMS tracks background checks but does not perform them itself.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "124",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:43:09.051Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:43:09.051Z"
                         }
                       ]
                     }
@@ -2369,7 +3624,7 @@
                     {
                       "id": "127",
                       "guid": "25702e43-a0d5-4736-9d00-7922bf7cb48b",
-                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr></tbody></table>",
                       "history": [
                         {
                           "affectedNodeId": "125",
@@ -2409,6 +3664,456 @@
                             ],
                             "type": "reference"
                           }
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:36:28.069Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;Sulav</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;Oct 17</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:36:59.695Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;Sulav</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;October 17, 2026</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:43:56.512Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Author:</span></p></td><td style=\"width:107.25pt;\"><p><span><span>&nbsp;Administrator</span></span></p></td><td style=\"width:93.75pt;\"><p style=\"text-align:right;\"><span>Date Created:</span></p></td><td style=\"width:135.0pt;\"><p><span><span>&nbsp;October 17, 2026</span></span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Primary Actor:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">Volunteer Administrator</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Secondary Actors:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">VMS Forecasting Component; Senior Case Database; Volunteer Records Database</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Description:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Trigger:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">The daily reporting schedule starts, or an administrator requests a report</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Preconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">PRE-1. The VMS is operational and the administrator is authorized.</span></p><p><span style=\"color:#0D0D0D;\">PRE-2. Relevant case and volunteer data is available.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Postconditions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">POST-1. A daily report is generated and made available to the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Normal Flow:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span style=\"color:#0D0D0D;\">3.0 The VMS retrieves senior case and volunteer data.</span></p><p><span style=\"color:#0D0D0D;\">2. The system forecasts senior cases for the next seven days.</span></p><p><span style=\"color:#0D0D0D;\">3. The system compares expected demand with volunteer availability.</span></p><p><span style=\"color:#0D0D0D;\">4. The VMS generates the report and notifies the administrator.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Alternative Flows:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">3.1 The administrator manually requests a report instead of waiting for the scheduled report.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Exceptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">3.0.E1 If required data is unavailable, the VMS displays a warning.</span></p><p><span style=\"color:#0D0D0D;\">3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Priority:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span>&nbsp;</span>High</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Business Rules:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">BR-4. The daily report must forecast senior case demand for the following seven days.</span></p><p><span style=\"color:#0D0D0D;\">BR-5. Senior support is the highest priority for the initial release.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Assumptions:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">The system has sufficient data to produce a useful forecast.</span></p></td></tr><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>Other Information:</span></p></td><td colspan=\"3\" style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">Forecasts are estimates and cannot guarantee the exact number of future cases</span></p></td></tr></tbody></table>"
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:46:12.094Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "285",
+                      "guid": "2d1b76d2-1bf7-4516-b204-7aa5d1df3d82",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Administrator</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>&nbsp;October 17, 2026</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:04.650Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:04.650Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "286",
+                      "guid": "75691eec-82c3-491d-b872-d3ad3a20804b",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer Administrator</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:12.918Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:12.918Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "287",
+                      "guid": "dde6ae22-91e0-4688-8e7c-edf113af8464",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>VMS Forecasting Component; Senior Case Database; Volunteer Records Database</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:21.634Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:21.634Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "288",
+                      "guid": "5b5fe967-d9f6-4f01-8019-91d9284ab9c6",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:32.138Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:32.138Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "289",
+                      "guid": "bf9f7d50-8318-4e3d-98b8-bd44aec4685f",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The daily reporting schedule starts, or an administrator requests a report</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:40.753Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:40.753Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "290",
+                      "guid": "0d3a3ee6-825b-4797-b64f-aca652173938",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The VMS is operational and the administrator is authorized.</p><p>PRE-2. Relevant case and volunteer data is available.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:48.963Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:48.963Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "291",
+                      "guid": "7e914054-8f5e-4afb-8245-2d07ec727486",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Postconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>POST-1. A daily report is generated and made available to the administrator.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:58.243Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:44:58.243Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "292",
+                      "guid": "3192629a-a4ff-4b23-8edd-40506634a3e0",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>3.0 The VMS retrieves senior case and volunteer data.</p><p>2. The system forecasts senior cases for the next seven days.</p><p>3. The system compares expected demand with volunteer availability.</p><p>4. The VMS generates the report and notifies the administrator.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:09.674Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:09.674Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "293",
+                      "guid": "1f82bfbc-7bc3-4e1b-9939-93a875bb1668",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>3.1 The administrator manually requests a report instead of waiting for the scheduled report.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:18.401Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:18.401Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "294",
+                      "guid": "57faeb95-303f-4adf-a351-d9f76957f65c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>3.0.E1 If required data is unavailable, the VMS displays a warning.</p><p>3.0.E2 If report generation fails, the system informs the administrator and allows another attempt</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:26.242Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:26.242Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "295",
+                      "guid": "5ad881ac-49c6-41ff-9150-60fbd3c213a6",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:32.106Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:32.106Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "296",
+                      "guid": "21a7b1d7-36c5-4f7e-8bf4-0681b18079a9",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>BR-4. The daily report must forecast senior case demand for the following seven days.</p><p>BR-5. Senior support is the highest priority for the initial release.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:39.283Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:39.283Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "297",
+                      "guid": "9243e2d2-0b77-4d0f-babc-59df9196a746",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Assumptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The system has sufficient data to produce a useful forecast.</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:48.939Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:48.939Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "298",
+                      "guid": "6914afb3-e2d7-4497-a499-3a4e895298ed",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Forecasts are estimates and cannot guarantee the exact number of future cases</p></td></tr></tbody></table>",
+                      "history": [
+                        {
+                          "affectedNodeId": "126",
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:57.944Z",
+                          "docId": "URD c",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "Thompson Rivers University",
+                            "email": "t00737402@mytru.ca",
+                            "name": "T00737402"
+                          },
+                          "changedOn": "2026-10-21T01:45:57.944Z"
                         }
                       ]
                     }
