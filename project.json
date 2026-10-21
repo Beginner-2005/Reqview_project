@@ -2,7 +2,8 @@
   "id": "Group Project",
   "documents": [
     "VMS.json",
-    "URD.json"
+    "URD.json",
+    "URD b.json"
   ],
   "traceability": {
     "reference": {

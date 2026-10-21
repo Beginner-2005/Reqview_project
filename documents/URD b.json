@@ -1,0 +1,41 @@
+{
+  "id": "URD b",
+  "guid": "84250e85-d8cb-41bc-b92c-33b2ced165eb",
+  "name": "User Requirement Document",
+  "lastId": 0,
+  "createdOn": "2026-10-21T00:25:08.013Z",
+  "createdBy": {
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-10-21T00:25:08.013Z",
+  "lastChangedBy": {
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}
