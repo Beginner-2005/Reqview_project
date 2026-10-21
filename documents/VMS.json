@@ -9,10 +9,10 @@
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-21T02:31:54.793Z",
+  "lastChangedOn": "2026-10-21T02:47:21.979Z",
   "lastChangedBy": {
-    "name": "T00737402",
-    "email": "t00737402@mytru.ca",
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -285,6 +285,27 @@
       "id": "30",
       "guid": "9a472cbb-5a92-434a-ab68-1775424afc07",
       "heading": "Business Requirements",
+      "links": {
+        "reference": [
+          "URD c-81"
+        ]
+      },
+      "history": [
+        {
+          "addedLink": {
+            "target": [
+              "URD c-81"
+            ],
+            "type": "reference"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00758528@mytru.ca",
+            "name": "T00758528"
+          },
+          "changedOn": "2026-10-21T02:47:21.979Z"
+        }
+      ],
       "children": [
         {
           "id": "31",

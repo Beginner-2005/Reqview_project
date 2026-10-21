@@ -2,17 +2,17 @@
   "id": "URD c",
   "guid": "110a2852-118e-454e-ab5f-a5d2706e416c",
   "name": "User Required Document",
-  "lastId": 299,
+  "lastId": 314,
   "createdOn": "2026-10-21T01:12:24.247Z",
   "createdBy": {
     "name": "T00758528",
     "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-21T01:56:00.852Z",
+  "lastChangedOn": "2026-10-21T02:40:21.836Z",
   "lastChangedBy": {
-    "name": "T00762405",
-    "email": "t00762405@mytru.ca",
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -526,7 +526,7 @@
         {
           "id": "79",
           "guid": "5bc5fd27-1982-4608-824a-4c9eed48845e",
-          "text": "<p><span>&lt;The introduction presents an overview to help the reader understand how the SRS is organized and how to use it.&gt;</span></p>",
+          "text": "<p>This User Requirements Document (URD) describes the requirements of the Volunteer Management System (VMS), which supports volunteer management and the delivery of social assistance to senior people and educational support to students. The document is organized into sections covering user classes, system actors, use cases, and their descriptions. It helps developers and other stakeholders understand user needs and provides a foundation for defining the system's requirements and guiding its development.</p>",
           "history": [
             {
               "affectedNodeId": "77",
@@ -566,6 +566,17 @@
                 ],
                 "type": "reference"
               }
+            },
+            {
+              "attributesChanged": {
+                "text": "<p><span>&lt;The introduction presents an overview to help the reader understand how the SRS is organized and how to use it.&gt;</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-10-21T02:04:10.392Z"
             }
           ]
         },
@@ -618,7 +629,7 @@
             {
               "id": "81",
               "guid": "bda989a1-7fc7-4f56-8f3a-b8fec66e4b3c",
-              "text": "<p><span>&lt;Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers.&gt;</span></p>",
+              "text": "<p>This User Requirements Document (URD) outlines the requirements for the Volunteer Management System (VMS), initial release. The system aims to organize volunteer activities and coordinate social support for senior people and educational assistance for students.</p><p>This document is intended for several groups:</p><p>·&nbsp;Developers: To understand user expectations and develop the required system features.</p><p>·&nbsp;Project Managers: To organize project activities and track development progress.</p><p>·&nbsp;Testers: To check whether the system satisfies the specified user requirements.</p><p>·&nbsp;System Administrators: To understand how the system will be managed and maintained.</p><p>·&nbsp;Users: Such as volunteers, SPCC employees, and volunteer administrators, to understand the system's functions and services.</p><p>·&nbsp;Documentation Writers: To create user guides, manuals, and training materials.</p><p>Overall, this document helps stakeholders understand user needs and provides guidance for developing a system that meets those needs.</p>",
               "history": [
                 {
                   "affectedNodeId": "79",
@@ -658,6 +669,72 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:07:20.401Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:07:20.627Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:07:21.437Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:07:27.657Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:07:30.084Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This User Requirements Document (URD) outlines the requirements for the&nbsp;<strong>Volunteer Management System (VMS), initial release</strong>. The system aims to organize volunteer activities and coordinate social support for senior people and educational assistance for students.</p><p>This document is intended for several groups:</p><ul><li><p><strong>Developers:</strong> To understand user expectations and develop the required system features.</p></li><li><p><strong>Project Managers:</strong> To organize project activities and track development progress.</p></li><li><p><strong>Testers:</strong> To check whether the system satisfies the specified user requirements.</p></li><li><p><strong>System Administrators:</strong> To understand how the system will be managed and maintained.</p></li><li><p><strong>Users:</strong> Such as volunteers, SPCC employees, and volunteer administrators, to understand the system's functions and services.</p></li><li><p><strong>Documentation Writers:</strong> To create user guides, manuals, and training materials.</p></li></ul><p>Overall, this document helps stakeholders understand user needs and provides guidance for developing a system that meets those needs.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:09:13.257Z"
                 }
               ]
             }
@@ -6360,7 +6437,7 @@
             {
               "id": "172",
               "guid": "3d3d585b-f154-40a8-9a1d-f8f15d50cdba",
-              "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Accessibility</span></strong><span>: senior people care center (SPCC) should be able to record senior people data while the seniors speak with them.</span></p>",
+              "text": "<p>The development of the Volunteer Management System (VMS) is subject to the following constraints:</p><p><br></p>",
               "history": [
                 {
                   "affectedNodeId": "170",
@@ -6400,13 +6477,86 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Accessibility</span></strong><span>: senior people care center (SPCC) should be able to record senior people data while the seniors speak with them.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:15:10.445Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The development of the Volunteer Management System (VMS) is subject to the following constraints:</p><p>1) Privacy and Security: Volunteers must only access student information for students they are assigned to.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:37:05.482Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The development of the Volunteer Management System (VMS) is subject to the following constraints:</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:37:26.221Z"
+                }
+              ]
+            },
+            {
+              "id": "314",
+              "guid": "ab046f80-2385-41e7-ab72-961da88fbc1a",
+              "text": "<p>1) Privacy and Security: Volunteers must only access student information for students they are assigned to.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "171",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:40:09.371Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:40:09.371Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Privacy and Security: Volunteers must only access student information for students they are assigned to.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:40:21.836Z"
                 }
               ]
             },
             {
               "id": "173",
               "guid": "7196c311-25b8-475f-b0c8-0fd575a43710",
-              "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Government regulation</span></strong><span>: volunteers cannot access students’ information unless they are their matched volunteer (student-peer).</span></p>",
+              "text": "<p>2) Accessibility: SPCC employees must be able to create and update senior profiles while communicating with seniors over the phone.</p>",
               "history": [
                 {
                   "affectedNodeId": "171",
@@ -6446,13 +6596,24 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Government regulation</span></strong><span>: volunteers cannot access students’ information unless they are their matched volunteer (student-peer).</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:15:31.447Z"
                 }
               ]
             },
             {
               "id": "174",
               "guid": "234938c9-4596-4c83-9c85-d2cb7ced9589",
-              "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Parent <span>regulation <span>:</span></span></span></strong><span>&nbsp;kids should not be allowed to use the application directly by themselves, school administrators must submit requests.</span></p>",
+              "text": "<p>3) Volunteer Approval: Volunteers must pass the required background checks before being approved. Educational certificates must also be verified for volunteers who teach students.</p>",
               "history": [
                 {
                   "affectedNodeId": "172",
@@ -6492,13 +6653,24 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Parent <span>regulation <span>:</span></span></span></strong><span>&nbsp;kids should not be allowed to use the application directly by themselves, school administrators must submit requests.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:15:42.928Z"
                 }
               ]
             },
             {
               "id": "175",
               "guid": "d6982d31-1dfd-4bfa-95e2-5794c2be2ef7",
-              "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Performance</span></strong><span>: the VMS must handle a varying number of senior people needing, based on the daily cases.&nbsp;</span></p>",
+              "text": "<p>4) External System Dependency: The VMS depends on the Background Check System (BCS), which requires police approval and operates during working hours.</p>",
               "history": [
                 {
                   "affectedNodeId": "173",
@@ -6538,13 +6710,24 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Performance</span></strong><span>: the VMS must handle a varying number of senior people needing, based on the daily cases.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:16:07.663Z"
                 }
               ]
             },
             {
               "id": "176",
               "guid": "e5e1b07f-8859-4dc3-a62e-47a81c76e674",
-              "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Reporting requirement</span></strong><span>: the VMS should report daily to the volunteer administrator about the forecasted number of cases during next week.&nbsp;</span></p>",
+              "text": "<p>5) Usability: The application must be simple and easy for volunteers to use.</p>",
               "history": [
                 {
                   "affectedNodeId": "174",
@@ -6584,13 +6767,24 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Reporting requirement</span></strong><span>: the VMS should report daily to the volunteer administrator about the forecasted number of cases during next week.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:16:19.680Z"
                 }
               ]
             },
             {
               "id": "177",
               "guid": "27037840-b3e3-40f2-bf37-2991cb4abe5c",
-              "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Health reporting</span></strong><span>: Senior peers should be able to report any health issue related to the seniors to the VMS.</span></p>",
+              "text": "<p>6) Performance: The system must handle varying numbers of daily cases and generate reports forecasting the following week's demand.</p>",
               "history": [
                 {
                   "affectedNodeId": "175",
@@ -6630,13 +6824,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Health reporting</span></strong><span>: Senior peers should be able to report any health issue related to the seniors to the VMS.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:15:50.427Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:16:30.485Z"
                 }
               ]
             },
             {
               "id": "178",
               "guid": "613b4abe-2332-4f73-9b12-35cba375ca29",
-              "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Usability <span>constraint<span>&nbsp;:</span></span></span></strong><span>&nbsp;VMS should be easy and <span>and</span> simple application to encourage the volunteers to use it.</span></p>",
+              "text": "<p>7) User Restrictions: Students cannot directly access the system to request volunteers; school administrators must submit requests on their behalf.</p>",
               "history": [
                 {
                   "affectedNodeId": "176",
@@ -6676,6 +6892,17 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Usability <span>constraint<span>&nbsp;:</span></span></span></strong><span>&nbsp;VMS should be easy and <span>and</span> simple application to encourage the volunteers to use it.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:16:44.823Z"
                 }
               ]
             }
@@ -6728,9 +6955,38 @@
           ],
           "children": [
             {
+              "id": "306",
+              "guid": "1416a8df-c2f0-4a00-a6f9-636c3fbc848b",
+              "heading": "Assumptions",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:33:12.473Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:33:12.473Z"
+                }
+              ]
+            },
+            {
               "id": "180",
               "guid": "92d5b1e7-c719-4548-9a70-0aa2d8fb6f45",
-              "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Number of <span>demand</span></span></strong><span>: We assume that the number of senior people and students who need assistance would vary.</span></p>",
+              "text": "<p>1) The demand for senior support and student assistance will change with time.</p>",
               "history": [
                 {
                   "affectedNodeId": "178",
@@ -6770,13 +7026,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>1)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Number of <span>demand</span></span></strong><span>: We assume that the number of senior people and students who need assistance would vary.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:24:58.719Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "181",
               "guid": "13b7a626-9598-4d22-949c-f725db540c51",
-              "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System usability</span></strong><span>: we assume that all the volunteers would have access to a mobile phone or a computer, and know the basic use of technology</span></p>",
+              "text": "<p>2) Volunteers will have access to a computer or smartphone and know how to use basic technology.</p>",
               "history": [
                 {
                   "affectedNodeId": "179",
@@ -6816,13 +7094,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>2)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System usability</span></strong><span>: we assume that all the volunteers would have access to a mobile phone or a computer, and know the basic use of technology</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:25:11.483Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "182",
               "guid": "d7420797-f82c-47c7-a0b9-437d06b3d332",
-              "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer availability</span></strong><span>: We assume that enough volunteers will sign up and be available to help senior people and students.</span></p>",
+              "text": "<p>3) A sufficient number of volunteers will register and take part in their assigned activities.</p>",
               "history": [
                 {
                   "affectedNodeId": "180",
@@ -6862,13 +7162,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>3)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer availability</span></strong><span>: We assume that enough volunteers will sign up and be available to help senior people and students.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:25:22.983Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "183",
               "guid": "e64b14e9-ad81-4e6d-9b9e-5db2036954cb",
-              "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Forecasting data</span></strong><span>: The system depends on having enough data to predict the number of cases expected in the following week.&nbsp;</span></p>",
+              "text": "<p>4) Volunteers and SPCC employees will enter correct and updated information.</p>",
               "history": [
                 {
                   "affectedNodeId": "181",
@@ -6908,13 +7230,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>4)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Forecasting data</span></strong><span>: The system depends on having enough data to predict the number of cases expected in the following week.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:25:44.361Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "184",
               "guid": "a65fbf6c-cb3c-4f42-af00-d79d2cc1bec0",
-              "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Background Check System (BCS)</span></strong><span>: We assume that the BCS will be completed by the end of next month and will handle up to 1,000 background checks per hour.&nbsp;</span></p>",
+              "text": "<p>5) Enough storage capacity will be available to keep senior profiles, volunteer records, and assignment details.</p>",
               "history": [
                 {
                   "affectedNodeId": "182",
@@ -6954,13 +7298,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>5)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Background Check System (BCS)</span></strong><span>: We assume that the BCS will be completed by the end of next month and will handle up to 1,000 background checks per hour.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:25:54.185Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "185",
               "guid": "afc2cffa-7a9c-4af3-99d5-11a4fae0f22a",
-              "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data accuracy</span></strong><span>: We assume volunteers and SPCC employees will provide accurate and up-to-date information.&nbsp;</span></p>",
+              "text": "<p>6) The organization will have the resources required to maintain and update the VMS.</p>",
               "history": [
                 {
                   "affectedNodeId": "183",
@@ -7000,13 +7366,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>6)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data accuracy</span></strong><span>: We assume volunteers and SPCC employees will provide accurate and up-to-date information.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:26:03.376Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "186",
               "guid": "5b70dcf0-5c0e-4295-bea2-aa435ffe24fe",
-              "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer commitment</span></strong><span>: We assume volunteers will regularly participate in their assigned activities, although the system must track engagement and identify commitment issues.<span>&nbsp; </span></span></p>",
+              "text": "<p>7) Enough historical data will be available to estimate the number of support cases for the following week.</p>",
               "history": [
                 {
                   "affectedNodeId": "184",
@@ -7046,13 +7434,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>7)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Volunteer commitment</span></strong><span>: We assume volunteers will regularly participate in their assigned activities, although the system must track engagement and identify commitment issues.<span>&nbsp; </span></span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:26:10.880Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "187",
               "guid": "900d8002-e677-4c0f-9188-f1834e5341cc",
-              "text": "<p><span><span>8)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System maintenance</span></strong><span>: We assume the organization will provide the resources needed to maintain and update the VMS.&nbsp;</span></p>",
+              "text": "<p>8) Users will have a stable internet connection to access the application.</p>",
               "history": [
                 {
                   "affectedNodeId": "185",
@@ -7092,13 +7502,35 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>8)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>System maintenance</span></strong><span>: We assume the organization will provide the resources needed to maintain and update the VMS.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:26:20.713Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
               "id": "188",
               "guid": "0a92034a-3b64-445c-9a40-4d2cc946f5e7",
-              "text": "<p><span><span>9)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data storage</span></strong><span>: We assume sufficient storage will be available to maintain volunteer profiles, senior people's information, and background-check records securely.&nbsp;</span></p>",
+              "text": "<p>9) The VMS will be accessible when authorized users need to use it.</p>",
               "history": [
                 {
                   "affectedNodeId": "186",
@@ -7138,98 +7570,260 @@
                     ],
                     "type": "reference"
                   }
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span><span>9)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><strong><span>Data storage</span></strong><span>: We assume sufficient storage will be available to maintain volunteer profiles, senior people's information, and background-check records securely.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:26:31.016Z"
+                },
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:34:02.265Z",
+                  "docId": "URD c",
+                  "structureAction": "Cut"
                 }
               ]
             },
             {
-              "id": "189",
-              "guid": "db4cc90d-5127-40dc-b964-215495d169fc",
-              "text": "<p><span><span>10)<span>&nbsp;</span></span></span><strong><span>Operating budget</span></strong><span>: We assume the organization will have enough funding to operate, maintain, and update the VMS.&nbsp;</span></p>",
+              "id": "305",
+              "guid": "c548c2d3-677f-416a-9e1c-11c63338a93d",
+              "heading": "Dependencies",
               "history": [
                 {
-                  "affectedNodeId": "187",
+                  "affectedNodeId": "179",
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "t00758528@mytru.ca",
                     "name": "T00758528"
                   },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
+                  "changedOn": "2026-10-21T02:32:58.626Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
                 },
                 {
-                  "addedLink": {
-                    "target": [
-                      "URD b-187"
-                    ],
-                    "type": "reference"
+                  "attributesChanged": {
+                    "heading": null
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "t00758528@mytru.ca",
                     "name": "T00758528"
                   },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
-                },
-                {
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00758528@mytru.ca",
-                    "name": "T00758528"
-                  },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-187"
-                    ],
-                    "type": "reference"
-                  }
+                  "changedOn": "2026-10-21T02:32:58.626Z"
                 }
               ]
             },
             {
-              "id": "190",
-              "guid": "a6f40f55-f0c5-4072-9e81-9d2dd4b43346",
-              "text": "<p><span><span>11)<span>&nbsp;</span></span></span><strong><span>Stakeholder cooperation</span></strong><span>: We assume senior people, volunteers, school administrators, and other stakeholders will cooperate by providing the information needed by the system.&nbsp;</span></p>",
+              "id": "307",
+              "guid": "e4d5737f-5a6c-4d1a-b869-cd662efc2664",
+              "text": "<p>1) The VMS will rely on the government's Background Check System (BCS) to screen volunteers before they are approved.</p>",
               "history": [
                 {
-                  "affectedNodeId": "188",
+                  "affectedNodeId": "179",
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "t00758528@mytru.ca",
                     "name": "T00758528"
                   },
-                  "changedOn": "2026-10-21T01:14:13.446Z",
-                  "docId": "URD b",
-                  "structureAction": "Copy"
+                  "changedOn": "2026-10-21T02:34:54.620Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
                 },
                 {
-                  "addedLink": {
-                    "target": [
-                      "URD b-188"
-                    ],
-                    "type": "reference"
+                  "attributesChanged": {
+                    "text": null
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "t00758528@mytru.ca",
                     "name": "T00758528"
                   },
-                  "changedOn": "2026-10-21T01:14:13.446Z"
+                  "changedOn": "2026-10-21T02:34:54.620Z"
+                }
+              ]
+            },
+            {
+              "id": "308",
+              "guid": "c8b40d07-c9f3-4289-a045-295133560a6a",
+              "text": "<p>2) Police officers must be available during working hours to complete background-check approvals.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:09.898Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
                 },
                 {
+                  "attributesChanged": {
+                    "text": null
+                  },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "t00758528@mytru.ca",
                     "name": "T00758528"
                   },
-                  "changedOn": "2026-10-21T01:21:38.361Z",
-                  "removedLink": {
-                    "target": [
-                      "URD b-188"
-                    ],
-                    "type": "reference"
-                  }
+                  "changedOn": "2026-10-21T02:35:09.898Z"
+                }
+              ]
+            },
+            {
+              "id": "309",
+              "guid": "23e71307-b1ec-4cdb-9b34-edc5c45ea50c",
+              "text": "<p>3) SPCC employees will collect, enter, and maintain senior people's information in the system.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:20.787Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:20.787Z"
+                }
+              ]
+            },
+            {
+              "id": "310",
+              "guid": "24251f1d-7096-496a-8a23-fcf213f47876",
+              "text": "<p>4) School administrators will send requests for student assistance through the VMS.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:29.172Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:29.172Z"
+                }
+              ]
+            },
+            {
+              "id": "311",
+              "guid": "71fd5e21-6998-4dde-a9d0-98869d3a6037",
+              "text": "<p>5) Volunteers must provide their personal details and preferred activities to receive suitable recommendations.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:37.683Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:37.683Z"
+                }
+              ]
+            },
+            {
+              "id": "312",
+              "guid": "0b3775a0-ce7b-4476-8b33-615423240a0c",
+              "text": "<p>6) Daily forecasts will rely on accurate data about support cases and volunteer availability.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:45.923Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:45.923Z"
+                }
+              ]
+            },
+            {
+              "id": "313",
+              "guid": "358b4ed1-8165-4caa-8435-a6bcd99b6a27",
+              "text": "<p>7) Access to the VMS will require a working internet connection.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "179",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:49.987Z",
+                  "docId": "URD c",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-10-21T02:35:49.987Z"
                 }
               ]
             }
