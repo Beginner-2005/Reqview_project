@@ -2,14 +2,14 @@
   "id": "URD",
   "guid": "62e9e4b3-d61e-4e21-babc-17eda0625b1b",
   "name": "User Required Document",
-  "lastId": 275,
+  "lastId": 317,
   "createdOn": "2026-11-10T20:52:31.900Z",
   "createdBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-10T21:16:35.821Z",
+  "lastChangedOn": "2026-11-10T21:47:54.631Z",
   "lastChangedBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
@@ -1057,19 +1057,1064 @@
       "heading": "Data Requirements",
       "children": [
         {
-          "id": "219",
-          "guid": "7d20bfc8-3a0c-42c6-91f5-0cc41a2a4608",
-          "text": "<p><span>&lt;This section describes various aspects of the data that the system will consume as inputs, process in some fashion, or create as outputs.&gt;</span></p>"
-        },
-        {
           "id": "220",
           "guid": "faa1dc59-bc0a-4327-bd2e-44ece42bbbca",
           "heading": "Logical Data Model",
           "children": [
             {
-              "id": "221",
-              "guid": "0ca55f77-2551-4e37-be80-ce41e86c1096",
-              "text": "<p><span>&lt;A data model is a visual representation of the data objects and collections the system will process and the relationships between them. Include a data model for the business operations being addressed by the system, or a logical representation for the data that the system itself will manipulate. Data models are most commonly created as an entity-relationship diagram.&gt;</span></p>"
+              "id": "316",
+              "guid": "7f8f9ec1-4454-491a-b4c2-809d2b102e9d",
+              "text": "<p style=\"text-align: left;\">The logical data model represents the main entities and their relationships within VMS.</p><p style=\"text-align: left;\">The main entities are Volunteer, Qualification, Availability, Background Check, Beneficiary, Support Case, Assignment, Volunteer Activity, Appointment Reminder, and School Request.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:47:45.675Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:47:45.675Z"
+                }
+              ]
+            },
+            {
+              "id": "317",
+              "guid": "69bc1b6f-6d1d-4b93-88af-89a916cc611d",
+              "attachments": [
+                "URD-317_1_Picture1.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:47:50.987Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "addedAttachment": "URD-317_1_Picture1.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:47:54.631Z"
+                }
+              ]
+            },
+            {
+              "id": "277",
+              "guid": "f4c7f728-54f9-4e7c-ba59-ad95779d56d5",
+              "text": "<p>Fig 4.1: Logical Data Model</p><p>The ER diagram illustrates the main entities of the Volunteer Management System (VMS) and the relationships between them. It shows how volunteer information, qualifications, availability, and background checks are maintained. It also represents how beneficiaries are connected to support cases, appointment reminders, and school requests. Volunteers can be assigned to support cases, and their activities are recorded under each assignment. Primary keys uniquely identify records, while foreign keys establish relationships between entities and maintain data consistency.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:31:40.109Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:31:40.109Z"
+                }
+              ]
+            },
+            {
+              "id": "278",
+              "guid": "ce2791f6-123e-476b-ba44-8c8f20d22033",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td><p>Data element</p></td><td><p>Description</p></td><td><p>Data type / Length</p></td><td><p>Values / Format</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:02.419Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:02.419Z"
+                }
+              ]
+            },
+            {
+              "id": "280",
+              "guid": "c9b50bc9-a4a9-47c6-b49b-b7dd9a43840a",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td><p>Volunteer ID</p></td><td><p>Unique volunteer identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:31.725Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:31.725Z"
+                }
+              ]
+            },
+            {
+              "id": "281",
+              "guid": "faf00c8b-8c22-46c1-960c-bbca4a7117d7",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"><col style=\"width: 25.0000%;\"></colgroup><tbody><tr><td><p>Volunteer name</p></td><td><p>Volunteer’s full name</p></td><td><p>Alphabetic (100)</p></td><td><p>Letters</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:47.507Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:47.507Z"
+                }
+              ]
+            },
+            {
+              "id": "282",
+              "guid": "f4f0ec5d-85c4-4931-a792-40df2dc238d5",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Email</p></td><td><p>Volunteer email address</p></td><td><p>Alphanumeric (254)</p></td><td><p>Valid email</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:55.816Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:32:55.816Z"
+                }
+              ]
+            },
+            {
+              "id": "283",
+              "guid": "4a6de490-b412-43a8-87c5-5ed30a549230",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Phone number</p></td><td><p>Volunteer contact number</p></td><td><p>Alphanumeric (20)</p></td><td><p>Valid phone format</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:03.464Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:03.464Z"
+                }
+              ]
+            },
+            {
+              "id": "284",
+              "guid": "db7d11c6-865b-4442-91b3-1fa39a28012e",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Address</p></td><td><p>Volunteer or beneficiary address</p></td><td><p>Alphanumeric (255)</p></td><td><p>Valid address</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:11.312Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:11.312Z"
+                }
+              ]
+            },
+            {
+              "id": "285",
+              "guid": "f83adac3-329e-499a-b552-ed594e596dc7",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Approval status</p></td><td><p>Volunteer approval status</p></td><td><p>Text (20)</p></td><td><p>Pending, Approved, Rejected</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:19.434Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:19.434Z"
+                }
+              ]
+            },
+            {
+              "id": "286",
+              "guid": "2ba93f56-dc63-4995-91bc-4f52529c4467",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Qualification ID</p></td><td><p>Unique qualification identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:23.904Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:23.904Z"
+                }
+              ]
+            },
+            {
+              "id": "287",
+              "guid": "c18396e9-812f-42a1-b63f-381e7121bac6",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Qualification name</p></td><td><p>Volunteer skill or qualification</p></td><td><p>Text (100)</p></td><td><p>Valid qualification</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:29.224Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:29.224Z"
+                }
+              ]
+            },
+            {
+              "id": "288",
+              "guid": "fa2a9510-0555-45a2-afab-127a081632d3",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Availability</p></td><td><p>Volunteer’s available days and times</p></td><td><p>Day / Time</p></td><td><p>Monday–Sunday; HH</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:36.218Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:36.218Z"
+                }
+              ]
+            },
+            {
+              "id": "289",
+              "guid": "95e2326c-6e12-4784-8e1c-26c161d2a90d",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Background check ID</p></td><td><p>Unique background-check identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:41.152Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:41.152Z"
+                }
+              ]
+            },
+            {
+              "id": "290",
+              "guid": "c730cb9d-8ede-4740-864f-837d9a4b0e6c",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Check status</p></td><td><p>Background-check progress</p></td><td><p>Text (20)</p></td><td><p>Pending, In Progress, Approved, Rejected</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:47.945Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:47.945Z"
+                }
+              ]
+            },
+            {
+              "id": "291",
+              "guid": "a5c2447f-18ef-4c41-bc14-1565f251a92c",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Beneficiary ID</p></td><td><p>Unique beneficiary identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:52.353Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:33:52.353Z"
+                }
+              ]
+            },
+            {
+              "id": "292",
+              "guid": "56b51c2c-0f5a-4f31-9b61-fa8338e195bd",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Beneficiary type</p></td><td><p>Category of beneficiary</p></td><td><p>Text (20)</p></td><td><p>Senior Citizen, Student</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:00.537Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:00.537Z"
+                }
+              ]
+            },
+            {
+              "id": "293",
+              "guid": "59f29787-1d9e-4b4f-95de-865d9c5c3a84",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Case ID</p></td><td><p>Unique support case identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:06.713Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:06.713Z"
+                }
+              ]
+            },
+            {
+              "id": "294",
+              "guid": "b36b5c95-cdcd-498d-9875-18522871b395",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Support type</p></td><td><p>Type of assistance required</p></td><td><p>Text (50)</p></td><td><p>Social, Wellness, Check-in, Educational, Other</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:13.365Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:13.365Z"
+                }
+              ]
+            },
+            {
+              "id": "295",
+              "guid": "747527a4-1b96-4b6c-8bf9-777220656796",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Priority</p></td><td><p>Urgency of support case</p></td><td><p>Text (10)</p></td><td><p>High, Medium, Low</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:20.035Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:20.035Z"
+                }
+              ]
+            },
+            {
+              "id": "296",
+              "guid": "9bc7f926-5238-47c2-b757-089fb2e43942",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Case status</p></td><td><p>Current support case status</p></td><td><p>Text (20)</p></td><td><p>Open, Assigned, In Progress, Completed, Closed</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:24.267Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:24.267Z"
+                }
+              ]
+            },
+            {
+              "id": "297",
+              "guid": "478db1a5-fe8b-41cb-ac50-66bc28cd5a86",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Assignment ID</p></td><td><p>Unique assignment identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:28.115Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:28.115Z"
+                }
+              ]
+            },
+            {
+              "id": "298",
+              "guid": "5f8ecd0e-9cc0-4314-ab3d-c9970bb5f4fc",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Assignment status</p></td><td><p>Current assignment status</p></td><td><p>Text (20)</p></td><td><p>Pending, Active, Completed, Cancelled</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:32.051Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:32.051Z"
+                }
+              ]
+            },
+            {
+              "id": "299",
+              "guid": "56cb47f9-6081-4af5-a67a-f9afb5c90e5f",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Activity ID</p></td><td><p>Unique volunteer activity identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:36.074Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:36.074Z"
+                }
+              ]
+            },
+            {
+              "id": "300",
+              "guid": "8650b749-2d36-4d1b-a706-62e5cc9e8671",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Activity description</p></td><td><p>Details of completed volunteer work</p></td><td><p>Text (500)</p></td><td><p>Descriptive text</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:41.825Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:41.825Z"
+                }
+              ]
+            },
+            {
+              "id": "301",
+              "guid": "b6e64ea6-07dd-402f-9636-0655ae79814d",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Reminder ID</p></td><td><p>Unique appointment reminder identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:47.074Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:47.074Z"
+                }
+              ]
+            },
+            {
+              "id": "302",
+              "guid": "d207763c-7bb9-49f8-b6e0-5e41d80279da",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Appointment date/time</p></td><td><p>Date and time of appointment</p></td><td><p>Date / Time</p></td><td><p>YYYY-MM-DD / HH</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:51.810Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:51.810Z"
+                }
+              ]
+            },
+            {
+              "id": "303",
+              "guid": "cbb1e622-f648-4791-b8af-34b6e916789a",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Request ID</p></td><td><p>Unique school request identifier</p></td><td><p>Integer (10)</p></td><td><p>Auto-generated</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:57.491Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:34:57.491Z"
+                }
+              ]
+            },
+            {
+              "id": "304",
+              "guid": "0719a786-9bed-4ab2-9ea8-7efd7d658f89",
+              "text": "<table dir=\"ltr\"><tbody><tr><td><p>Request status</p></td><td><p>Current school request status</p></td><td><p>Text (20)</p></td><td><p>Pending, Reviewed, Approved, Rejected</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:02.810Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:02.810Z"
+                }
+              ]
+            },
+            {
+              "id": "305",
+              "guid": "7b0dd2df-3a64-4047-94cb-3e4e829c15c9",
+              "text": "<p>Data Constraints:</p>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:12.097Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:12.097Z"
+                }
+              ]
+            },
+            {
+              "id": "306",
+              "guid": "a5a25150-594a-4290-bd43-3261072d8a4e",
+              "text": "<ul><li>All primary keys must be unique.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:19.179Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:19.179Z"
+                }
+              ]
+            },
+            {
+              "id": "307",
+              "guid": "7a62c451-790c-4c8d-a96f-1213e1744af6",
+              "text": "<ul><li>Foreign keys must reference existing records.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:25.705Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:25.705Z"
+                }
+              ]
+            },
+            {
+              "id": "308",
+              "guid": "5d12bf9c-a5f2-45ec-ad48-92f83bdf4e7e",
+              "text": "<ul><li>Required fields must not be left empty.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:32.227Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:32.227Z"
+                }
+              ]
+            },
+            {
+              "id": "309",
+              "guid": "0e20c176-d991-44f4-94c1-bcdcaa428321",
+              "text": "<ul><li>Dates, times, email addresses, and phone numbers must follow valid formats.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:38.707Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:38.707Z"
+                }
+              ]
+            },
+            {
+              "id": "310",
+              "guid": "5fa8f505-f726-4891-97c4-7037166444f9",
+              "text": "<ul><li>Only approved volunteers with satisfactory background checks can be assigned to support cases.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:46.547Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:46.547Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Only approved volunteers with satisfactory background checks can be assigned to support cases.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:53.396Z"
+                }
+              ]
+            },
+            {
+              "id": "311",
+              "guid": "8a22bfea-8f74-49ce-9bef-af817f8e2873",
+              "text": "<ul><li>Access to beneficiary and student information must be restricted to authorized users.</li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "220",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:59.138Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:35:59.138Z"
+                }
+              ]
             }
           ]
         },
