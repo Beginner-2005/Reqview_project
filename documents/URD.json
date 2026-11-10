@@ -2,14 +2,14 @@
   "id": "URD",
   "guid": "62e9e4b3-d61e-4e21-babc-17eda0625b1b",
   "name": "User Required Document",
-  "lastId": 256,
+  "lastId": 275,
   "createdOn": "2026-11-10T20:52:31.900Z",
   "createdBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-10T20:52:32.227Z",
+  "lastChangedOn": "2026-11-10T21:16:35.821Z",
   "lastChangedBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
@@ -19,7 +19,21 @@
     {
       "id": "1",
       "guid": "3fbc03c6-5503-4525-9495-639193bb6975",
-      "heading": "Revision History"
+      "text": "<p>Revision History</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "heading": "Revision History",
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00737402@mytru.ca",
+            "name": "T00737402"
+          },
+          "changedOn": "2026-11-10T20:53:29.998Z"
+        }
+      ]
     },
     {
       "id": "2",
@@ -1034,151 +1048,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "189",
-          "guid": "34bbd3fd-72d4-4912-b762-38208988eb52",
-          "heading": "Data Dictionary"
-        },
-        {
-          "id": "190",
-          "guid": "07f5ddca-7544-44a1-a07c-219ff1420783",
-          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
-        },
-        {
-          "id": "191",
-          "guid": "841b8b19-cf14-4cfe-8ef0-897cf617b479",
-          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
-        },
-        {
-          "id": "192",
-          "guid": "a3ff062f-a5a3-4884-bca9-986d7c06d02e",
-          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
-        },
-        {
-          "id": "193",
-          "guid": "553ca4f5-864d-4f7a-9c14-551a17713754",
-          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
-        },
-        {
-          "id": "194",
-          "guid": "3c96621c-c1ca-4769-89e9-38b9d81a0d85",
-          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
-        },
-        {
-          "id": "195",
-          "guid": "70e9d665-a022-431c-ac8c-fa2e6af6d6e0",
-          "heading": "Reports"
-        },
-        {
-          "id": "196",
-          "guid": "dc066644-4824-44b7-8410-efc003be3703",
-          "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Content:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;the report date, new volunteers registered, new cases registered, assignments made, accepted, declined and pending, cases still open, and volunteers currently not assigned.</span></li></ul>"
-        },
-        {
-          "id": "197",
-          "guid": "6531a285-2137-4d13-af09-8786feca1bf3",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Detail section:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;one line per assignment that day, showing the volunteer name, ID, category and status.</span></p></li></ul>"
-        },
-        {
-          "id": "198",
-          "guid": "2417b7f7-6bfc-45bf-bf09-37c7621d75b6",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by assignment status, then by case priority (High first).</span></p></li></ul>"
-        },
-        {
-          "id": "199",
-          "guid": "f6ead873-8e32-4575-81c9-8d2294466c1f",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Totals:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;a count for each status plus a grand total.</span></p></li></ul>"
-        },
-        {
-          "id": "200",
-          "guid": "b05c9e64-8022-4f04-aa8e-6f74c747658b",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer History Report</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;</span></p>"
-        },
-        {
-          "id": "201",
-          "guid": "28dd16a9-4f38-4b25-a39b-382ee096bb36",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Content:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;the volunteer’s past assignments (case, category, dates, outcome), their engagement score, and their interested case categories.</span></p>"
-        },
-        {
-          "id": "202",
-          "guid": "899a1e35-6d68-413b-bce0-fd3f79ec5c47",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;most recent assignment first.</span></p></li></ul>"
-        },
-        {
-          "id": "203",
-          "guid": "5570735a-551d-40bf-8157-2c25b2af233a",
-          "heading": "Data Acquisition, Integrity, Retention, and Disposal"
-        },
-        {
-          "id": "204",
-          "guid": "9f906645-72de-463e-9f81-edc87b516a4c",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Acquisition:</span></p>"
-        },
-        {
-          "id": "205",
-          "guid": "230e8b91-4367-44a7-95ff-2c3c342de57a",
-          "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer data is entered by the administrator in the Create New Volunteer use case.</span></li></ul>"
-        },
-        {
-          "id": "206",
-          "guid": "0a91e3b4-d111-49e2-a1e5-d15ebf1bfa5b",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Case data is entered by SPCC employees.</span></p></li></ul>"
-        },
-        {
-          "id": "207",
-          "guid": "ea86e977-1e38-4a0c-b6b2-629f720a3599",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment and notification data are generated by the system during Assign Volunteer.</span></p></li></ul>"
-        },
-        {
-          "id": "208",
-          "guid": "285e9df0-68ee-4542-9acb-ef1e75c9691f",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Engagement scores and reports are calculated by the system from stored data and are never entered by hand.</span></p></li></ul>"
-        },
-        {
-          "id": "209",
-          "guid": "d8cc1c95-7b54-4d30-abee-e2e4ffb10abb",
-          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Integrity:</span></p>"
-        },
-        {
-          "id": "210",
-          "guid": "792eba99-5b03-4eb7-ae55-c176fc543a41",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall reject a volunteer or case record when required fields are missing or invalid.</span></p></li></ul>"
-        },
-        {
-          "id": "211",
-          "guid": "d68f8bdc-abe5-4110-9e1f-9a426e287768",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall prevent assigning a volunteer who is not in “Not assigned” status, and prevent assigning a case that already has an active assignment.</span></p></li></ul>"
-        },
-        {
-          "id": "212",
-          "guid": "ec026eab-3a57-4e9c-8ed5-7068d8d38eb0",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment history shall not be edited after completion. Corrections are recorded as new entries.</span></p></li></ul>"
-        },
-        {
-          "id": "213",
-          "guid": "8ef8ba7f-8402-418b-b6c0-6d674b216a05",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Only administrators may change assignments, and volunteers may view only their own data.</span></p></li></ul>"
-        },
-        {
-          "id": "214",
-          "guid": "e207678f-c533-4b66-8bfd-7841fbd95dd8",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Retention and disposal:</span></p>"
-        },
-        {
-          "id": "215",
-          "guid": "31f0afcd-993f-4808-b36e-661507b14698",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">When a volunteer leaves, they are marked “Inactive” rather than deleted, so history and reports stay consistent.</span></p></li></ul>"
-        },
-        {
-          "id": "216",
-          "guid": "37818218-7dc9-41b2-a022-7ceaacdf965e",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Personal data (contact details) shall be permanently deleted or anonymized when the retention period ends or on a verified request from the volunteer.</span></p></li></ul>"
-        },
-        {
-          "id": "217",
-          "guid": "88fa44b0-627c-41ff-9304-3d2581305e64",
-          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Backups follow the same retention and disposal rules as the live data.</span></p></li></ul>"
         }
       ]
     },
@@ -1224,7 +1093,227 @@
             {
               "id": "225",
               "guid": "0e74517a-833a-41d1-96d5-820b035d53a5",
-              "text": "<p><span>&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined <span>layout</span> you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;</span></p>"
+              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The report date, new volunteers registered, new cases registered, assignments made, accepted, declined and pending, cases still open, and volunteers currently not assigned.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined <span>layout</span> you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:21.442Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Content:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;the report date, new volunteers registered, new cases registered, assignments made, accepted, declined and pending, cases still open, and volunteers currently not assigned.</span></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:47.334Z"
+                }
+              ]
+            },
+            {
+              "id": "270",
+              "guid": "41fed908-2c95-4a63-8a82-b20d4d0fdf06",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Detail section:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;one line per assignment that day, showing the volunteer name, ID, category and status.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:37.979Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:37.979Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Detail section:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;one line per assignment that day, showing the volunteer name, ID, category and status.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:40.596Z"
+                }
+              ]
+            },
+            {
+              "id": "271",
+              "guid": "5f8b5d93-cf51-4a4d-8e90-0c33ca2b58db",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by assignment status, then by case priority (High first).</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:56.409Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:10:56.409Z"
+                }
+              ]
+            },
+            {
+              "id": "272",
+              "guid": "11f8570a-2f4c-44c6-841b-9d3fe2724a07",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Totals:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;a count for each status plus a grand total.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:06.858Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:06.858Z"
+                }
+              ]
+            },
+            {
+              "id": "273",
+              "guid": "b27e8125-5f57-4024-8dec-f544993514cd",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer History Report</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:14.018Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:14.018Z"
+                }
+              ]
+            },
+            {
+              "id": "274",
+              "guid": "5a07d6ff-3deb-4af5-95dd-d07e8e31bbc0",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The volunteer’s past assignments (case, category, dates, outcome), their engagement score, and their interested case categories.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:30.835Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:11:30.835Z"
+                }
+              ]
+            },
+            {
+              "id": "275",
+              "guid": "73cb2ae0-c4e6-4863-86f8-3620ceb3b3a3",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;most recent assignment first.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "224",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:12:04.213Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:12:04.213Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;most recent assignment first.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:12:08.437Z"
+                }
+              ]
             }
           ]
         },
@@ -1236,7 +1325,379 @@
             {
               "id": "227",
               "guid": "0db69177-15f3-495f-b21c-ba10cb1912ab",
-              "text": "<p><span>&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;</span></p>"
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Acquisition:</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:05.304Z"
+                }
+              ]
+            },
+            {
+              "id": "257",
+              "guid": "922a3e6e-f796-4f36-90e8-a9f0278485c6",
+              "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer data is entered by the administrator in the Create New Volunteer use case.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:09.487Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:43.557Z"
+                }
+              ]
+            },
+            {
+              "id": "258",
+              "guid": "b94410b9-e470-4746-a04c-2a5d8cba3ccd",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Case data is entered by SPCC employees.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:12.117Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:53.469Z"
+                }
+              ]
+            },
+            {
+              "id": "259",
+              "guid": "afd083a6-05a6-4ee1-b083-7623401c3d62",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment and notification data are generated by the system during Assign Volunteer.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:23.838Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:03:54.147Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment and notification data are generated by the system during Assign Volunteer.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:03:57.442Z"
+                }
+              ]
+            },
+            {
+              "id": "260",
+              "guid": "e6bac46f-2d42-4f24-9f0f-9424fb7e4e7e",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Only administrators may change assignments, and volunteers may view only their own data.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:26.326Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:04:06.759Z"
+                }
+              ]
+            },
+            {
+              "id": "261",
+              "guid": "afa8572f-67d7-45fd-ad54-02b722c17232",
+              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Integrity:</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:28.789Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:05:14.766Z"
+                }
+              ]
+            },
+            {
+              "id": "262",
+              "guid": "c5d49bdc-ee13-463e-8ddf-abf9d90179c8",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall reject a volunteer or case record when required fields are missing or invalid.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:31.141Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:05:23.876Z"
+                }
+              ]
+            },
+            {
+              "id": "263",
+              "guid": "af4bc116-c757-42ff-b41f-7c4b854dfa0e",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall prevent assigning a volunteer who is not in “Not assigned” status, and prevent assigning a case that already has an active assignment.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T20:54:33.973Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:06:38.215Z"
+                }
+              ]
+            },
+            {
+              "id": "264",
+              "guid": "e43ca256-9732-4a8c-9503-3589f99ee877",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment history shall not be edited after completion. Corrections are recorded as new entries.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:06:41.489Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:08:10.641Z"
+                }
+              ]
+            },
+            {
+              "id": "265",
+              "guid": "1d26e6b3-7e29-4c65-a9f7-a4f9812139e0",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Only administrators may change assignments, and volunteers may view only their own data.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:08:14.558Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:08:26.727Z"
+                }
+              ]
+            },
+            {
+              "id": "267",
+              "guid": "b9c16e2c-c9fb-4a4a-bcfd-8380781b5478",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">When a volunteer leaves, they are marked “Inactive” rather than deleted, so history and reports stay consistent.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:08:46.359Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:09:01.632Z"
+                }
+              ]
+            },
+            {
+              "id": "268",
+              "guid": "21d10da0-3f02-440d-bb15-3273a4a64eb3",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Personal data shall be permanently deleted or anonymized when the retention period ends or on a verified request from the volunteer.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:09:04.032Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:09:24.930Z"
+                }
+              ]
+            },
+            {
+              "id": "269",
+              "guid": "3d8ea762-e8ae-48cb-af1e-dda088b3d410",
+              "text": "<ul><li dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Backups follow the same retention and disposal rules as the live data.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "226",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:09:06.249Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00737402@mytru.ca",
+                    "name": "T00737402"
+                  },
+                  "changedOn": "2026-11-10T21:09:32.918Z"
+                }
+              ]
             }
           ]
         }
