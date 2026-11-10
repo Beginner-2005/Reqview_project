@@ -1,0 +1,1443 @@
+{
+  "id": "URD",
+  "guid": "62e9e4b3-d61e-4e21-babc-17eda0625b1b",
+  "name": "User Required Document",
+  "lastId": 256,
+  "createdOn": "2026-11-10T20:52:31.900Z",
+  "createdBy": {
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-11-10T20:52:32.227Z",
+  "lastChangedBy": {
+    "name": "T00737402",
+    "email": "t00737402@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "3fbc03c6-5503-4525-9495-639193bb6975",
+      "heading": "Revision History"
+    },
+    {
+      "id": "2",
+      "guid": "7343ae25-868f-437c-bf7b-43b62a93d24e",
+      "text": "<table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "3",
+      "guid": "50b89dfd-4dff-44ae-bfd6-fa50cbd65b5c",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Importing from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>1&nbsp;</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "4",
+      "guid": "f923f08d-2c3f-4707-b4b2-d053e0b886c3",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>&nbsp;Added part 3 from doc&nbsp;</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>2</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "5",
+      "guid": "b4c062cc-338c-428e-8152-73e35ef51f64",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 1</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added parts from docs</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>3</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "6",
+      "guid": "327a6a67-3a31-4c66-b8c2-f1824b7a78f1",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>&nbsp;Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Corrected based on feedback from assignment 1</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>4</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "7",
+      "guid": "f0568801-2353-4248-ae1a-7d7ed0ddd65d",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part conventions</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>5</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "8",
+      "guid": "7ce1499d-ec04-47b5-ace0-114e3b76cab6",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Mahdi</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added to part&nbsp;purpose</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>6</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "9",
+      "guid": "b8182876-e35a-4e31-9928-a50fb01beea5",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Fixed Tables and worked on assignment 2</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>7</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "10",
+      "guid": "8b95564f-eba3-4a81-aa17-0b81b7c38923",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Sulav</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Oct 20</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Edit part of introduction</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>8</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "11",
+      "guid": "8908e480-9d6d-4b2d-9ca6-c8dd52e8b0c9",
+      "text": "<table style=\"text-align: start;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p>Jaydin</p></td><td style=\"vertical-align: top; width: 58.5pt;\"><p>Nov&nbsp;9</p></td><td style=\"vertical-align: top; width: 247.7pt;\"><p>Added part 4</p></td><td style=\"vertical-align: top; width: 1.1in;\"><p>9</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "12",
+      "guid": "d92ed782-092f-45de-8c40-79c2b42a930e",
+      "heading": "Introduction",
+      "children": [
+        {
+          "id": "13",
+          "guid": "a332db9e-c70a-4cf4-8b93-cf8fff483f1b",
+          "text": "<p>This User Requirements Document (URD) describes the requirements of the Volunteer Management System (VMS), which supports volunteer management and the delivery of social assistance to senior people and educational support to students. The document is organized into sections covering user classes, system actors, use cases, and their descriptions. It helps developers and other stakeholders understand user needs and provides a foundation for defining the system's requirements and guiding its development.</p>"
+        },
+        {
+          "id": "14",
+          "guid": "5ace1665-a372-44bb-9db7-bb3f28932a70",
+          "heading": "Document Purpose",
+          "children": [
+            {
+              "id": "15",
+              "guid": "fc077332-dc1f-4cae-96b3-b570acfa3549",
+              "text": "<p>This User Requirements Document (URD) outlines the requirements for the Volunteer Management System (VMS), initial release. The system aims to organize volunteer activities and coordinate social support for senior people and educational assistance for students.</p><p>This document is intended for several groups:</p><p>·&nbsp;Developers: To understand user expectations and develop the required system features.</p><p>·&nbsp;Project Managers: To organize project activities and track development progress.</p><p>·&nbsp;Testers: To check whether the system satisfies the specified user requirements.</p><p>·&nbsp;System Administrators: To understand how the system will be managed and maintained.</p><p>·&nbsp;Users: Such as volunteers, SPCC employees, and volunteer administrators, to understand the system's functions and services.</p><p>·&nbsp;Documentation Writers: To create user guides, manuals, and training materials.</p><p>Overall, this document helps stakeholders understand user needs and provides guidance for developing a system that meets those needs.</p>"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "guid": "d490e5c2-54e3-4dd5-9742-1a2e9312cda2",
+          "heading": "Document Conventions",
+          "children": [
+            {
+              "id": "17",
+              "guid": "02505177-52c4-4abe-b40b-3144cc45f8ae",
+              "text": "<p><span style=\"text-align: start;\">This User Requirements Document (URD) uses numbered sections and subsections to organize information about the Volunteer Management System (VMS). Headings identify the topics covered in each section, while bullet points and tables are used to present information clearly. Common abbreviations, such as VMS (Volunteer Management System), SPCC (Senior People Care Center), and BCS (Background Check System), are used throughout the document. The terms “shall” and “must” indicate mandatory requirements, while “should” indicates recommended requirements.</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "guid": "288c3976-ced4-4f2e-a5ba-8182f17d315c",
+          "heading": "Project Scope",
+          "children": [
+            {
+              "id": "19",
+              "guid": "60d1018a-c66f-4c5a-841a-64b1d0aeeecf",
+              "text": "<p><span style=\"text-align: start;\">The Volunteer Management System (VMS) is a web-based application designed for the City of Kamloops to improve volunteer coordination and community support. It will allow authorized employees to manage senior profiles, volunteer administrators to review and approve volunteers, and the system to track volunteer availability, assign volunteers to cases, and forecast future demand. The initial release will prioritize senior citizens who need social support, while student support may be introduced in future releases. The system aims to reduce assignment delays, improve data accuracy, and provide volunteer support to at least 85% of reported cases.</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "guid": "ab53b4c8-6d84-4231-8b2c-09e07f17206f",
+          "heading": "References",
+          "children": [
+            {
+              "id": "21",
+              "guid": "a4bc3ee0-15e5-4428-ad95-6b3f195c2a0a",
+              "text": "<p><span>&lt;List any documents or other resources to which this SRS refers. Include hyperlinks to them if they are in a persistent location. These might include user interface style guides, contracts, standards, system requirements specifications, interface specifications, or the SRS for a related product. Provide enough information so that the reader can access each reference, including its title, author, version number, date, and source, storage location, or URL.&gt;</span></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "guid": "548b4e7c-9eba-4e22-aff8-4b4eac998df2"
+    },
+    {
+      "id": "23",
+      "guid": "c961b3cd-f069-49c1-83fd-feb52deb5bdd",
+      "heading": "Overall Description",
+      "children": [
+        {
+          "id": "24",
+          "guid": "60067557-af43-4259-95b7-31a9a50b527c",
+          "text": "<p><span>&lt;This section presents a high-level overview of the product and the environment in which it will be used, the anticipated users, and known constraints, assumptions, and dependencies.&gt;</span></p>"
+        },
+        {
+          "id": "25",
+          "guid": "1adae3c4-dc86-4c36-b307-190786d1410b",
+          "heading": "Product Perspective",
+          "children": [
+            {
+              "id": "26",
+              "guid": "00790e81-5bb7-4cc5-9a42-edf1ec175d32",
+              "text": "<p><span>&lt;Describe the product's context and origin. Is it the next member of a growing product line, the next version of a mature system, a replacement for an existing application, or an entirely new product? If this SRS defines a component of a larger system, state how this software relates to the overall system and identify major interfaces between the two. Consider including visual models such as a context diagram or ecosystem map to show the product's relationship to other systems.&gt;</span></p>"
+            },
+            {
+              "id": "27",
+              "guid": "b267f0a9-3ebf-4917-b623-32121c827808",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) is a proposed software system designed to coordinate volunteer services for senior people who need social support and students who require educational assistance. The system aims to improve the process of registering volunteers, assessing their suitability, matching them with proper volunteer opportunities, monitoring their engagement, and supporting the administrators in managing volunteers.</span></p>"
+            },
+            {
+              "id": "28",
+              "guid": "b12f46f3-8e4e-4f65-8803-bc8e530d86bf",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS is a new system intended to support seniors and volunteer management services. The initial release will prioritize senior people who need support, as this is the highest priority identified by the mayor and the Ministry of Health.</span></p>"
+            },
+            {
+              "id": "29",
+              "guid": "54130a87-92e2-4690-b21d-3a8f2f220307",
+              "text": "<p><span style=\"color:#0D0D0D;\">Senior people will not be required to access the system <span><span>directly.They</span></span> will contact the Senior People Care Center (SPCC) by telephone. SPCC employees will enter senior people's information into the VMS and update their profiles when necessary. Approved volunteers and peers will be assigned to senior people and they will provide services.</span></p>"
+            },
+            {
+              "id": "30",
+              "guid": "05db0f03-0ba9-4e6e-ab8c-b21576a8a868",
+              "text": "<p><span style=\"color:#0D0D0D;\">The system will also support volunteer administrators by allowing them to screen new registered volunteers, submit profiles for background checks, verify educational certificates, approve eligible volunteers, monitor volunteer engagement, receive feedback, and what is expected during the following week.</span></p>"
+            },
+            {
+              "id": "31",
+              "guid": "3ae6e470-dae0-4f75-8a49-c7eaa7d50f48",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS will interact with external systems and organizations, including the government, police, and background checking systems. They are expecting to process background checks in a quick manner, but its operation is limited to working hours because police officers must manually approve parts of the process.</span></p>"
+            },
+            {
+              "id": "32",
+              "guid": "09887358-638b-4a61-a718-77d53919b3d4",
+              "attachments": [
+                "URD-32_1_image002.png"
+              ]
+            },
+            {
+              "id": "33",
+              "guid": "d10353be-4016-4d09-a0a7-0a9cb408b3ff",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS is expected to provide a simple and accessible interface for the volunteers while providing administrative interfaces for SPCC employees and volunteer administrators. Students will not directly access the system to request volunteers. Access to student information must be restricted to the volunteer specifically matched with the student. The police will conduct background checks with the help of the VMS and this will help with getting the volunteers.</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "guid": "3d046f45-66bd-490b-a242-ee55fae15949",
+          "heading": "User Classes and Characteristics",
+          "children": [
+            {
+              "id": "35",
+              "guid": "9b5c2eba-d62a-4478-a481-0ef008b9caf3",
+              "text": "<p><span>&lt;Identify the various user classes that you anticipate will use this product and describe their pertinent characteristics. Some requirements might pertain only to certain user classes. Identify the favored user classes. User classes represent a subset of the stakeholders described in the vision and scope document. User class descriptions are a reusable resource. If available, you can incorporate user class descriptions by simply pointing to them in a master user class catalog instead of duplicating information here.&gt;</span></p>"
+            },
+            {
+              "id": "36",
+              "guid": "2e02a1db-87f1-401b-ba26-517ddef048f2",
+              "text": "<p><span style=\"color:#0D0D0D;\">The VMS has multiple user classes with different goals, responsibilities, and interaction levels. These classes can be categorized as direct or indirect users and as favored, disfavored, or ignored classes.</span></p>"
+            },
+            {
+              "id": "37",
+              "guid": "91a3e648-2422-4ac3-9bc9-8b480fd8b58d",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Direct users interact with the VMS&nbsp;</span></p>"
+            },
+            {
+              "id": "38",
+              "guid": "716dc87f-f3a8-4878-8ea0-09a07840b2aa",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Indirect users do not directly interact with the VMS but are affected by it</span></p>"
+            },
+            {
+              "id": "39",
+              "guid": "c6ca2faf-13f5-47d6-a6f5-0f144014a15c",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Favored users are prioritized when designing system functionality and usability</span></p>"
+            },
+            {
+              "id": "40",
+              "guid": "8100f285-32cd-4883-84ab-223c573c63a4",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Disfavored users are restricted from using particular functions or accessing information</span></p>"
+            },
+            {
+              "id": "41",
+              "guid": "f0da30f7-1a92-44df-b590-0c4f7e4e5b32",
+              "text": "<p><span style=\"color:#0D0D0D;\"><span>●<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=\"color:#0D0D0D;\">Ignored users are not a primary focus of the system's design or release.</span></p>"
+            },
+            {
+              "id": "42",
+              "guid": "d9686af5-6669-4814-a172-6750c6d0da96",
+              "text": "<p><span style=\"color:#0D0D0D;\">The following user classes are proposed based on the interviews and the system's intended scope.</span></p><table style=\"width:6.5in;\"><tbody><tr><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">User Class&nbsp;</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Type</span></p></td><td style=\"width:156.0pt;\"><p><span style=\"color:#0D0D0D;\">Description</span></p></td></tr></tbody></table>"
+            },
+            {
+              "id": "43",
+              "guid": "7b828aac-d4c2-44ad-84b7-5a991063ac72",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Seniors</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Seniors receive support from peers. They are favored beneficiaries but are not expected to access the VMS.&nbsp;</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "44",
+              "guid": "7999f945-afd5-407b-81d3-7996281b23d2",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Family members and Caregivers</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Family members and caregivers benefit from improved communication and support for senior people. They do not have any responsibilities and access right now</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "45",
+              "guid": "6eaf6ae3-fe55-4c12-a2f3-26a484958dd4",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Employees</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Employees create seniors profiles using information provided and update information.&nbsp;</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "46",
+              "guid": "127b4709-d09d-413b-b7a6-afbefeabfa81",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteers</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteers register their information and preferred responsibilities. They receive volunteer opportunities and recommendations, then participate in those roles.&nbsp;</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "47",
+              "guid": "1ee3bb33-ea5e-4724-b872-a17cf0eb0570",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Volunteer Administrators</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Administrators review volunteer registrations, conduct screening, background checks, educational certificates, approve volunteers, monitor, and plan volunteer assignments.&nbsp;</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "48",
+              "guid": "7e57d8b3-30a6-465b-8031-c067344d5fa1",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>School Administrators</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Direct and Favored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>School administrators submit requests for volunteers to teach students and can expect administrators to review these requests.</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "49",
+              "guid": "8c24ed6f-483e-416a-a963-77f049cea620",
+              "text": "<table style=\"text-align: start; width: 6.5in;\"><tbody><tr><td style=\"vertical-align: top; width: 156pt;\"><p>Students</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Indirect and Disfavored</p></td><td style=\"vertical-align: top; width: 156pt;\"><p>Students benefit from educational support provided by peers but are not allowed to access and request volunteers directly.&nbsp;</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "50",
+              "guid": "4da8b46d-fa42-4e56-a1ee-71f306c7f620",
+              "text": "<p><span style=\"color:#0D0D0D;\">The principal favored user classes for the initial release are the employees, volunteers, and volunteer administrators, with the senior people being the main beneficiaries. School administrators and students become relevant to the student support functionality, which is expected to be developed after the initial senior care priority is addressed.</span></p>"
+            },
+            {
+              "id": "51",
+              "guid": "eb586dd9-220b-449d-8a55-766911541c57",
+              "text": "<p><span style=\"color:#0D0D0D;\">The classification of family members and caregivers as a favored indirect class is a stakeholder assumption, not a confirmed requirement.</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "guid": "1e2a259c-a2f0-44ab-8ef1-70e8885efaf6",
+          "heading": "Use Cases and Models",
+          "children": [
+            {
+              "id": "53",
+              "guid": "11c263f7-3aea-4ee3-ba46-a866d2df6a8b",
+              "text": "<p><span>&lt;Identify the main use cases of the system and report them following the template. Model the use cases by drawing the Use Case diagrams and Activity diagrams.&gt;</span></p>"
+            },
+            {
+              "id": "54",
+              "guid": "dcdc8f96-dd10-4f99-b864-6379c460787c",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) will provide a centralized platform for managing senior support requests, registering and approving volunteers, and planning volunteer assignments. The following use cases represent three important interactions between users and the system.</span><span>&nbsp;</span></p>"
+            },
+            {
+              "id": "55",
+              "guid": "fc8bc201-f421-4c81-b18c-e75a31380cf2",
+              "heading": "Use Case List",
+              "children": [
+                {
+                  "id": "56",
+                  "guid": "cc82153d-e071-4a5a-9dff-880729bca1a7",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The following table follows the format of the provided template.</span></p><table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:202.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Primary Actor</span></p></td><td style=\"width:262.75pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Use Cases</span></p></td></tr></tbody></table>"
+                },
+                {
+                  "id": "57",
+                  "guid": "002deaad-c21a-4faf-80a3-ea814fd07caa",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>SPCC Employee</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-1: Create New Senior Profile</p></td></tr></tbody></table>"
+                },
+                {
+                  "id": "58",
+                  "guid": "d2afd9f2-bd29-496f-ba3f-5ac9b4e9c0ef",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>Volunteer Administrator</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-2: Approve New Volunteer</p></td></tr></tbody></table>"
+                },
+                {
+                  "id": "59",
+                  "guid": "d90dca1a-05b4-412a-84f3-17d03ac16748",
+                  "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 202.75pt;\"><p>Volunteer Administrator</p></td><td style=\"vertical-align: top; width: 262.75pt;\"><p>UC-3: Generate Daily Report</p></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "id": "60",
+              "guid": "8900ace9-2a97-4677-994f-f360768f4634",
+              "heading": "Use Case Templates",
+              "children": [
+                {
+                  "id": "61",
+                  "guid": "34276038-63d6-4d31-90c0-6601187635bc",
+                  "heading": "Use Case 1: Create New Senior Profile",
+                  "children": [
+                    {
+                      "id": "62",
+                      "guid": "074c27ae-d6f8-4a1e-af8c-6eb8ab448dd3",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">UC-1: Create New Senior Profile</span></p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "63",
+                      "guid": "ece7c46e-8d81-427c-b1be-0fb76ac2ad74",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Employee</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "64",
+                      "guid": "3f186e9d-83a8-4cef-841b-54d5aa223430",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>SPCC Employee</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "65",
+                      "guid": "bb52f2bc-0132-4e8d-acf6-c2d52f4cd33f",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Senior Person</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "66",
+                      "guid": "965aa500-7efc-42bb-819e-5cfd83da0800",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Allows an SPCC employee to create a senior profile using information provided over the phone.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "67",
+                      "guid": "9eb95233-6c9f-41dc-8def-e38ff6ae1638",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>A senior person calls the SPCC to request support</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "68",
+                      "guid": "c385c645-1b26-4313-b161-6b05f724256d",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The employee is logged in and authorized to use the VMS</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "69",
+                      "guid": "af3cbe0f-d8dd-4696-8e7d-326ee2da2b62",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Postconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>POST-1. The senior's profile and support needs are saved in the system.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "70",
+                      "guid": "0dbd906d-1ed4-4dfa-8691-3f1899906572",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>The employee collects the senior's information.</li><li>The employee enters the information into the VMS.</li><li>The VMS validates and saves the profile.</li><li>The VMS confirms successful creation.</li></ol></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "71",
+                      "guid": "e6c35e5d-f7a3-49ee-a8a2-adfe3503b268",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>The employee searches for an existing profile and updates its information instead.</li></ol></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "72",
+                      "guid": "691abf26-c0c6-4a5e-ad81-ca9c2287d9a8",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><ol start=\"1\" type=\"1\"><li>Missing information prompts the employee to correct the required fields.</li><li>A system error prevents saving, and the VMS displays an error message.</li></ol></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "73",
+                      "guid": "ae238ae4-4d38-465c-8a49-56fbdb4b3591",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "74",
+                      "guid": "9f637fe6-4dec-427a-8676-0830d14ac6cc",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>BR-1. Only authorized employees can create or update senior profiles.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "75",
+                      "guid": "273b942f-7910-4da5-ab66-ec03cf7e5706",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Personal information must be protected from unauthorized access</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "76",
+                      "guid": "3e9cd3e2-27dd-4048-9205-fe2bffce2264",
+                      "text": "<ol start=\"1\" type=\"1\" style=\"text-align: start;\"><li>The employee collects the senior's information.</li><li>The employee enters the information into the VMS.</li><li>The VMS validates and saves the profile.</li><li>The VMS confirms successful creation.</li><li>The employee searches for an existing profile and updates its information instead.</li><li>Missing information prompts the employee to correct the required fields.</li><li>A system error prevents saving, and the VMS displays an error message.</li></ol>"
+                    }
+                  ]
+                },
+                {
+                  "id": "77",
+                  "guid": "59ab2dce-e927-46f0-9618-69f6c8b8deb1",
+                  "heading": "Use Case 2: Approve New Volunteer",
+                  "children": [
+                    {
+                      "id": "78",
+                      "guid": "12c9b932-03c9-47fe-9afa-cabcb70caa60",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span style=\"color:black;\">ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span style=\"color:black;\"><span> </span></span><span style=\"color:#0D0D0D;\">UC-2: Approve New Volunteer</span></p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "79",
+                      "guid": "e0107407-03b7-4322-ab37-a65f11725734",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Administrator</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>October 17, 2026</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "80",
+                      "guid": "d9f9d200-ec1a-4c55-9929-08e4a8b50002",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer Administrator</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "81",
+                      "guid": "2c3a9e13-268f-4167-a46e-f2443611724a",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer; Government Background Check System (BCS); Educational Certificate Verification Authority</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "82",
+                      "guid": "522c7eef-b8a6-4b89-a3bd-2ff441b936e1",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Allows an administrator to screen a volunteer, verify required information, and approve eligible applicants.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "83",
+                      "guid": "401a700a-5346-41fd-9d8b-2085eafe0410",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>A newly registered volunteer is ready for administrative review.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "84",
+                      "guid": "667190a8-d80b-4048-a40e-bd7b62874481",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The volunteer has submitted a profile.</p><p>PRE-2. The administrator is logged in and authorized.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "85",
+                      "guid": "9b5f4443-d997-425a-9371-5b5daf857f2a",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. The administrator reviews the volunteer's profile.</p><p>2. The administrator submits a background-check request.</p><p>3. The BCS returns the result when available.</p><p>4. Educational certificates are verified if the volunteer intends to teach children.</p><p>5. The administrator approves the volunteer if all required checks are satisfactory</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "86",
+                      "guid": "f3c36176-4e63-44b3-bfc9-141d8b52d22d",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. If educational verification is not required, the process continues without it.</p><p>2. If a check is pending, the volunteer remains unapproved until the result is available.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "87",
+                      "guid": "2cd5f446-71b2-4262-8221-2d7e6453456e",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. An unsatisfactory background check prevents approval.</p><p>2. If the BCS is unavailable, the check remains pending until it can be processed.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "88",
+                      "guid": "06d93c71-9834-4537-a342-94137a59df9c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "89",
+                      "guid": "af95f131-fd6d-493a-be83-d37c5db9caa1",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>BR-1. Volunteers must pass the required background check before approval.</p><p>BR-2. Educational certificates must be verified for teaching volunteers.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "90",
+                      "guid": "c63d3306-cc69-4a7a-8779-5300ecb3cf90",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Assumptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The government BCS is available during its operating hours.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "91",
+                      "guid": "551db0c7-703a-476f-ab1f-0acd3c126f7c",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The VMS tracks background checks but does not perform them itself.</p></td></tr></tbody></table>"
+                    }
+                  ]
+                },
+                {
+                  "id": "92",
+                  "guid": "9295688d-601f-435c-96a1-5b83f10f501e",
+                  "heading": "Use Case 3: Generate Daily Report",
+                  "children": [
+                    {
+                      "id": "93",
+                      "guid": "b867837f-4ac2-413b-97b5-5f981a64745f",
+                      "text": "<table style=\"width:444.0pt;\"><tbody><tr><td style=\"width:1.5in;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td style=\"width:336.0pt;\"><p><span><span> </span></span><span style=\"color:#0D0D0D;\">UC-3: Generate Daily Report</span></p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "94",
+                      "guid": "ed9136b6-04db-49ba-a168-7053562a56c5",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Author:</p></td><td style=\"vertical-align: top; width: 107.25pt;\"><p>&nbsp;Administrator</p></td><td style=\"vertical-align: top; width: 93.75pt;\"><p style=\"text-align: right;\">Date Created:</p></td><td style=\"vertical-align: top; width: 135pt;\"><p>&nbsp;October 17, 2026</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "95",
+                      "guid": "5395f144-dcdf-4a8e-84c1-2ac5a8b4628b",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Primary Actor:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Volunteer Administrator</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "96",
+                      "guid": "3f95d025-d137-45a2-b428-c2b507e08e1f",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Secondary Actors:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>VMS Forecasting Component; Senior Case Database; Volunteer Records Database</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "97",
+                      "guid": "54891dbd-d88c-480b-9585-b3daf37876c9",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Description:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Generates a daily report forecasting senior support cases for the following week and identifying possible volunteer shortages.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "98",
+                      "guid": "78841833-9b62-44b7-9178-5d8b6b5be07d",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Trigger:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The daily reporting schedule starts, or an administrator requests a report</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "99",
+                      "guid": "0cdd9a67-d508-454c-b8d5-cc0af418c269",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Preconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>PRE-1. The VMS is operational and the administrator is authorized.</p><p>PRE-2. Relevant case and volunteer data is available.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "100",
+                      "guid": "b6dbcf31-84af-4309-a0f5-cde7de05b4ee",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Postconditions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>POST-1. A daily report is generated and made available to the administrator.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "101",
+                      "guid": "0e6a099e-b438-4611-b774-2daf313de704",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Normal Flow:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. The VMS retrieves senior case and volunteer data.</p><p>2. The system forecasts senior cases for the next seven days.</p><p>3. The system compares expected demand with volunteer availability.</p><p>4. The VMS generates the report and notifies the administrator.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "102",
+                      "guid": "60329b1f-f441-4e6a-991d-4129b96f6c13",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Alternative Flows:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. The administrator manually requests a report instead of waiting for the scheduled report.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "103",
+                      "guid": "b61b362d-8d0b-46d4-9687-3cb79d9a0110",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Exceptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. If required data is unavailable, the VMS displays a warning.</p><p>2. If report generation fails, the system informs the administrator and allows another attempt</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "104",
+                      "guid": "ddf691c9-aee3-47d1-9895-b803f9a5003e",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Priority:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>&nbsp;High</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "105",
+                      "guid": "615fd6e8-8531-47ed-84b4-50c6a5d55fab",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Business Rules:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>1. The daily report must forecast senior case demand for the following seven days.</p><p>2. Senior support is the highest priority for the initial release.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "106",
+                      "guid": "b51d2101-6082-4526-b77a-d478f4cd1387",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Assumptions:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>The system has sufficient data to produce a useful forecast.</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "107",
+                      "guid": "51d78677-b6fd-40c5-815d-b02d875eb7c3",
+                      "text": "<table style=\"text-align: start; width: 444pt;\"><tbody><tr><td style=\"vertical-align: top; width: 1.5in;\"><p style=\"text-align: right;\">Other Information:</p></td><td colspan=\"3\" style=\"vertical-align: top; width: 336pt;\"><p>Forecasts are estimates and cannot guarantee the exact number of future cases</p></td></tr></tbody></table>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "108",
+              "guid": "5f7b0b57-bfc0-4157-861f-b2bc79133432",
+              "heading": "Use Case Diagrams",
+              "children": [
+                {
+                  "id": "109",
+                  "guid": "41a2b694-baf5-4b84-99ee-4fe214ff0511",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The following diagrams show the VMS system boundary, actors, and main use cases. Each diagram represents one of the three selected use cases.</span></p>"
+                },
+                {
+                  "id": "110",
+                  "guid": "d05c57a7-d394-431f-bdd2-b75907d2f135",
+                  "heading": "Diagram 1: Create New Senior Profile",
+                  "children": [
+                    {
+                      "id": "111",
+                      "guid": "7f2b72bc-21c9-4b66-ab56-34d01d96ea7a",
+                      "attachments": [
+                        "URD-111_1_image004.png"
+                      ]
+                    },
+                    {
+                      "id": "112",
+                      "guid": "f4fe4836-595b-468a-9192-3b5fb8b03f32",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The SPCC employee creates or updates a senior profile using information provided by the senior person over the phone.</span></p>"
+                    }
+                  ]
+                },
+                {
+                  "id": "113",
+                  "guid": "07ec63d7-f867-4ad8-82a3-8fbba6286c16",
+                  "heading": "Diagram 2: Approve New Volunteer",
+                  "children": [
+                    {
+                      "id": "114",
+                      "guid": "026928dc-bac0-4a22-b25a-ff6e097a0651",
+                      "attachments": [
+                        "URD-114_1_image006.png"
+                      ]
+                    },
+                    {
+                      "id": "115",
+                      "guid": "b2e54888-ce79-4a3f-8bd1-83b12288a403",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The administrator reviews volunteer information and checks the required background-check and educational verification results before approval.</span></p>"
+                    }
+                  ]
+                },
+                {
+                  "id": "116",
+                  "guid": "75741f1f-c1f8-457a-bd78-5341096292c5",
+                  "heading": "Diagram 3: Generate Daily Report",
+                  "children": [
+                    {
+                      "id": "117",
+                      "guid": "27220368-ba2d-48c4-a6bf-7aefabaaa8b4",
+                      "attachments": [
+                        "URD-117_1_image008.png"
+                      ]
+                    },
+                    {
+                      "id": "118",
+                      "guid": "ffe2ed44-bd68-4233-86b3-350aa1fcc7a9",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The VMS uses senior case and volunteer records to forecast demand for the following seven days, identify potential shortages, and notify the administrator.</span></p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "119",
+              "guid": "6c69b05d-8a79-4a97-b5db-333facbc83d1",
+              "heading": "Activity Diagrams",
+              "children": [
+                {
+                  "id": "120",
+                  "guid": "c5e3456b-06ab-441d-843d-944ec5fa7b4b",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Activity diagrams illustrate the steps, decisions, and outcomes involved in each use case.</span></p>"
+                },
+                {
+                  "id": "121",
+                  "guid": "d315b492-0cff-4ac8-8346-b397767b2283",
+                  "heading": "Activity Diagram 1: Create New Senior Profile",
+                  "children": [
+                    {
+                      "id": "122",
+                      "guid": "b03a158c-1ef1-4a5a-95b3-3c3b656be9a4",
+                      "attachments": [
+                        "URD-122_1_image010.png"
+                      ]
+                    },
+                    {
+                      "id": "123",
+                      "guid": "00b70aeb-34a1-49f9-9eac-d36009494f23",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The employee collects and enters the senior's information. The VMS validates and saves the profile, requesting corrections or displaying an error when necessary.</span></p>"
+                    }
+                  ]
+                },
+                {
+                  "id": "124",
+                  "guid": "965deb2f-b483-4072-bdb3-22df8c77e126",
+                  "heading": "Activity Diagram 2: Approve New Volunteer",
+                  "children": [
+                    {
+                      "id": "125",
+                      "guid": "75dab18a-b427-423f-b15f-77b963eec333",
+                      "attachments": [
+                        "URD-125_1_image012.png"
+                      ]
+                    },
+                    {
+                      "id": "126",
+                      "guid": "210daf0a-def6-4884-a082-a009108a6a6d",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The administrator reviews the volunteer and checks the background-check result. Educational certificates are also verified when required. Approval occurs only after all required checks are satisfactory.</span></p>"
+                    }
+                  ]
+                },
+                {
+                  "id": "127",
+                  "guid": "8bd29ccd-48c4-481a-982c-8e595f8776ef",
+                  "heading": "Activity Diagram 3: Generate Daily Report",
+                  "children": [
+                    {
+                      "id": "128",
+                      "guid": "56286851-704a-492a-affe-43f15e59adf6",
+                      "attachments": [
+                        "URD-128_1_image014.png"
+                      ]
+                    },
+                    {
+                      "id": "129",
+                      "guid": "58a1cd56-d4af-4b73-9ee1-b50b0c78d49a",
+                      "text": "<p><span style=\"color:#0D0D0D;\">Description: The VMS retrieves relevant records, forecasts senior case demand for the next seven days, and identifies potential volunteer shortages. The administrator reviews the report and plans assignments.</span></p>"
+                    }
+                  ]
+                },
+                {
+                  "id": "130",
+                  "guid": "ef914987-66da-47c8-b57f-0db936cfab84",
+                  "heading": "Diagram Symbol Descriptions",
+                  "children": [
+                    {
+                      "id": "131",
+                      "guid": "5439f737-b3ad-4288-87ad-bbdab77faa35",
+                      "text": "<table style=\"width:465.5pt;\"><tbody><tr><td style=\"width:164.5pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Symbol</span></p></td><td style=\"width:301.0pt;\"><p style=\"text-align:center;\"><span style=\"color:#0D0D0D;\">Meaning</span></p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "132",
+                      "guid": "e87f0360-236b-4ad8-8a4b-2621563f689c",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Blue circles</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Start and end points</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "133",
+                      "guid": "7ae6b748-443c-4006-a9b0-bbb6830e2d7e",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Green boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Actions or processes</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "134",
+                      "guid": "4a4a22ed-e64a-4902-abf3-318b41984469",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Yellow diamonds</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Decisions</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "135",
+                      "guid": "c75a454a-5991-4ed6-8514-d720e7c202d5",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Red boxes</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Errors, warnings, or rejection</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "136",
+                      "guid": "fb686936-000b-48e1-94e8-b1849110c65b",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Grey rectangle</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>VMS system boundary</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "137",
+                      "guid": "13cbaf64-437d-44af-8581-27ad633ff593",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Cylinders</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Databases or stored records</p></td></tr></tbody></table>"
+                    },
+                    {
+                      "id": "138",
+                      "guid": "b5590d54-60d0-46ef-86e6-3f76f7d1778b",
+                      "text": "<table style=\"text-align: start; width: 465.5pt;\"><tbody><tr><td style=\"vertical-align: top; width: 164.5pt;\"><p>Arrows</p></td><td style=\"vertical-align: top; width: 301pt;\"><p>Connections or process direction</p></td></tr></tbody></table>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "guid": "b2a37e2b-acdc-4ff7-8bc9-a8d62e5ee0f6",
+          "heading": "Operating Environment",
+          "children": [
+            {
+              "id": "140",
+              "guid": "76d8badc-ba2a-44c8-87bf-64a772793e38",
+              "text": "<p><span>&lt;Describe the environment in which the software will operate, including the hardware platform; operating systems and versions; geographical locations of users, servers, and databases; and organizations that host the related databases, servers, and websites. List any other software components or applications with which the system must peacefully coexist. If extensive technical infrastructure work needs to be performed in conjunction with developing the new system, consider creating a separate infrastructure requirements specification to detail that work.&gt;</span></p>"
+            },
+            {
+              "id": "141",
+              "guid": "11a94218-b8b0-45b3-a8bb-ed2f00f8eb7b",
+              "text": "<p><span style=\"color:#0D0D0D;\">The Volunteer Management System (VMS) will be developed as a web-based application for the City of Kamloops. It will provide a centralized platform for managing volunteers, senior support cases, volunteer approvals, assignments, and daily reports. The system will be accessible to authorized users through an internet connection.</span></p>"
+            },
+            {
+              "id": "142",
+              "guid": "1660c438-ad2d-4d52-9df6-7ce89c3716e5",
+              "heading": "Hardware and Software Environment",
+              "children": [
+                {
+                  "id": "143",
+                  "guid": "0e1ebe85-9bc2-4e90-adee-1a73b5edfc19",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The VMS will be accessible through desktop computers, laptops, tablets, and smartphones. Users will be able to access the system using modern web browsers, such as Google Chrome, Microsoft Edge, Safari, or Firefox. The application will run on a web server connected to a database that stores volunteer profiles, senior information, background-check statuses, qualifications, availability, and assignment records.</span></p>"
+                },
+                {
+                  "id": "144",
+                  "guid": "284a854a-b190-45b7-b095-b8454d923f65",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The specific server hardware, operating system, database technology, and hosting provider have not yet been selected. These technical details will be determined during the design and implementation stages.</span></p>"
+                }
+              ]
+            },
+            {
+              "id": "145",
+              "guid": "8ddd4757-61c0-4ccf-99ec-74499b72a1a7",
+              "heading": "Network and External Systems",
+              "children": [
+                {
+                  "id": "146",
+                  "guid": "37f22c82-af7e-4d82-8070-eec047c3a51a",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The system will primarily serve users located in Kamloops, British Columbia, including SPCC employees, volunteer administrators, school administrators, and volunteers. Reliable internet access will be required to use the application.</span></p>"
+                },
+                {
+                  "id": "147",
+                  "guid": "e8c19875-8f55-4312-bbfa-3d83b09d2f9a",
+                  "text": "<p><span style=\"color:#0D0D0D;\">The VMS will depend on the government's Background Check System (BCS) to process volunteer background checks. Since this process includes manual police approval, delays may occur outside the VMS's control. The system may also use an email, SMS, or in-application notification service to inform administrators about volunteer assignments, upcoming demand, and potential shortages.</span></p>"
+                }
+              ]
+            },
+            {
+              "id": "148",
+              "guid": "7630a3cb-9f93-4a01-ba4d-dc93886e5d36",
+              "heading": "Security and Deployment Considerations",
+              "children": [
+                {
+                  "id": "149",
+                  "guid": "22f8a491-8d4f-4d1a-87c9-6425302d8f82",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Because the VMS will store personal information about volunteers, senior citizens, and students, it must provide secure login, role-based access control, and appropriate protection of sensitive data. Volunteers must only be able to access student information for students with whom they have been matched, while authorized administrators may access information required for their responsibilities.</span></p>"
+                },
+                {
+                  "id": "150",
+                  "guid": "7c8ef51b-dd01-4daa-b3f5-18e3e8f3da45",
+                  "text": "<p><span style=\"color:#0D0D0D;\">Before public release, the system should be tested to ensure that volunteer registration, background-check tracking, case management, and daily report generation work correctly. Training should be provided to SPCC employees and administrators so they can use the system effectively. A pilot period should also be conducted to identify and resolve problems before the system is fully deployed.</span></p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "guid": "70a16d1b-9466-4d03-bf03-c1e7c39f0c03",
+          "heading": "Design and Implementation Constraints",
+          "children": [
+            {
+              "id": "152",
+              "guid": "5d6b106a-89ab-4f8d-9254-9736894f9e6d",
+              "text": "<p>The development of the Volunteer Management System (VMS) is subject to the following constraints:</p><p><br></p>"
+            },
+            {
+              "id": "153",
+              "guid": "76175e33-3e7f-4572-95e8-2fb40998ec3c",
+              "text": "<p>1) Privacy and Security: Volunteers must only access student information for students they are assigned to.</p>"
+            },
+            {
+              "id": "154",
+              "guid": "780e7f75-9e5e-4757-9609-7bc5630eb5bf",
+              "text": "<p>2) Accessibility: SPCC employees must be able to create and update senior profiles while communicating with seniors over the phone.</p>"
+            },
+            {
+              "id": "155",
+              "guid": "73c5e6bf-be39-4420-a417-d78eab4473fc",
+              "text": "<p>3) Volunteer Approval: Volunteers must pass the required background checks before being approved. Educational certificates must also be verified for volunteers who teach students.</p>"
+            },
+            {
+              "id": "156",
+              "guid": "6cd0f235-f44b-4a33-b3b7-2ddcbf29b488",
+              "text": "<p>4) External System Dependency: The VMS depends on the Background Check System (BCS), which requires police approval and operates during working hours.</p>"
+            },
+            {
+              "id": "157",
+              "guid": "a057ceda-759e-4111-9e1d-a7c66aa7f6ea",
+              "text": "<p>5) Usability: The application must be simple and easy for volunteers to use.</p>"
+            },
+            {
+              "id": "158",
+              "guid": "1c4f056a-3167-4cd9-a8d3-330ce224f6a0",
+              "text": "<p>6) Performance: The system must handle varying numbers of daily cases and generate reports forecasting the following week's demand.</p>"
+            },
+            {
+              "id": "159",
+              "guid": "504d64ac-33d8-4d6d-8869-3ebc4c6bb0ef",
+              "text": "<p>7) User Restrictions: Students cannot directly access the system to request volunteers; school administrators must submit requests on their behalf.</p>"
+            }
+          ]
+        },
+        {
+          "id": "160",
+          "guid": "2ab7cb11-b138-4a8e-81ad-bb35d445a79b",
+          "heading": "Assumptions and Dependencies",
+          "children": [
+            {
+              "id": "161",
+              "guid": "35b3b652-848a-47f7-b4f6-62ca479a9836",
+              "heading": "Assumptions"
+            },
+            {
+              "id": "162",
+              "guid": "6cf8111f-b0ee-425b-a0a7-e433a3590fee",
+              "text": "<p>1) The demand for senior support and student assistance will change with time.</p>"
+            },
+            {
+              "id": "163",
+              "guid": "128c86c0-f37c-46dd-8f62-a01459b55102",
+              "text": "<p>2) Volunteers will have access to a computer or smartphone and know how to use basic technology.</p>"
+            },
+            {
+              "id": "164",
+              "guid": "6ddc9ba2-0b9c-49a2-a637-c8922a4fe188",
+              "text": "<p>3) A sufficient number of volunteers will register and take part in their assigned activities.</p>"
+            },
+            {
+              "id": "165",
+              "guid": "6abb772a-3b84-4e03-b005-e8206f3e96a5",
+              "text": "<p>4) Volunteers and SPCC employees will enter correct and updated information.</p>"
+            },
+            {
+              "id": "166",
+              "guid": "61b97f75-0f82-47b7-83e7-c7ff0190e946",
+              "text": "<p>5) Enough storage capacity will be available to keep senior profiles, volunteer records, and assignment details.</p>"
+            },
+            {
+              "id": "167",
+              "guid": "a60782e1-c017-43fa-a263-ff896c4ba8c4",
+              "text": "<p>6) The organization will have the resources required to maintain and update the VMS.</p>"
+            },
+            {
+              "id": "168",
+              "guid": "fb1d663c-bf3a-4f17-8459-e4583e895f9f",
+              "text": "<p>7) Enough historical data will be available to estimate the number of support cases for the following week.</p>"
+            },
+            {
+              "id": "169",
+              "guid": "1de66177-ccf0-4180-90c8-29a1e395fb32",
+              "text": "<p>8) Users will have a stable internet connection to access the application.</p>"
+            },
+            {
+              "id": "170",
+              "guid": "01a4a392-d1c6-42f9-8583-18cb68c3b183",
+              "text": "<p>9) The VMS will be accessible when authorized users need to use it.</p>"
+            },
+            {
+              "id": "171",
+              "guid": "0cb0c198-5ffa-4585-9ab8-d6ff884f75b6",
+              "heading": "Dependencies"
+            },
+            {
+              "id": "172",
+              "guid": "ee87f9a3-8461-45b2-8897-ff4ae53530cb",
+              "text": "<p>1) The VMS will rely on the government's Background Check System (BCS) to screen volunteers before they are approved.</p>"
+            },
+            {
+              "id": "173",
+              "guid": "3463855b-1689-4a34-baf5-a89ac33c17bd",
+              "text": "<p>2) Police officers must be available during working hours to complete background-check approvals.</p>"
+            },
+            {
+              "id": "174",
+              "guid": "d7c16a2e-af3e-46d7-b97f-875cc0842664",
+              "text": "<p>3) SPCC employees will collect, enter, and maintain senior people's information in the system.</p>"
+            },
+            {
+              "id": "175",
+              "guid": "9213da58-8c12-471a-950d-de298e8b14d8",
+              "text": "<p>4) School administrators will send requests for student assistance through the VMS.</p>"
+            },
+            {
+              "id": "176",
+              "guid": "96e4db61-06f6-4386-ac4a-55cdc82fe1ef",
+              "text": "<p>5) Volunteers must provide their personal details and preferred activities to receive suitable recommendations.</p>"
+            },
+            {
+              "id": "177",
+              "guid": "0048e821-f07b-4635-91ea-9c601aee781e",
+              "text": "<p>6) Daily forecasts will rely on accurate data about support cases and volunteer availability.</p>"
+            },
+            {
+              "id": "178",
+              "guid": "b3ca9aa8-e68e-4b17-96ae-6716a9854152",
+              "text": "<p>7) Access to the VMS will require a working internet connection.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "guid": "e7e07f4c-5211-4b0f-bcf6-07e5bdf6a37c",
+      "heading": "System Features",
+      "children": [
+        {
+          "id": "180",
+          "guid": "e4464e25-aa47-4d59-a901-992ba51b9386",
+          "text": "<p><span>&lt;This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, stimulus, response, or combinations of these, whatever makes the most logical sense for your product.&gt;</span></p>"
+        },
+        {
+          "id": "181",
+          "guid": "517bf1b3-f49c-47ba-9ad4-38937b0a64a2",
+          "heading": "System Feature 1",
+          "children": [
+            {
+              "id": "182",
+              "guid": "b8bdfb7a-969c-4a23-910c-b9a1865117fa",
+              "text": "<p><span>&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></p>"
+            },
+            {
+              "id": "183",
+              "guid": "3082f77b-281a-499d-8a38-f4eac79ac139",
+              "heading": "Description",
+              "children": [
+                {
+                  "id": "184",
+                  "guid": "1c980765-eaa0-45b1-812c-8b4dfee7589b",
+                  "text": "<p><span><a>&lt;Provide a short description of the feature and indicate whether it is of High, Medium, or Low priority.&gt;</a></span></p>"
+                }
+              ]
+            },
+            {
+              "id": "185",
+              "guid": "04e38813-8b7d-4d42-82cb-3cc9b225e21c",
+              "heading": "Stimulus/Response Sequences",
+              "children": [
+                {
+                  "id": "186",
+                  "guid": "54a444b3-8308-43d0-af67-f084377a6e98",
+                  "text": "<p><span><a>&lt;List the sequences of user actions and system responses that stimulate the behavior defined for this feature. These will correspond to the dialog elements associated with use cases.&gt;</a></span></p>"
+                }
+              ]
+            },
+            {
+              "id": "187",
+              "guid": "bad1d5f0-fd7a-43d7-b0dd-b99b690c77d5",
+              "heading": "Functional Requirements",
+              "children": [
+                {
+                  "id": "188",
+                  "guid": "08725736-ba07-4274-a1c6-222d2f48bec1",
+                  "text": "<p><span><a>&lt;Itemize the specific functional requirements associated with this feature. These are the software capabilities that must be implemented for the user to carry out the feature's services or to perform a use case. Describe how the product should respond to anticipated error conditions. Use “TBD” as a placeholder to indicate when&nbsp;</a><span><span>necessary</span></span><span> information is not yet available.&gt;</span></span></p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "guid": "34bbd3fd-72d4-4912-b762-38208988eb52",
+          "heading": "Data Dictionary"
+        },
+        {
+          "id": "190",
+          "guid": "07f5ddca-7544-44a1-a07c-219ff1420783",
+          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
+        },
+        {
+          "id": "191",
+          "guid": "841b8b19-cf14-4cfe-8ef0-897cf617b479",
+          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
+        },
+        {
+          "id": "192",
+          "guid": "a3ff062f-a5a3-4884-bca9-986d7c06d02e",
+          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
+        },
+        {
+          "id": "193",
+          "guid": "553ca4f5-864d-4f7a-9c14-551a17713754",
+          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
+        },
+        {
+          "id": "194",
+          "guid": "3c96621c-c1ca-4769-89e9-38b9d81a0d85",
+          "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"><col style=\"width: 20.0000%;\"></colgroup><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table>"
+        },
+        {
+          "id": "195",
+          "guid": "70e9d665-a022-431c-ac8c-fa2e6af6d6e0",
+          "heading": "Reports"
+        },
+        {
+          "id": "196",
+          "guid": "dc066644-4824-44b7-8410-efc003be3703",
+          "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Content:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;the report date, new volunteers registered, new cases registered, assignments made, accepted, declined and pending, cases still open, and volunteers currently not assigned.</span></li></ul>"
+        },
+        {
+          "id": "197",
+          "guid": "6531a285-2137-4d13-af09-8786feca1bf3",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Detail section:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;one line per assignment that day, showing the volunteer name, ID, category and status.</span></p></li></ul>"
+        },
+        {
+          "id": "198",
+          "guid": "2417b7f7-6bfc-45bf-bf09-37c7621d75b6",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by assignment status, then by case priority (High first).</span></p></li></ul>"
+        },
+        {
+          "id": "199",
+          "guid": "f6ead873-8e32-4575-81c9-8d2294466c1f",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Totals:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;a count for each status plus a grand total.</span></p></li></ul>"
+        },
+        {
+          "id": "200",
+          "guid": "b05c9e64-8022-4f04-aa8e-6f74c747658b",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer History Report</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;</span></p>"
+        },
+        {
+          "id": "201",
+          "guid": "28dd16a9-4f38-4b25-a39b-382ee096bb36",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Content:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;the volunteer’s past assignments (case, category, dates, outcome), their engagement score, and their interested case categories.</span></p>"
+        },
+        {
+          "id": "202",
+          "guid": "899a1e35-6d68-413b-bce0-fd3f79ec5c47",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sort order:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;most recent assignment first.</span></p></li></ul>"
+        },
+        {
+          "id": "203",
+          "guid": "5570735a-551d-40bf-8157-2c25b2af233a",
+          "heading": "Data Acquisition, Integrity, Retention, and Disposal"
+        },
+        {
+          "id": "204",
+          "guid": "9f906645-72de-463e-9f81-edc87b516a4c",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Acquisition:</span></p>"
+        },
+        {
+          "id": "205",
+          "guid": "230e8b91-4367-44a7-95ff-2c3c342de57a",
+          "text": "<ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Volunteer data is entered by the administrator in the Create New Volunteer use case.</span></li></ul>"
+        },
+        {
+          "id": "206",
+          "guid": "0a91e3b4-d111-49e2-a1e5-d15ebf1bfa5b",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Case data is entered by SPCC employees.</span></p></li></ul>"
+        },
+        {
+          "id": "207",
+          "guid": "ea86e977-1e38-4a0c-b6b2-629f720a3599",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment and notification data are generated by the system during Assign Volunteer.</span></p></li></ul>"
+        },
+        {
+          "id": "208",
+          "guid": "285e9df0-68ee-4542-9acb-ef1e75c9691f",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Engagement scores and reports are calculated by the system from stored data and are never entered by hand.</span></p></li></ul>"
+        },
+        {
+          "id": "209",
+          "guid": "d8cc1c95-7b54-4d30-abee-e2e4ffb10abb",
+          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Integrity:</span></p>"
+        },
+        {
+          "id": "210",
+          "guid": "792eba99-5b03-4eb7-ae55-c176fc543a41",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall reject a volunteer or case record when required fields are missing or invalid.</span></p></li></ul>"
+        },
+        {
+          "id": "211",
+          "guid": "d68f8bdc-abe5-4110-9e1f-9a426e287768",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system shall prevent assigning a volunteer who is not in “Not assigned” status, and prevent assigning a case that already has an active assignment.</span></p></li></ul>"
+        },
+        {
+          "id": "212",
+          "guid": "ec026eab-3a57-4e9c-8ed5-7068d8d38eb0",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assignment history shall not be edited after completion. Corrections are recorded as new entries.</span></p></li></ul>"
+        },
+        {
+          "id": "213",
+          "guid": "8ef8ba7f-8402-418b-b6c0-6d674b216a05",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Only administrators may change assignments, and volunteers may view only their own data.</span></p></li></ul>"
+        },
+        {
+          "id": "214",
+          "guid": "e207678f-c533-4b66-8bfd-7841fbd95dd8",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Retention and disposal:</span></p>"
+        },
+        {
+          "id": "215",
+          "guid": "31f0afcd-993f-4808-b36e-661507b14698",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">When a volunteer leaves, they are marked “Inactive” rather than deleted, so history and reports stay consistent.</span></p></li></ul>"
+        },
+        {
+          "id": "216",
+          "guid": "37818218-7dc9-41b2-a022-7ceaacdf965e",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Personal data (contact details) shall be permanently deleted or anonymized when the retention period ends or on a verified request from the volunteer.</span></p></li></ul>"
+        },
+        {
+          "id": "217",
+          "guid": "88fa44b0-627c-41ff-9304-3d2581305e64",
+          "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Backups follow the same retention and disposal rules as the live data.</span></p></li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "guid": "5b57a0ec-b29d-4370-995b-b3d62be58de0",
+      "heading": "Data Requirements",
+      "children": [
+        {
+          "id": "219",
+          "guid": "7d20bfc8-3a0c-42c6-91f5-0cc41a2a4608",
+          "text": "<p><span>&lt;This section describes various aspects of the data that the system will consume as inputs, process in some fashion, or create as outputs.&gt;</span></p>"
+        },
+        {
+          "id": "220",
+          "guid": "faa1dc59-bc0a-4327-bd2e-44ece42bbbca",
+          "heading": "Logical Data Model",
+          "children": [
+            {
+              "id": "221",
+              "guid": "0ca55f77-2551-4e37-be80-ce41e86c1096",
+              "text": "<p><span>&lt;A data model is a visual representation of the data objects and collections the system will process and the relationships between them. Include a data model for the business operations being addressed by the system, or a logical representation for the data that the system itself will manipulate. Data models are most commonly created as an entity-relationship diagram.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "222",
+          "guid": "682aa197-2af9-4b9b-8849-1fa6b748df5e",
+          "heading": "Data Dictionary",
+          "children": [
+            {
+              "id": "223",
+              "guid": "7cb0087a-9262-4be1-89c4-688201b435a1",
+              "text": "<p><span>&lt;The data dictionary defines the composition of data structures and the meaning, data type, length, format, and allowed values for the data elements that make up those structures. In many cases, you're better off storing the data dictionary as a separate artifact, rather than embedding it in the middle of an SRS. That also increases its reusability potential in other projects.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "224",
+          "guid": "380c2539-27f1-41fa-9c23-a9eb0575636e",
+          "heading": "Reports",
+          "children": [
+            {
+              "id": "225",
+              "guid": "0e74517a-833a-41d1-96d5-820b035d53a5",
+              "text": "<p><span>&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined <span>layout</span> you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "226",
+          "guid": "b031a982-71d9-4526-acea-511a2dc5079b",
+          "heading": "Data Acquisition, Integrity, Retention, and Disposal",
+          "children": [
+            {
+              "id": "227",
+              "guid": "0db69177-15f3-495f-b21c-ba10cb1912ab",
+              "text": "<p><span>&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;</span></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "guid": "e062e82a-c053-4fde-820b-d13014094add",
+      "heading": "External Interface Requirements",
+      "children": [
+        {
+          "id": "229",
+          "guid": "19e6fb17-1b87-444d-881b-ae5aa77c3e79",
+          "text": "<p>&lt;This section provides information to ensure that the system will communicate properly with users and with external hardware or software elements.&gt;</p>"
+        },
+        {
+          "id": "230",
+          "guid": "7b734261-891f-4724-bc7a-2edd6326c94b",
+          "heading": "User Interfaces",
+          "children": [
+            {
+              "id": "231",
+              "guid": "28500b82-aa42-45db-89c8-c064d67384a3",
+              "text": "<p>&lt;Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed. Details of the user interface design should be documented in a separate user interface specification.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "232",
+          "guid": "b9df082b-ea55-485c-96d2-b4fcf1bf1b9d",
+          "heading": "Software Interfaces",
+          "children": [
+            {
+              "id": "233",
+              "guid": "3a04b03f-63c6-44f0-9f8d-1e409f1743ff",
+              "text": "<p>&lt;Describe the connections between this product and other software components (identified by name and version), including other applications, databases, operating systems, tools, libraries, websites, and integrated commercial components. State the purpose, formats, and contents of the messages, data, and control values exchanged between the software components. Specify the mappings of input and output data between the systems and any translations that need to be made for the data to get from one system to the other. Describe the services needed by or from external software components and the nature of the intercomponent communications. Identify data that will be exchanged between or shared across software components. Specify nonfunctional requirements affecting the interface, such as service levels for responses times and frequencies, or security controls and restrictions.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "234",
+          "guid": "84f8ab7d-c44d-4e5f-9dbc-14b30d4c8a5e",
+          "heading": "Hardware Interfaces",
+          "children": [
+            {
+              "id": "235",
+              "guid": "385b9b47-53ca-4f33-abc7-0adbbdf2851f",
+              "text": "<p><span>&lt;Describe the characteristics of each interface between the software and hardware (if any) components of the system. This description might include the supported device types, the data and control interactions between the software and the hardware, and the communication protocols to be used. List the inputs and outputs, their formats, their valid values or ranges, and any timing issues developers need to be aware of. If this information is extensive, consider creating a separate interface specification document.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "236",
+          "guid": "f43a35ce-024f-4231-b016-f3ee60a7aa8e",
+          "heading": "Communications Interfaces",
+          "children": [
+            {
+              "id": "237",
+              "guid": "af408b57-79fd-408d-852d-f177690b7035",
+              "text": "<p>&lt;State the requirements for any communication functions the product will use, including e-mail, Web browser, network protocols, and electronic forms. Define any pertinent message formatting. Specify communication security or encryption issues, data transfer rates, handshaking, and synchronization mechanisms. State any constraints around these interfaces, such as whether e-mail attachments are acceptable or not.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "238",
+      "guid": "1d746eac-b15c-48be-9075-b06aeeb5ace5",
+      "heading": "Quality Attributes",
+      "children": [
+        {
+          "id": "239",
+          "guid": "f8c961c7-a9fe-4416-9c09-bbaeec5978ee",
+          "heading": "Usability",
+          "children": [
+            {
+              "id": "240",
+              "guid": "5eb2304f-b04c-47c7-be59-8e574507f72c",
+              "text": "<p><span>&lt;Specify any requirements regarding characteristics that will make the software appear to be “user-friendly.” Usability encompasses ease of use, ease of learning; memorability; error avoidance, handling, and recovery; efficiency of interactions; accessibility; and ergonomics. Sometimes these can conflict with each other, as with ease of use over ease of learning. Indicate any user interface design standards or guidelines to which the application must conform.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "241",
+          "guid": "2cc88ce4-40f2-4cd6-aa3d-4bd8a529e6de",
+          "heading": "Performance",
+          "children": [
+            {
+              "id": "242",
+              "guid": "d05cf05e-2678-4d6b-8b02-eeee31e162ec",
+              "text": "<p>&lt;State specific performance requirements for various system operations. If different functional requirements or features have different performance requirements, it's appropriate to specify those performance goals right with the corresponding functional requirements, rather than collecting them in this section.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "243",
+          "guid": "6e7f22b5-6f94-4290-8003-bb5b2e391074",
+          "heading": "Security",
+          "children": [
+            {
+              "id": "244",
+              "guid": "e8b9ff2b-07fc-47ab-b3fc-68fd5673089b",
+              "text": "<p>&lt;Specify any requirements regarding security or privacy issues that restrict access to or use of the product. These could refer to physical, data, or software security. Security requirements often originate in business rules, so identify any security or privacy policies or regulations to which the product must conform. If these are documented in a business rules repository, just refer to them.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "245",
+          "guid": "9ae6a99c-7cd8-409d-bc2e-ef5f879b12ff",
+          "heading": "Safety",
+          "children": [
+            {
+              "id": "246",
+              "guid": "f7c88321-974a-468e-bd7c-e1eff11c0349",
+              "text": "<p><span>&lt;Specify requirements that are concerned with possible loss, damage, or harm that could result from use of the product. Define any safeguards or actions that must be taken, as well as potentially dangerous actions that must be prevented. Identify any safety certifications, policies, or regulations to which the product must conform.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "247",
+          "guid": "7afea499-06e6-41fc-b29c-f6dc00d0acdf",
+          "heading": "[Others as relevant]",
+          "children": [
+            {
+              "id": "248",
+              "guid": "8347bb40-2c80-4447-aea8-973f1be2bae9",
+              "text": "<p>&lt;Create a separate section in the SRS for each additional product quality attribute to describe characteristics that will be important to either customers or developers. Possibilities include availability, efficiency, <span>installability</span>, integrity, interoperability, modifiability, portability, reliability, reusability, robustness, scalability, and verifiability. Write these to be specific, quantitative, and verifiable. Clarify the relative priorities for various attributes, such as security over performance.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "249",
+      "guid": "dcb5b6f6-af4f-4a64-bc72-aea32e962a30",
+      "heading": "Internationalization and Localization Requirements",
+      "children": [
+        {
+          "id": "250",
+          "guid": "c98ebe27-390f-49cc-bf11-fd44b1a81016",
+          "text": "<p><span>&lt;Internationalization and localization requirements ensure that the product will be suitable for use in nations, cultures, and geographic locations other than those in which it was created. Such requirements might address differences in: currency; formatting of dates, numbers, addresses, and telephone numbers; language, including national spelling conventions within the same language (such as American versus British English), symbols used, and character sets; given name and family name order; time zones; international regulations and laws; cultural and political issues; paper sizes used; weights and measures; electrical voltages and plug shapes; and many others.&gt;</span></p>"
+        }
+      ]
+    },
+    {
+      "id": "251",
+      "guid": "0797f754-d726-4e6b-8722-c00a00879a1f",
+      "heading": "Other Requirements",
+      "children": [
+        {
+          "id": "252",
+          "guid": "81dfd64d-898a-4a84-ad6e-e2ad3717b0cc",
+          "text": "<p>&lt;Examples are: legal, regulatory or financial compliance, and standards requirements; requirements for product installation, configuration, startup, and shutdown; and logging, monitoring and audit trail requirements. Instead of just combining these all under \"Other,\" add any new sections to the template that are pertinent to your project. Omit this section if all your requirements are accommodated in other sections. &gt;</p>"
+        }
+      ]
+    },
+    {
+      "id": "253",
+      "guid": "d7d0a05a-43b6-4a67-a129-8d1c205f6764",
+      "heading": "Glossary",
+      "children": [
+        {
+          "id": "254",
+          "guid": "5edb7071-e234-409e-bee5-c829a55b33dc",
+          "text": "<p>&lt;Define any specialized terms that a reader needs to know to understand the SRS, including acronyms and abbreviations. Spell out each acronym and provide its definition. Consider building a reusable enterprise-level glossary that spans multiple projects and incorporating by reference any terms that pertain to this project.&gt;</p>"
+        }
+      ]
+    },
+    {
+      "id": "255",
+      "guid": "f6fe8835-4bb9-423f-abee-d8afebdb6d56",
+      "heading": "Analysis Models",
+      "children": [
+        {
+          "id": "256",
+          "guid": "f5c2763c-8780-402a-99ed-c6b1b8df282b",
+          "text": "<p>&lt;This optional section includes or points to pertinent analysis models such as data flow diagrams, feature trees, state-transition diagrams, or entity-relationship diagrams. You might prefer to insert certain models into the relevant sections of the specification instead of collecting them at the end.&gt;</p>"
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

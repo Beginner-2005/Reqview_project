@@ -6,7 +6,8 @@
   },
   "documents": [
     "VMS.json",
-    "URD c.json"
+    "URD c.json",
+    "URD.json"
   ],
   "traceability": {
     "reference": {
