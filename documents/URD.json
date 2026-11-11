@@ -9,7 +9,7 @@
     "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-11T00:42:19.804Z",
+  "lastChangedOn": "2026-11-11T01:07:40.064Z",
   "lastChangedBy": {
     "name": "T00758528",
     "email": "t00758528@mytru.ca",
@@ -1161,7 +1161,21 @@
             {
               "id": "182",
               "guid": "b8bdfb7a-969c-4a23-910c-b9a1865117fa",
-              "text": "<p><span>&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></p>"
+              "deleted": true,
+              "text": "<p><span>&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T01:07:03.348Z"
+                }
+              ]
             }
           ]
         },
@@ -1760,7 +1774,7 @@
               "id": "342",
               "guid": "66998fff-671f-455b-8ec8-0e6362923396",
               "heading": "Description",
-              "text": "<p>This feature keeps volunteers and administrators informed about important system activities. Volunteers receive updates about new assignments, while administrators receive alerts about possible volunteer shortages and upcoming support needs. Notifications may be sent by email, SMS, or through the VMS.</p><p><br></p><p><br></p><p>Priority: High</p>",
+              "text": "<p>This feature keeps volunteers and administrators informed about important system activities. Volunteers receive updates about new assignments, while administrators receive alerts about possible volunteer shortages and upcoming support needs. Notifications may be sent by email, SMS, or through the VMS.</p><p><br></p><p>Priority: High</p>",
               "history": [
                 {
                   "affectedNodeId": "328",
@@ -1784,6 +1798,17 @@
                     "name": "T00758528"
                   },
                   "changedOn": "2026-11-11T00:28:30.668Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This feature keeps volunteers and administrators informed about important system activities. Volunteers receive updates about new assignments, while administrators receive alerts about possible volunteer shortages and upcoming support needs. Notifications may be sent by email, SMS, or through the VMS.</p><p><br></p><p><br></p><p>Priority: High</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T01:07:40.064Z"
                 }
               ]
             },
@@ -3862,6 +3887,10 @@
     }
   ],
   "attributes": {
+    "IM": {
+      "name": "Implification",
+      "type": "string"
+    }
   },
   "templateColumns": {
   },
