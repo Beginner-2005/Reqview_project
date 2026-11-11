@@ -2,17 +2,17 @@
   "id": "URD",
   "guid": "62e9e4b3-d61e-4e21-babc-17eda0625b1b",
   "name": "User Required Document",
-  "lastId": 317,
+  "lastId": 347,
   "createdOn": "2026-11-10T20:52:31.900Z",
   "createdBy": {
     "name": "T00737402",
     "email": "t00737402@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-10T21:47:54.631Z",
+  "lastChangedOn": "2026-11-11T00:42:19.804Z",
   "lastChangedBy": {
-    "name": "T00737402",
-    "email": "t00737402@mytru.ca",
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -999,51 +999,988 @@
         {
           "id": "180",
           "guid": "e4464e25-aa47-4d59-a901-992ba51b9386",
-          "text": "<p><span>&lt;This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, stimulus, response, or combinations of these, whatever makes the most logical sense for your product.&gt;</span></p>"
+          "text": "<p>This section presents the main features of the Volunteer Management System (VMS), describing the services it provides and how users interact with the system.</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p><span>&lt;This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, stimulus, response, or combinations of these, whatever makes the most logical sense for your product.&gt;</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:33:37.460Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>This section describes the main features of the Volunteer Management System (VMS) and the services it provides. It explains how volunteers, seniors, SPCC employees, and administrators interact with the system. Each feature includes a description, stimulus/response sequences, and functional requirements that explain how the system should operate and respond to user actions.</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:37:35.477Z"
+            }
+          ]
         },
         {
           "id": "181",
           "guid": "517bf1b3-f49c-47ba-9ad4-38937b0a64a2",
-          "heading": "System Feature 1",
+          "heading": "Volunteer Registration and Profile Management",
+          "history": [
+            {
+              "attributesChanged": {
+                "heading": "System Feature 1"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:09:44.650Z"
+            }
+          ],
           "children": [
+            {
+              "id": "319",
+              "guid": "ba5ad59e-c3eb-46d5-a2c7-b7432461e0fc",
+              "heading": "Description",
+              "text": "<p>This feature allows individuals to register as volunteers and maintain their profiles. Volunteers can provide personal details, skills, qualifications, interests, and availability. Administrators can review and manage these records.</p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "181",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:11:39.085Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:11:39.085Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "3.1.1 Description"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:11:55.558Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This feature allows individuals to register as volunteers and maintain their profiles. Volunteers can provide personal details, skills, qualifications, interests, and availability. Administrators can review and manage these records.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:12:30.916Z"
+                }
+              ]
+            },
+            {
+              "id": "321",
+              "guid": "a5cc1470-95ae-47c7-9fba-2d47fe83b57f",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. The applicant opens the registration page, and the system displays the volunteer registration form.</p><p>2. The applicant enters personal details, skills, qualifications, interests, and availability, and the system accepts the information.</p><p>3. The applicant submits the form, and the system checks that all required fields are complete.</p><p>4. If the information is complete, the system saves the volunteer profile and displays a confirmation message.</p><p>5. If required information is missing, the system identifies the missing fields and asks the applicant to complete them.</p><p>6. The volunteer later opens their profile and submits changes, and the system saves the updated information.</p><p>7. An administrator opens a volunteer profile, and the system displays the volunteer's information for review.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "181",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:14:35.265Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:14:35.265Z"
+                }
+              ]
+            },
+            {
+              "id": "322",
+              "guid": "e6d2d11f-1c04-4823-88ba-e847f797da18",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-1.1: The system shall provide a registration form for individuals who wish to become volunteers.</p><p>- FR-1.2: The system shall collect and store volunteers' personal details, skills, education, qualifications, interests, and availability.</p><p>- FR-1.3: The system shall allow volunteers to view and update their profile information and availability.</p><p>- FR-1.4: The system shall allow administrators to review and manage volunteer profiles.</p><p>- FR-1.5: The system shall identify missing required information and display an error message before saving.</p><p>- FR-1.6: The system shall maintain certificate verification status for qualifications that require verification.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "181",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:15:55.250Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:15:55.250Z"
+                }
+              ]
+            },
             {
               "id": "182",
               "guid": "b8bdfb7a-969c-4a23-910c-b9a1865117fa",
               "text": "<p><span>&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "323",
+          "guid": "ff4d90b8-1a81-4798-a71f-9e7b914f02ab",
+          "heading": "Background Checks and Volunteer Approval",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:16:43.593Z",
+              "docId": "URD",
+              "structureAction": "Create"
             },
             {
-              "id": "183",
-              "guid": "3082f77b-281a-499d-8a38-f4eac79ac139",
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:16:43.593Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "330",
+              "guid": "12a7dcb6-d684-4bc8-9046-e9bad926f156",
               "heading": "Description",
-              "children": [
+              "text": "<p>This feature allows administrators to review volunteer applications and manage the required screening process. The VMS communicates with the government's Background Check System (BCS), and volunteers can only be approved after completing the required checks.</p><p><br></p><p>Priority: High</p>",
+              "history": [
                 {
-                  "id": "184",
-                  "guid": "1c980765-eaa0-45b1-812c-8b4dfee7589b",
-                  "text": "<p><span><a>&lt;Provide a short description of the feature and indicate whether it is of High, Medium, or Low priority.&gt;</a></span></p>"
+                  "affectedNodeId": "323",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:19:16.595Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:19:16.595Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This feature allows administrators to review volunteer applications and manage the required screening process. The VMS communicates with the government's Background Check System (BCS), and volunteers can only be approved after completing the required checks.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:19:34.051Z"
                 }
               ]
             },
             {
-              "id": "185",
-              "guid": "04e38813-8b7d-4d42-82cb-3cc9b225e21c",
+              "id": "331",
+              "guid": "8e7d4653-0662-4e23-add5-21d762023881",
               "heading": "Stimulus/Response Sequences",
-              "children": [
+              "text": "<p>1. The administrator opens a volunteer's registration record, and the system displays the applicant's information and current screening status.</p><p>2. The administrator submits a background check request through the VMS, and the system sends the request to the government's BCS.</p><p>3. The BCS processes the request and returns a result, and the system receives the verification information.</p><p>4. The system updates the volunteer's background check status and displays the result to the administrator.</p><p>5. If all required checks are successful, the administrator approves the volunteer, and the system records the approval.</p><p>6. If the BCS is unavailable or a check is unsuccessful, the system displays the status and informs the administrator.</p>",
+              "history": [
                 {
-                  "id": "186",
-                  "guid": "54a444b3-8308-43d0-af67-f084377a6e98",
-                  "text": "<p><span><a>&lt;List the sequences of user actions and system responses that stimulate the behavior defined for this feature. These will correspond to the dialog elements associated with use cases.&gt;</a></span></p>"
+                  "affectedNodeId": "323",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:19:59.684Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:19:59.684Z"
                 }
               ]
             },
             {
-              "id": "187",
-              "guid": "bad1d5f0-fd7a-43d7-b0dd-b99b690c77d5",
+              "id": "332",
+              "guid": "cceb1453-2307-4843-b6be-892b370d1004",
               "heading": "Functional Requirements",
-              "children": [
+              "text": "<p>- FR-2.1: The system shall allow administrators to review volunteer applications.</p><p>- FR-2.2: The system shall support submitting background check requests through the government's BCS.</p><p>- FR-2.3: The system shall track background check statuses, including pending, completed, and unsuccessful.</p><p>- FR-2.4: The system shall prevent volunteer approval until all required background checks are successfully completed.</p><p>-&nbsp; FR-2.5: The system shall notify administrators when the external BCS is unavailable.</p>",
+              "history": [
                 {
-                  "id": "188",
-                  "guid": "08725736-ba07-4274-a1c6-222d2f48bec1",
-                  "text": "<p><span><a>&lt;Itemize the specific functional requirements associated with this feature. These are the software capabilities that must be implemented for the user to carry out the feature's services or to perform a use case. Describe how the product should respond to anticipated error conditions. Use “TBD” as a placeholder to indicate when&nbsp;</a><span><span>necessary</span></span><span> information is not yet available.&gt;</span></span></p>"
+                  "affectedNodeId": "323",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:20:55.714Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:20:55.714Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "324",
+          "guid": "d0a22d8e-aa08-427a-9143-aa45a8727161",
+          "heading": "Senior Registration and Case Management",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:16:57.429Z",
+              "docId": "URD",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:16:57.429Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "a"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:21:19.973Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "333",
+              "guid": "0c302d07-b697-4810-a610-6f553c87b961",
+              "heading": "Description",
+              "text": "<p>This feature allows SPCC employees to register seniors who request assistance and manage their support cases. Employees collect seniors' personal details and support needs, create new profiles when needed, and update existing records as cases progress.</p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "324",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:21:49.535Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:21:49.535Z"
+                }
+              ]
+            },
+            {
+              "id": "334",
+              "guid": "394f5380-e102-427b-883d-5d7f74f03cc7",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. A senior contacts the SPCC to request assistance, and an SPCC employee collects their personal details and support needs.</p><p>2. The employee searches for the senior's profile, and the system displays any matching records.</p><p>3. If no existing profile is found, the employee creates a new profile, and the system displays a form for the senior's information.</p><p>4. The employee enters or updates the senior's details and requested services, and the system checks the required fields.</p><p>5. If the information is complete, the system saves the new profile or updates the existing record and displays a confirmation message.</p><p>6. The employee updates the case status or closes the case, and the system saves the changes to the case record.</p><p>7. If required information is missing, the system identifies the missing fields and prevents the record from being saved.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "324",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:22:14.461Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:22:14.461Z"
+                }
+              ]
+            },
+            {
+              "id": "335",
+              "guid": "54000fd7-ccde-4ef6-a6e8-a2d3464bd482",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-3.1: The system shall allow authorized SPCC employees to create senior profiles.</p><p>- FR-3.2: The system shall collect and store seniors' personal details, contact information, and requested support services.</p><p>- FR-3.3: The system shall allow employees to search for existing senior profiles to avoid duplicate records.</p><p>- FR-3.4: The system shall allow employees to update senior profiles and manage support case records.</p><p>- FR-3.5: The system shall display the current status of each case and maintain a record of case updates.</p><p>- FR-3.6: The system shall identify missing required information and display an error message before saving.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "324",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:23:01.189Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:23:01.189Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "325",
+          "guid": "81f180aa-8c60-4f02-adeb-482df5efa5e9",
+          "heading": "Volunteer Matching and Assignment",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:09.185Z",
+              "docId": "URD",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:09.185Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "b"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:23:26.680Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "336",
+              "guid": "888f6f25-deb8-43cf-bf73-d6495a3fb6c4",
+              "heading": "Description",
+              "text": "<p>This feature helps administrators find and assign suitable volunteers to senior support cases. The system recommends candidates by comparing case requirements with volunteer qualifications, availability, interests, previous assignments, and engagement scores. Administrators review the recommendations before confirming an assignment.</p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "325",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:23:59.392Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:23:59.392Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This feature helps administrators find and assign suitable volunteers to senior support cases. The system recommends candidates by comparing case requirements with volunteer qualifications, availability, interests, previous assignments, and engagement scores. Administrators review the recommendations before confirming an assignment.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:24:15.208Z"
+                }
+              ]
+            },
+            {
+              "id": "337",
+              "guid": "d143f8ac-012a-4fe9-be08-5fbd4a48edfa",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. An employee creates or updates a senior case, and the system records the case requirements.</p><p>2. The system retrieves profiles of volunteers who have passed the required background checks.</p><p>3. The system compares the case requirements with volunteer qualifications, availability, and interests.</p><p>4. The system considers previous assignments and engagement scores, then displays suitable candidates to the administrator.</p><p>5. The administrator selects a candidate, and the system displays the volunteer's relevant profile and assignment history.</p><p>6. The administrator confirms the assignment, and the system checks that the volunteer is approved and available.</p><p>7. If the volunteer meets the requirements, the system saves the assignment, updates the case record, and notifies the volunteer.</p><p>8. If the volunteer is not approved or is unavailable, the system prevents the assignment and informs the administrator.</p><p>9. If no suitable volunteers are found, the system informs the administrator.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "325",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:24:50.736Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:24:50.736Z"
+                }
+              ]
+            },
+            {
+              "id": "338",
+              "guid": "cb187edd-c5cc-4160-bcfc-1644a504ae11",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-4.1: The system shall recommend volunteers by comparing case requirements with volunteer qualifications, availability, and interests.</p><p>- FR-4.2: The system shall consider previous assignments and engagement scores when recommending volunteers.</p><p>- FR-4.3: The system shall exclude volunteers who have not completed the required background checks.</p><p>- FR-4.4: The system shall allow administrators to review recommended volunteers and their relevant information.</p><p>- FR-4.5: The system shall allow administrators to assign approved volunteers to senior support cases.</p><p>- FR-4.6: The system shall verify volunteer approval and availability before confirming an assignment.</p><p>- FR-4.7: The system shall save confirmed assignments and update the related case records.</p><p>- FR-4.8: The system shall prevent unapproved or unavailable volunteers from being assigned and inform administrators when no suitable candidate is available.</p><p>- FR-4.9: The system shall support completing volunteer assignments within three days after a case is reported.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "325",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:25:47.706Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:25:47.706Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "326",
+          "guid": "89b61e34-531e-41f4-8d13-33e7b3d765c7",
+          "heading": "Volunteer Demand Forecasting and Reporting",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:17.120Z",
+              "docId": "URD",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:17.120Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "c"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:26:09.194Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "339",
+              "guid": "21ea0576-b2d2-4393-9912-9a881bef0567",
+              "heading": "Description",
+              "text": "<p>This feature helps administrators plan volunteer resources by estimating the number of senior cases expected over the next seven days. It also provides daily reports about cases, volunteer availability, assignments, volunteer activity, and possible shortages.</p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "326",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:26:37.218Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:26:37.218Z"
+                }
+              ]
+            },
+            {
+              "id": "340",
+              "guid": "536a8470-7d63-4036-abd2-40bc596c9758",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. At the scheduled forecasting time or when an administrator requests a forecast, the system collects current case records and volunteer availability information.</p><p>2. The system analyzes the information and estimates the number of senior support cases expected over the next seven days.</p><p>3. The system compares expected demand with available volunteer resources and identifies possible shortages.</p><p>4. The system generates a forecast report and makes it available to the administrator.</p><p>5. The administrator opens the reporting section and requests a daily activity report, and the system gathers the latest case and volunteer information.</p><p>6. The system organizes the information into a report and displays it to the administrator.</p><p>7. The administrator reviews the report and uses it to plan upcoming activities.</p><p>8. If required information is unavailable or a report cannot be generated, the system displays an error message.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "326",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:26:59.636Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:26:59.636Z"
+                }
+              ]
+            },
+            {
+              "id": "341",
+              "guid": "9dd663d6-ae24-4100-85a9-38893f97f1e7",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-5.1: The system shall generate daily estimates of expected senior cases for the upcoming seven days.</p><p>- FR-5.2: The system shall use case records and volunteer availability when preparing forecasts.</p><p>- FR-5.3: The system shall identify periods when expected demand may exceed available volunteers.</p><p>- FR-5.4: The system shall allow administrators to request and view forecast reports.</p><p>- FR-5.5: The system shall generate daily reports containing information about cases, volunteer availability, assignments, and previous activities.</p><p>- FR-5.6: The system shall provide volunteer engagement information for administrative review.</p><p>- FR-5.7: The system shall display an error message if required information is unavailable or a report cannot be generated.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "326",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:27:44.133Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:27:44.133Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "328",
+          "guid": "8d72e19e-a246-4a57-9990-5f6ccc380593",
+          "heading": "Notifications and Alerts",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:32.657Z",
+              "docId": "URD",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:32.657Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "d"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:27:58.589Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "342",
+              "guid": "66998fff-671f-455b-8ec8-0e6362923396",
+              "heading": "Description",
+              "text": "<p>This feature keeps volunteers and administrators informed about important system activities. Volunteers receive updates about new assignments, while administrators receive alerts about possible volunteer shortages and upcoming support needs. Notifications may be sent by email, SMS, or through the VMS.</p><p><br></p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "328",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:28:30.668Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:28:30.668Z"
+                }
+              ]
+            },
+            {
+              "id": "343",
+              "guid": "525263a0-e71a-488f-9ac9-c991a7db91e5",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. A new assignment or possible volunteer shortage is recorded, and the system identifies which users need to be informed.</p><p>2. The system prepares the appropriate message and sends it through the selected notification channel.</p><p>3. The volunteer or administrator receives the notification.</p><p>4. If the notification cannot be delivered, the system records the failure and informs the administrators.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "328",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:28:57.283Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:28:57.283Z"
+                }
+              ]
+            },
+            {
+              "id": "344",
+              "guid": "4853a7a9-f47c-4fa1-b7b9-4d64a4d034f7",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-6.1: The system shall notify volunteers when they receive a new assignment.</p><p>- FR-6.2: The system shall alert administrators when possible volunteer shortages are identified.</p><p>- FR-6.3: The system shall provide daily updates about upcoming volunteer requirements.</p><p>- FR-6.4: The system shall support email, SMS, and in-application notifications.</p><p>- FR-6.5: The system shall record unsuccessful notification attempts and inform administrators about delivery problems.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "328",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:29:34.189Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:29:34.189Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "329",
+          "guid": "3a86b9ce-553d-4085-a1a9-2c260aa5fe22",
+          "heading": "User Authentication and Access Control",
+          "history": [
+            {
+              "affectedNodeId": "179",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:39.418Z",
+              "docId": "URD",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:17:39.418Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "e"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00758528@mytru.ca",
+                "name": "T00758528"
+              },
+              "changedOn": "2026-11-11T00:29:47.055Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "345",
+              "guid": "9d96dca0-71eb-47c8-a0ef-c1b5bfc78e0d",
+              "heading": "Description",
+              "text": "<p>This feature protects the VMS by requiring users to sign in and limiting access according to their roles. SPCC employees, volunteer administrators, and volunteers receive access only to the information and functions needed for their responsibilities.</p><p><br></p><p>Priority: High</p>",
+              "history": [
+                {
+                  "affectedNodeId": "329",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:30:20.916Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:30:20.916Z"
+                }
+              ]
+            },
+            {
+              "id": "346",
+              "guid": "9d44a99b-4ef5-47cb-87c2-0ee4e7265a8c",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>1. The user opens the VMS login page, and the system displays the login form.</p><p>2. The user enters their account credentials and submits them, and the system checks whether the information is valid.</p><p>3. If the credentials are correct, the system identifies the user's role and provides access to the permitted features and information.</p><p>4. If the credentials are incorrect, the system displays an error message and does not grant access.</p><p>5. If the user attempts to open a restricted area, the system denies access and displays an appropriate message.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "329",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:30:43.781Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:30:43.781Z"
+                }
+              ]
+            },
+            {
+              "id": "347",
+              "guid": "cd444624-824e-4c7c-819d-f8959af21190",
+              "heading": "Functional Requirements",
+              "text": "<p>- FR-7.1: The system shall require users to log in before accessing protected features.</p><p>- FR-7.2: The system shall verify user credentials before allowing access.</p><p>- FR-7.3: The system shall control available features and information according to user roles.</p><p>- FR-7.4: Only authorized SPCC employees shall be allowed to create, view, and manage senior profiles.</p><p>- FR-7.5: Volunteer approval and assignment functions shall be restricted to authorized administrators.</p><p>- FR-7.6: The system shall protect personal information from unauthorized access.</p><p>- FR-7.7: Volunteers shall only be able to view information about students they have been assigned to work with.</p><p>- FR-7.8: Access to volunteer history and engagement records shall be limited to authorized administrators.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "329",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:31:25.217Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00758528@mytru.ca",
+                    "name": "T00758528"
+                  },
+                  "changedOn": "2026-11-11T00:31:25.217Z"
                 }
               ]
             }
